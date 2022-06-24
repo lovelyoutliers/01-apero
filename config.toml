@@ -113,21 +113,25 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About my research"
-    url = "/about/"
-    weight = 1
-  [[menu.header]]
     name = "Blog"
     title = "New research - blog"
     url = "/blog/"
+    weight = 1
+  [[menu.header]]
+    name = "About MIST"
+    title = "About my research"
+    url = "/about/"
     weight = 2
   [[menu.header]]
+    name = "Research team"
+    title = "Research team"
+    url = "/team/"
+    weight = 3
+   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 3
-
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]

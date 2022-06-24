@@ -2,19 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: MIST Psychiatric Epidemiology brings together research on the social and environmental causes of severe mental illness, self-harm, and suicide. My research has a particular focus on socially excluded populations, including migrants, minority ethnic groups, and those who face material, social, political, or structural exclusion. 
 image_left: true
 images:
-- img/revoir.jpg
+- img/mist.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Exploring mental illness using systems thinking 
 text_align_left: false
-title: Hugo Apéro
+title: MIST Psychiatric Epidemiology
 type: home
 ---
 

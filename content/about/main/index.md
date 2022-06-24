@@ -5,7 +5,7 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: |
+intro: 
   My research aims to explore the drivers of mental illnesses within the social environment, using tools from epidemiology, systems science, and data science. 
   
 ---

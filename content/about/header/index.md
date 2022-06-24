@@ -12,3 +12,9 @@ My research aims to identify the social and environmental causes of severe menta
 In order to tackle these research questions, I use tools from epidemiology, data science, systems thinking, and public mental health.
 
 My long-term goal is to further our understanding of the causal architecture underlying severe mental illnesses and inform policies and population-based interventions which could prevent the onset and reduce the burden of mental health problems in socially excluded groups.
+
+## Research interests
++ Social and spatial determinants of mental illnesses, including psychosis, bipolar disorder, and suicide
++ Public mental health  
++ Epidemiological research methods, particularly longitudinal analysis of big data
++ Systems modelling and simulation
