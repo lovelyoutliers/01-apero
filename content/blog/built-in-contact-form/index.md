@@ -1,5 +1,5 @@
 ---
-author: Eric Anderson
+author: Jen
 categories:
 - Theme Features
 date: "2019-07-01"
