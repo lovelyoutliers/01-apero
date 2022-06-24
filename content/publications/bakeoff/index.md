@@ -39,8 +39,6 @@ Dykxhoorn J, Hollander A-C, Lewis G, Dalman C, Kirkbride JB. [Family networks du
 
 Dykxhoorn J, Hollander A-C, Lewis G, Magnusson C, Dalman C, Kirkbride JB. [Risk of schizophrenia, schizoaffective, and bipolar disorders by migrant status, region of origin, and age-at-migration: A national cohort study of 1.8 million people](https://pubmed.ncbi.nlm.nih.gov/30514409/). Psychol Med. 2019 Oct;49(14):2354-2363.  
 
-Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplinary understanding of psychosis risk amongst migrants and their descendants](https://pubmed.ncbi.nlm.nih.gov/30208980/). Epidemiol Psychiatr Sci. 2019 Apr;28(2):146-152.  
-
 Dykxhoorn J, Hatcher S, Gagnon M-H, Colman I. [Early life predictors of adolescent suicidal thoughts and adverse outcomes in two population-based cohort studies](https://pubmed.ncbi.nlm.nih.gov/28797081/). PLoS One. 2017 Aug 10;12(8):e0183182. 
 
 Orpana H, Vachon J, Dykxhoorn J, Jayaraman G. [Measuring positive mental health in Canada: construct validation of the Mental Health Continuum-Short Form](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5576910/). Health Promotion and Chronic Disease Prevention in Canada. 2017 Apr; 37(4): 123-130.  
@@ -59,11 +57,14 @@ Colman I, Kingsbury M, Weeks M, Ataullahjan A, Belair M, Dykxhoorn J, Hynes K, L
 
 McMartin S, Kingsbury M, Dykxhoorn J, Colman I. [Time trends in symptoms of adolescent mental illness: Findings from a national survey of Canadians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259795/). Canadian Medical Association Journal. 2014 Dec 9; 186(18): 672-678. 
 
+## Commentaries
+Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imperative to address the mental health crises within asylum-seekers and refugees system: a commentary on Hvidtfeldt et al. (2021)](https://link.springer.com/article/10.1007/s00127-022-02318-7). 2022 June 17.
+
+Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplinary understanding of psychosis risk amongst migrants and their descendants](https://pubmed.ncbi.nlm.nih.gov/30208980/). Epidemiol Psychiatr Sci. 2019 Apr;28(2):146-152.  
+
 
 ## Book chapters 
 Dykxhoorn J, Kirkbride JB. The epidemiological burden of major psychiatric disorders. Oxford Textbook of Public Mental Health. Bhugra D et al (eds.). 2017. 
 
 Solmi F, Dykxhoorn J, Kirkbride JB. Urban-rural differences in major mental health conditions. Mental Health and Illness in the City. Mental health and Illness Worldwide 1. P. Munk-Jorgensen et al (eds.). 2017. 
 
- 
- 
