@@ -3,10 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Exploring mental illness through systems thinking (MIST).
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+My research aims to identify the social and environmental causes of severe mental illness, self-harm, and suicide. My research has a particular focus on socially excluded populations, including migrants, minority ethnic groups, and those who face material, social, political, or structural exclusion.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+In order to tackle these research questions, I use tools from epidemiology, data science, systems thinking, and public mental health.
+
+My long-term goal is to further our understanding of the causal architecture underlying severe mental illnesses and inform policies and population-based interventions which could prevent the onset and reduce the burden of mental health problems in socially excluded groups.

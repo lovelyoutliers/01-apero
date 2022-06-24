@@ -1,42 +1,31 @@
 ---
-author: Alison Hill
-categories: null
-date: "2020-12-30"
+title: "Welcome to my research site"
+subtitle: "Under construction - Don't mind the dust!"
+excerpt: "Welcome to my new research site!"
+date: 2022-06-24
+author: "Jen Dykxhoorn"
 draft: false
-excerpt: testing the excerpt field
-images: null
+images: 
+ - img/mist.jpeg
+image_left: true
+show_social_links: true
+series:
+tags: 
+categories:
 layout: single
-series: null
-subtitle: ""
-tags: null
-title: An Rmarkdown post
 ---
 
+## Building websites and my R skills
+One of the great things about academica is that you never stop learning, which is also one of the difficult things, as you are always a beginner and constantly feeling out of your depth. 
 
-## Air quality
+[constantly learning gif if \i can figure out how to do that...]
 
+This site is something that has been on the back-burner for ages. I wanted to have a space where I could share research outputs, connect with other researchers, and experiment with different approaches to science communication, but it was never a "priority."
 
-```r
-with(airquality, boxplot(Temp ~ Month))
-```
+But as I start a new chapter of my research journey, I have committed to becoming more competent in R, so figured I could work on my R coding skills AND build an academic website at the same time. 
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
-
-
-
-```r
-with(airquality, plot(Ozone ~ Temp))
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg template. 
 
 
-```r
-mlev <- levels(with(airquality, as.factor(Month)))
-with(airquality, plot(Ozone ~ Temp, 
-                      pch = as.numeric(mlev), 
-                      col = mlev))
-```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
