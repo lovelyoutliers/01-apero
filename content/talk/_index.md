@@ -1,7 +1,7 @@
 ---
-author: The R Markdown Team @RStudio
+author: Jen Dykxhoorn
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Jen Dykxhoorn
   show_author_byline: true
   show_comments: false
   show_post_date: true
@@ -19,7 +19,7 @@ show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: Jen Dykxhoorn
   description: "This is a list for your talks, workshops, or \nother events with a
     time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
     out the _index.md file in the /talk folder \nto edit this content. \n"
