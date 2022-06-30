@@ -32,7 +32,7 @@ enableEmoji = true
   description = "Exploring mental illness using systems thinking."
   favicon = "/img/favicon 4.ico"
   logo = "/img/jdykxhoorn_icon.png"
-  mainSections = ["blog", "about", "team", "publications"]
+  mainSections = ["about", "blog", "team", "publications"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -134,11 +134,6 @@ enableEmoji = true
     weight = 4
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
