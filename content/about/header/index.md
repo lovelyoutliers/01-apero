@@ -1,8 +1,9 @@
 ---
 ## Configure header of page
 text_align_right: false
+layout: standard
 show_title_as_headline: false
-headline: |
+headline: 
   Exploring mental illness through systems thinking (MIST).
 ---
 

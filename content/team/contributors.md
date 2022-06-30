@@ -1,10 +1,14 @@
 ---
 description: Thanks to all of my mentors, collaborators, and trainees!
 draft: false
-layout: standard
+layout: single
 show_title_as_headline: true
 title: Contributors
-excerpt: Mentors, collaborators, and trainees
+excerpt: The many people who have contributed to this research, including students, collaborators, and mentors [read more...]
+featured: true
+image_left: true
+show_social_links: true
+
 
 ---
 
@@ -22,13 +26,29 @@ Research is not a solitary act. All of the work described in this site has only 
 I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. 
 
 MSc students
-+ Melisa Yimaz - Social exclusion and mental health
++ Melisa Yimaz (2022): Social exclusion and mental health
 
-+ Fiona Lin: Neighbourhood characteristics at migration and psychosis risk 
++ Fiona Lin (2021): Neighbourhood characteristics at migration and psychosis risk 
 
-+ [Merle Schlief](https://iris.ucl.ac.uk/iris/browse/profile?upi=MMSCH77): Differential association between income trajectories in childhood and severe mental illness by migrant status
++ Spyros Spyridonidis (2021): Neighbourhood-level predictors of the age of onset of psychotic disorders
 
-+ 
++ Tanuja Noor (2021): Systematic review of discrimination measures
+
++ [Merle Schlief](https://iris.ucl.ac.uk/iris/browse/profile?upi=MMSCH77)(2020): Differential association between income trajectories in childhood and severe mental illness by migrant status
+
++ Angela Chase (2020): Neighbourhood-level social capital and incidence of psychosis
+
++ Kavya Ashok (2019): [Objective and subjective neighbourhood factors and risk of suicidal thoughts and attempts](https://pubmed.ncbi.nlm.nih.gov/34231453/)
+
++ Zsofia Dombi (2019): The incidence of depressive disorders among first- and second-generation migrants and refugees
+
++ James Terhune (2018): [Migrant status and risk of compulsory admission at first diagnosis of psychotic disorder: a population-based cohort study in Sweden](https://pubmed.ncbi.nlm.nih.gov/32578529/)
+
++ Sarah Ledden (2018): The association between community level social capital and psychological distress
+
++ Sam Harris (2017):  [A nationwide study of the incidence of substance use disorders in refugee and migrant groups in Sweden: a cohort study of 1.2 million people](https://pubmed.ncbi.nlm.nih.gov/31689291/)
+
+
 
 PhD students
 + Nat Rich (committee member) - Ethnic inequalities in psychosis
@@ -37,7 +57,7 @@ PhD students
 
 + Sarah Ledden (additional supervisor) - Alcohol and suicidality
 
-If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
+If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch - j.dykxhoorn@ucl.ac.uk. 
 
 Pre- and Post-doctoral fellows
 + [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring trajectories of housing affordability and mental health. After her fellowship, she has moved on complete her PhD at the Sorbonne. 

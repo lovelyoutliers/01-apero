@@ -5,8 +5,6 @@ excerpt: "Over 89 million people have been forcibly displaced from their homes. 
 date: 2022-06-24
 author: "Jen Dykxhoorn"
 draft: false
-images: 
- - img/avatar.jpeg
 image_left: true
 show_social_links: true
 series:
@@ -14,7 +12,8 @@ tags:
 - refugees
 - asylum-seekers
 - commentary
-categories:
+categories: 
+- migrants & refugees
 layout: single
 ---
 

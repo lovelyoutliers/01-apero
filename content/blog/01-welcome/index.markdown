@@ -7,6 +7,7 @@ author: "Jen Dykxhoorn"
 draft: false
 featured: true
 image_left: true
+thumbnail_left: true
 show_social_links: true
 series:
 tags: 
