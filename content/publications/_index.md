@@ -68,11 +68,39 @@ Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imper
 
 Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplinary understanding of psychosis risk amongst migrants and their descendants](https://pubmed.ncbi.nlm.nih.gov/30208980/). Epidemiol Psychiatr Sci. 2019 Apr;28(2):146-152.  
 
-
 ## Book chapters 
 Dykxhoorn J, Kirkbride JB. The epidemiological burden of major psychiatric disorders. Oxford Textbook of Public Mental Health. Bhugra D et al (eds.). 2017. 
 
 Solmi F, Dykxhoorn J, Kirkbride JB. Urban-rural differences in major mental health conditions. Mental Health and Illness in the City. Mental health and Illness Worldwide 1. P. Munk-Jorgensen et al (eds.). 2017. 
 
-## Reports and technical documents
 
+## Reports, resources, & technical documents
+Public Mental Health Programme (2021). [Conceptual framework for public mental health](http://www.publicmentalhealth.co.uk). NIHR School for Public Health Research: London, UK.
+
+Public Health Agency of Canada (2015). [Measuring positive mental health in Canada](http://www.phac-aspc.gc.ca/mh-sm/mhp-psm/pmh-smp-eng.php). PHAC: Ottawa, ON. . 
+
+Physical Activity Network (2013). [Active transportation: About active transportation](http://www.physicalactivitynetwork.ca/sites/default/files/page/files/at-about.pdf). Prepared for the Physical Activity Network: Pembroke, ON. 
+
+Physical Activity Network (2013). [Active transportation: Economic development](http://www.physicalactivitynetwork.ca/sites/default/files/page/files/at-econ-development.pdf ). Prepared for the Physical Activity Network: Pembroke, ON. 
+
+Physical Activity Network (2013). [Active transportation: Active community checklist](http://www.physicalactivitynetwork.ca/sites/default/files/page/files/at-checklist.pdf ). Prepared for the Physical Activity Network: Pembroke, ON.
+
+Dykxhoorn J, Orpana H, Vachon J. (2014) Positive mental health surveillance indicator framework: Children and youth measures consultation summary. Public Health Agency of Canada: Ottawa, ON. 
+
+Orpana H, Dykxhoorn J. Vachon, J. (2014) Positive mental health surveillance indicator framework: Measures consultation summary. Public Health Agency of Canada: Ottawa, ON. 
+
+Dykxhoorn J. (2013). HIV testing for women in Canada: Literature review. Prepared for Dr. Lynne Leonard, Ottawa.  
+
+Dykxhoorn J, Robertson E. (2012). No more accidents! Call it what it is…: Campaign final report. Renfrew County and District Health Unit: Pembroke, ON. Presented to the Renfrew County and District Board of Health, February 21, 2012. 
+
+Dykxhoorn J, Mann, T. (2012). Falls prevention action plan. Renfrew County and District Health Unit: Pembroke, ON. 
+
+Dykxhoorn J. (2011). Photovoice youth participatory action research project final report. Renfrew County and District Health Unit: Pembroke, ON. Presented to the Renfrew County and District Board of Health: December 6, 2011. 
+
+OxyContin Committee (2011). The buzz can take your breath away…permanently: OxyContin awareness campaign report. Renfrew County and District Health Unit: Pembroke, ON. 
+
+Dykxhoorn J. (2010). GreenAccess: Growing a healthy community. Rationale and literature review of the Green Roof Community Garden Project at AccessPoint on Danforth. Access Alliance Multicultural Health and Community Services: Toronto, ON. 
+
+Dykxhoorn J. (2009). Crescent Town review and recommendations. Prepared for Crescent Town Services Council: Toronto, ON. 
+
+Workplace Health Task Group (2011). Comprehensive workplace wellness guide. Renfrew County and District Health Unit: Pembroke, ON. 
