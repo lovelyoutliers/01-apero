@@ -25,7 +25,7 @@ title: Publications
 author: 
 date: 2022-06-22
 draft: false
-excerpt: 
+excerpt: Publications, book chapters, and reports
 layout: single
 tags:
 - publications

@@ -2,7 +2,6 @@
 cascade:
   headless: true
 description: |
-  A website.
 show_header: true
 sidebar_left: false
 title: About

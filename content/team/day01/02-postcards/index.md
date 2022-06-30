@@ -1,136 +1,43 @@
 ---
-date: "2021-01-02"
-excerpt: In this block, we'll use the postcards package to make a single 'about' home
-  page with only R Markdown.
-subtitle: Write and send a single postcard.
-title: A postcard
+date: "2022-06-25"
+excerpt: Research is not a solitary act. A team of mentors, collaborators, and trainees have contributed to this research.
+subtitle: Mentors, supervisors, collaborators, and trainees
+title: Research team
 weight: 2
 ---
 
-## Pre-requisites
+Research is not a solitary act. All of the work described in this site has only been possible due to extraordinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi geneology! 
+
+## Mentors & supervisors
++ [Prof Kate Walters](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWALT44) and [Prof David Osborn](https://www.ucl.ac.uk/psychiatry/people/david-osborn) were the principal investigators of the [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). I was the programme manager and senior research fellow for this research during my postdoc (2019-22). 
+
++ [Prof James Kirkbride](https://www.psylife.eu/): James was one of my PhD supervisors (2015-19) and is the head of the PsyLife group at UCL. The PsyLife group explores inequalities in the social determinants of psychosis and other mental health problems over the life course. 
+
++ [Prof Glyn Lewis](https://www.ucl.ac.uk/brain-sciences/people/professor-glyn-lewis): Glyn also supervised my PhD and is a trailblazer in exploring the causes of psychiatric disorders, with a particular focus on depression and psychosis. 
++ [Prof Ian Colman](http://www.psychepi.com/): Ian was my MSc supervisor (2012-14), who guided me down the garden path of epi, big data, and longitudinal research. His research group is a leading psychiatric epidemiology group in Canada, producing rigorous research long-term processes surrounding common mental disorders and their treatment, including suicidal behaviour.
+
+## Students & trainees 
+I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. 
+
+MSc students
++ Melisa Yimaz - Social exclusion and mental health
+
++ Fiona Lin: Neighbourhood characteristics at migration and psychosis risk 
+
++ [Merle Schlief](https://iris.ucl.ac.uk/iris/browse/profile?upi=MMSCH77): Differential association between income trajectories in childhood and severe mental illness by migrant status
+
++ 
+
+PhD students
++ Nat Rich (committee member) - Ethnic inequalities in psychosis
+
++ Jenny Fielder (Wellcome PhD placement supervisor) - Neighbourhood cohesion, income, and mental health 
+
++ Sarah Ledden (additional supervisor) - Alcohol and suicidality
+
+Pre and post-doctoral fellows
++ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring trajectories of housing affordability and mental health. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
+
++ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the link between social media and mental health. Since completing her NIHR launching fellowship, she has secureed a NIHR Three Schools Mental Health fellowship to continue her research. 
 
 First, make sure you have the latest version of the postcards package installed from CRAN:
-
-```
-install.packages("postcards")
-```
-
-Restart your R session. If you use RStudio, use the menu item *Session > Restart R* or the associated keyboard shortcut:
-
-+ <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
-+ <kbd>Command + Shift + F10<kbd> (Mac OS). 
-
-```
-packageVersion("postcards")
-[1] ‘0.2.0’
-```
-
-## Create GitHub repo
-
-Online.
-
-## Clone GitHub repo
-
-```
-usethis::create_from_github("https://github.com/apreshill/global-postcard.git")
-```
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing these files:
-
-+ `*.Rproj`
-
-+ `.gitignore`
-
-## Create a postcard {#templates}
-
-Inside your current postcards project, use the R console:
-
-```
-library(postcards)
-```
-
-Then you could run (wait- don't do this yet!):
-
-```
-create_postcard()
-```
-
-But you could also pick one of four templates:
-
-1. `"jolla"` (<https://seankross.com/postcards-templates/jolla/>) [the default]
-
-1. `"jolla-blue"` (<https://seankross.com/postcards-templates/jolla-blue/>)
-
-1. `"trestles"` (<https://seankross.com/postcards-templates/trestles/>)
-
-1. `"onofre"` (<https://seankross.com/postcards-templates/onofre/>)
-
-```
-create_postcard(template = "jolla") #default
-create_postcard(template = "jolla-blue")
-create_postcard(template = "trestles")
-create_postcard(template = "onofre")
-```
-
-<aside>
-Want to know more? Under the hood, these are R Markdown templates, which you can include in a package.
-</aside>
-
-## Anatomy of a postcard
-
-YAML, body, name is index- this is special
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing these files:
-
-+ `index.Rmd`
-
-+ `*.jpg`
-
-But! There is no `.html` file (yet...)
-
-
-## Knit the postcard
-
-Knit button or
-
-```
-rmarkdown::render("index.Rmd")
-```
-
-What is new in your Git pane?
-
-:sparkles: Commit & Push! :sparkles:
-
-You should be committing this files:
-
-+ `index.html`
-
-(You may get a warning in RStudio IDE that this file is too big- go right ahead)
-
-## Publish a postcard
-
-Easy: 
-
-+ Push, publish to GitHub pages
-https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site
-
-Medium:
-
-```
-> use_github_pages(branch = "main", path = "/")
-✓ Setting active project to '/Users/alison/rscratch/global-postcard'
-✓ Activating GitHub Pages for 'apreshill/global-postcard'
-✓ GitHub Pages is publishing from:
-● URL: 'https://apreshill.github.io/global-postcard/'
-● Branch: 'main'
-● Path: '/'
-```
-
-## Share your postcard!
-
-Add it to your repository details
-  

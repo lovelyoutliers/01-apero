@@ -1,9 +1,11 @@
 ---
-description: Thanks to all of my menotrs, collaborators, and trainees!
+description: Thanks to all of my mentors, collaborators, and trainees!
 draft: false
 layout: standard
 show_title_as_headline: true
 title: Contributors
+excerpt: Mentors, collaborators, and trainees
+
 ---
 
 Research is not a solitary act. All of the work described in this site has only been possible due to extrardinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi geneology! 
@@ -31,13 +33,16 @@ MSc students
 PhD students
 + Nat Rich (committee member) - Ethnic inequalities in psychosis
 
++ Jenny Fielder (Wellcome PhD placement supervisor) - Neighbourhood cohesion, income, and mental health
+
 + Sarah Ledden (additional supervisor) - Alcohol and suicidality
+
+If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
 
 Pre- and Post-doctoral fellows
 + [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring trajectories of housing affordability and mental health. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
 + [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the link between social media and mental health. Since completing her NIHR launching fellowship, she has secureed a NIHR Three Schools Mental Health fellowship to continue her research. 
 
-+ 
 
 

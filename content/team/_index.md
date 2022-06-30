@@ -1,38 +1,16 @@
 ---
-author: 
-cascade:
-  show_author_byline: true
-  show_comments: false
-  show_post_date: true
-  sidebar:
-    show_sidebar_adunit: true
-    text_link_label: View all projects
-    text_link_url: /team/
-description: PI, mentors, collaborators, and trainees
-layout: list-grid
-show_author_byline: true
-show_button_links: false
-show_post_date: false
-show_post_thumbnail: true
-sidebar:
-  author: Jen Dykxhoorn
-  description: ""
-  show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-  title: ""
-author: 
-date: 2022-06-22
+author: J Dykxhoorn
+categories: 
+- team
 draft: false
-excerpt: 
-layout: single
-tags:
-- publications
-- epidemiology
-- research team
-
+exerpt: PI and research team 
+layout: standard
+show_title_as_headline: true
+title: Principal investigator & research team
 ---
-
+    
+    
+    
 ## Principal investigator: Jen Dykxhoorn, PhD 
 
 Dr Jen Dykxhoorn is a psychiatric epidemiologist and public mental health expert. She received her Bachelors in Health Studies from Queen’s University in 2009, her MSc in Epidemiology from the University of Ottawa, and her PhD in 2019 from UCL (University College London).
@@ -46,11 +24,17 @@ Jen has held roles in local and national public health, including working as an 
 When she is not softly reading statistics, Jen likes to travel, dive, play piano, and discover great coffee shops.
 
 
-
+Research interests
++ Social and spatial determinants of mental illnesses, including psychosis, bipolar disorder, and suicide
++ Public mental health  
++ Epidemiological research methods, particularly longitudinal analysis of big data
++ Systems modelling and simulation
+  </div>
+  
 ## Research team
 Research is not a solitary act. All of the work described in this site has only been possible due to extrardinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi geneology! 
 
-## Mentors and supervisors
+## Mentors & supervisors
 + [Prof Kate Walters](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWALT44) and [Prof David Osborn](https://www.ucl.ac.uk/psychiatry/people/david-osborn) were the principal investigators of the [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). I was the programme manager and senior research fellow for this research during my postdoc (2019-22). 
 
 + [Prof James Kirkbride](https://www.psylife.eu/): James was one of my PhD supervisors (2015-19) and is the head of the PsyLife group at UCL. The PsyLife group explores inequalities in the social determinants of psychosis and other mental health problems over the life course. 
@@ -58,7 +42,7 @@ Research is not a solitary act. All of the work described in this site has only 
 + [Prof Glyn Lewis](https://www.ucl.ac.uk/brain-sciences/people/professor-glyn-lewis): Glyn also supervised my PhD and is a trailblazer in exploring the causes of psychiatric disorders, with a particular focus on depression and psychosis. 
 + [Prof Ian Colman](http://www.psychepi.com/): Ian was my MSc supervisor (2012-14), who guided me down the garden path of epi, big data, and longitudinal research. His research group is a leading psychiatric epidemiology group in Canada, producing rigorous research long-term processes surrounding common mental disorders and their treatment, including suicidal behaviour.
 
-## Students and trainees 
+## Students & trainees 
 I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. 
 
 MSc students
@@ -72,6 +56,8 @@ MSc students
 
 PhD students
 + Nat Rich (committee member) - Ethnic inequalities in psychosis
+
++ Jenny Fielder (Wellcome PhD placement supervisor) - Neighbourhood cohesion, income, and mental health 
 
 + Sarah Ledden (additional supervisor) - Alcohol and suicidality
 

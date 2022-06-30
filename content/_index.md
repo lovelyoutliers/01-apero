@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: MIST Psychiatric Epidemiology brings together research on the social and environmental causes of severe mental illness, self-harm, and suicide. My research has a particular focus on socially excluded populations, including migrants, minority ethnic groups, and those who face material, social, political, or structural exclusion. 
+description: MIST Psychiatric Epidemiology brings together research on the social and environmental causes of severe mental illness, self-harm, and suicide. This research is led by Dr Jen Dykxhoorn and has a particular focus on socially excluded populations, including migrants, minority ethnic groups, and those who face material, social, political, or structural exclusion. 
 image_left: true
 images:
 - img/mist.jpeg

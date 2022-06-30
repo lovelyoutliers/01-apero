@@ -28,10 +28,10 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Jen Dykxhoorn, PhD"
+  orgName = "J Dykxhoorn, PhD"
   description = "Exploring mental illness using systems thinking."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/favicon 4.ico"
+  logo = "/img/jdykxhoorn_icon.png"
   mainSections = ["blog", "about", "team", "publications"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -40,14 +40,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/TATDOOP.jpeg"
+  sharing_image = "mist.jpeg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "jendykxhoorn"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "violet"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -113,11 +113,6 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Blog"
-    title = "New research - blog"
-    url = "/blog/"
-    weight = 1
-  [[menu.header]]
     name = "About MIST"
     title = "About my research"
     url = "/about/"
@@ -127,6 +122,11 @@ enableEmoji = true
     title = "Research team"
     url = "/team/"
     weight = 3
+    [[menu.header]]
+    name = "Blog"
+    title = "New research - blog"
+    url = "/blog/"
+    weight = 1
    [[menu.header]]
     name = "Publications"
     title = "Publications"
@@ -144,11 +144,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

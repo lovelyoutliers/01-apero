@@ -17,11 +17,11 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "Latest research and blog posts on psychiatric epidemiology and public mental health"
+  description: "The latest research and blog posts on psychiatric epidemiology and public mental health"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: MISTy thoughts 
+  title: Latest research
 thumbnail_left: true
 title: Latest research 
 ---

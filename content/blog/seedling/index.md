@@ -1,13 +1,15 @@
 ---
-author: Alison Hill
+author: J Dykxhoorn
 categories:
-- Theme features
-date: "2021-01-02"
+- Housing 
+- Trajectories
+- Understanding Society
+date: "2021-06-26"
 draft: false
-excerpt: Add tabbed sections to your posts.
+excerpt: Longitudinal research, let by Kate Dotsikas,  from the UK exploring the longitudinal impact of experiencing housing affordability problems and mental health.
 layout: single
-subtitle: How to add panelsets in plain markdown posts.
-title: Using panelsets
+subtitle: How do trajectories of housing affordability affect mental health?
+title: Housing affordability and mental health
 ---
 
 Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset

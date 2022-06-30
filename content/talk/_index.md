@@ -18,6 +18,7 @@ show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
+show_title_as_headline: true
 sidebar:
   author: Jen Dykxhoorn
   description: "This is a list for your talks, workshops, or \nother events with a
