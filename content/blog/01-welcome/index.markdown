@@ -14,7 +14,7 @@ categories:
 layout: single
 ---
 
-## Building websites and my R skills
+
 One of the great things about academica is that you never stop learning, which is also one of the difficult things, as you are always a beginner and constantly feeling out of your depth. 
 
 [constantly learning gif if \i can figure out how to do that...]

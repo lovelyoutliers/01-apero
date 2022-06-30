@@ -1,23 +1,35 @@
 ---
-title: "Welcome to my research site"
-subtitle: "Under construction"
-excerpt: "Welcome to my new research site! Don't mind the dust"
-date: 2022-06-24
+title: Housing affordability and mental health
+subtitle: How do trajectories of housing affordability affect mental health?
+excerpt: Longitudinal research on housing affordability and mental health, let by Kate Dotsikas.
+date: 2022-07-02
 author: "Jen Dykxhoorn"
 draft: false
 featured: true
 image_left: true
-images: 
- - img/mist_transparent.png
 show_social_links: true
 series:
 tags: 
 categories:
+- Housing 
+- Trajectories
+- Understanding Society
+- New research
 layout: single
 ---
 
+author: J Dykxhoorn
+categories:
+- Housing 
+- Trajectories
+- Understanding Society
+date: "2021-06-26"
+draft: false
+layout: single
+
+
 ## Building websites and my R skills
-One of the great things about academia is that you never stop learning, which is also one of the difficult things, as you are always a beginner and constantly feeling out of your depth. 
+One of the great things about academica is that you never stop learning, which is also one of the difficult things, as you are always a beginner and constantly feeling out of your depth. 
 
 [constantly learning gif if \i can figure out how to do that...]
 
