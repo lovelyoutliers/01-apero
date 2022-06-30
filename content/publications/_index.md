@@ -71,7 +71,7 @@ Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplin
 ## Book chapters 
 Dykxhoorn J, Kirkbride JB. The epidemiological burden of major psychiatric disorders. Oxford Textbook of Public Mental Health. Bhugra D et al (eds.). 2017. 
 
-Solmi F, Dykxhoorn J, Kirkbride JB. Urban-rural differences in major mental health conditions. Mental Health and Illness in the City. Mental health and Illness Worldwide 1. P. Munk-Jorgensen et al (eds.). 2017. 
+Solmi F, Dykxhoorn J, Kirkbride JB. Urban-rural differences in major mental health conditions. Mental Health and Illness in the City. Mental Health and Illness Worldwide 1. P. Munk-Jorgensen et al (eds.). 2017. 
 
 
 ## Reports, resources, & technical documents
