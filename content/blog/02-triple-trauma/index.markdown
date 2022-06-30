@@ -1,12 +1,12 @@
 ---
 title: "Triple trauma, double uncertainty, and a singular imperative to address the mental health crisis in asylum-seekers & refugees"
 subtitle: "Commentary"
-excerpt: "Every day, there is another headline about the ‘refugee crisis’ with the war in Ukraine and ongoing conflicts in Syria, Afghanistan, and South Sudan. According to the UN Refugee Agnecy, there has never been this many forcibly displaced people in the world – over 89 million people have been forced from their homes due to war, violence, and human rights abuses."
+excerpt: "Over 89 million people have been forcibly displaced from their homes. We have an obligation to do better to ensure the health of asylum-seekers and refugees."
 date: 2022-06-24
 author: "Jen Dykxhoorn"
 draft: false
 images: 
- - img/TATDOOP.jpeg
+ - img/avatar.jpeg
 image_left: true
 show_social_links: true
 series:
