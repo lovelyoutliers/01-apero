@@ -1,8 +1,8 @@
 ---
-title: Housing affordability and mental health
-subtitle: How do trajectories of housing affordability affect mental health?
-excerpt: Longitudinal research on housing affordability and mental health, let by Kate Dotsikas.
-date: 2022-07-02
+title: Can your neighbourhood shape your mental health?
+subtitle: 
+excerpt: Objective and subjective neighbourhood factors and suicidality
+date: 2022-07-01
 author: "Jen Dykxhoorn"
 draft: false
 featured: true
@@ -11,34 +11,33 @@ show_social_links: true
 series:
 tags: 
 categories:
-- Housing 
-- Trajectories
-- Understanding Society
-- New research
+- Neighbourhoods
+- Swedish data
+- Cohort study
+- Multilevel
 layout: single
 ---
+I have moved a lot over the past 15 years. I have moved houses, moved cities, moved countries and continents. Each place I have lived has very different vibes – from the rural home I spent my formative years with vegetable gardens and chickens to the Toronto loft in the junction. It is likely that each place affected my health ways in myriad ways. Like the student flat that definitely had mould issues, the fatal shooting a block from my Toronto home, and the frost bite I endured when waiting for a bus during a polar vortex in Ottawa and the shockingly poor water quality in London.
 
-author: J Dykxhoorn
-categories:
-- Housing 
-- Trajectories
-- Understanding Society
-date: "2021-06-26"
-draft: false
-layout: single
+# But does your neighbourhood affect your mental health?
 
+I think my neighbourhood can affect my mood and mental health. Weathering the pandemic in London was challenging (so many people, so little space). The slivers of parkland were slim tethers to sanity when the world was shrunk to our immediate surroundings.
 
-## Building websites and my R skills
-One of the great things about academica is that you never stop learning, which is also one of the difficult things, as you are always a beginner and constantly feeling out of your depth. 
+I have been very interested in understanding how place can affect our mental health.
 
-[constantly learning gif if \i can figure out how to do that...]
+I know I felt different in each of my neighbourhoods but it is hard to know what exactly in these neighbourhoods made me feel connected, supported, happy, and healthy.
 
-This site is something that has been on the back-burner for ages. I wanted to have a space where I could share research outputs, connect with other researchers, and experiment with different approaches to science communication, but it was never a "priority."
+In this new paper, published this week in Psychological Medicine, looks at a range of neighbourhood factors to see if they are linked to suicidal thoughts and attempts.
 
-But as I start a new chapter of my research journey, I have committed to becoming more competent in R, so figured I could work on my R coding skills AND build an academic website at the same time. 
+[Read the full paper](https://www.cambridge.org/core/journals/psychological-medicine/article/objective-and-subjective-neighbourhood-characteristics-and-suicidality-a-multilevel-analysis/2AC473596E33C6C990E460665946F6BB)
 
-I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg template. 
+This is a complicated question because many people live in areas with people with similar characteristics. This makes it hard to untangle if higher levels of suicidal thoughts and attemps are because of the characteristics of the individuals clustered in that neighbourhood – compositional or if it is aspects of the neighbourhoodthat lead to high rates – contextual.
 
+For example, if we compare two areas of Stockholm (where this research was conducted) there are some very expensive neighbourhoods. Most people who can afford to live in these areas have high incomes, higher educations, and more likely to be Swedish-born. These are all individual characteristics. However, these areas tend to have better transit lines, more green spaces, and tend to be considered “nice and desirable” places to live. In contrast, there are other areas that feel “sketchy.” They may have visible signs of neighbourhood neglect or deprivation. These are also areas where rents are cheaper, so people with lower incomes tend to live in these under-resourced places.
+
+In this study, we found that a lot of the neighbourhood variation in suicidality was explained by the clustering of people with similar characteristics (compositional). That said, higher levels of neighbourhood deprivation and lower average trust in neigbours also increased rates of suicidal thoughts and attempts.
+
+This research was started by one of my brilliant MSc students – Kavya Ashok and other colleagues at UCL and the Karolinska Institutet.
 
 
 
