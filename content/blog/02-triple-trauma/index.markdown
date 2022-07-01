@@ -17,7 +17,12 @@ categories:
 layout: single
 ---
 
-##
+
+<div class="figure" style="text-align: center">
+<img src="featured.png" alt=" " width="100%" />
+<p class="caption"> </p>
+</div>
+
 Every day, there is another headline about the ‘refugee crisis’ with the war in Ukraine and ongoing conflicts in Syria, Afghanistan, and South Sudan. According to the UN Refugee Agnecy, there has never been this many forcibly displaced people in the world – over 89 million people have been forced from their homes due to war, violence, and human rights abuses.
 
 Behind these staggering statistics, there are millions of stories of human tragedy and survival. Unfortunately, after making the difficult decision to leave home, many asylum-seekers face trecherous and terrifying journies and hostile reception when they seek asylum in other countries.

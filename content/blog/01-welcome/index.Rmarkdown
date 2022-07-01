@@ -29,10 +29,7 @@ knitr::include_graphics("https://media.giphy.com/media/jUDvU0mBA9trNjOV3e/giphy-
 
 
 
-I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg template. 
+I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg Hugo template. 
 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap=" "}
-knitr::include_graphics("featured.png")
-```
 

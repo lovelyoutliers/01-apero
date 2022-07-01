@@ -30,11 +30,7 @@ But as I start a new chapter of my research journey, I have committed to becomin
 
 
 
-I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg template. 
+I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg Hugo template. 
 
 
-<div class="figure" style="text-align: center">
-<img src="featured.png" alt=" " width="75%" />
-<p class="caption"> </p>
-</div>
 

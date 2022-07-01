@@ -20,7 +20,9 @@ layout: single
 ---
 I have moved a lot over the past 15 years. I have moved houses, moved cities, moved countries, and continents. Each place I have lived has very different vibes – from the rural home I spent my formative years with vegetable gardens and chickens to the Toronto loft in the junction. It is likely that each place affected my health ways in myriad ways. Like the student flat that was filled with mold and centipedes, the fatal shooting a block from my Toronto home, the frost bite I endured when waiting for a bus during a polar vortex in Ottawa, and the shockingly poor water quality in London.
 
-![One of the more picturesque London neighbourhoods](featured.png)
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="One of the more picturesque London neighbourhoods "}
+knitr::include_graphics("featured.png")
+```
 
 Neighbourhoods cover the full spectrum of positive and negative factures, but does your neighbourhood affect your mental health? 
 
