@@ -13,7 +13,7 @@ tags:
 - asylum-seekers
 - commentary
 categories: 
-- migrants & refugees
+- Migrants & refugees
 layout: single
 ---
 
