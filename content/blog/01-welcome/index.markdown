@@ -22,6 +22,8 @@ This site is something that has been on the back-burner for ages. I wanted to ha
 
 But as I start a new chapter of my research journey, I have committed to becoming more competent in R, so figured I could work on my R coding skills AND build an academic website at the same time. 
 
+![](<https://media.giphy.com/media/jUDvU0mBA9trNjOV3e/giphy-downsized-large.gif>)
+
 I am tremendously grateful to [Alison Hill](https://www.apreshill.com/) for her amazing tutorials and this gorg template. 
 
 
