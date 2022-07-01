@@ -22,7 +22,7 @@ I have been working from my flat for months, which makes it feel like the pace o
 This was work done by one of my MSc students, James Terhune, who I co-supervised with James Kirkbride with the usual cast of collaborators from Karolinska Institutet (Christina Dalman, Anna-Clara Hollander, and Euan Mackay).
 
 
-Why did we do this research?
+#Why did we do this research?
 Compulsory admission for psychiatric care is used when a person is thought to need psychiatric treatment but they resist voluntary care. Compulsory admission falls under mental health legislation in many countries as a way to detain individuals in hospital for assessment and treatment who are deemed a threat to themselves or others. Compulsory care is an important issue within mental health services, as it can be a traumatic experience for individuals and can worsen psychotic symptoms.
 
 Some groups are much more likely to be admitted involuntarily than others. Previous studies in Canada, U.K. and the Netherlands have demonstrated a higher risk of compulsory admission for migrants and ethnic minorities diagnosed with psychiatric disorders.
