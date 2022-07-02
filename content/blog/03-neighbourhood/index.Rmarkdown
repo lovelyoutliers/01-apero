@@ -2,7 +2,7 @@
 title: Can your neighbourhood shape your mental health?
 subtitle: 
 excerpt: Objective and subjective neighbourhood factors and suicidality
-date: 2022-07-01
+date: 2021-06-01
 author: "Jen Dykxhoorn"
 draft: false
 featured: true
@@ -19,7 +19,7 @@ layout: single
 ---
 I have moved a lot over the past 15 years. I have moved houses, moved cities, moved countries and continents. Each place I have lived has very different vibes – from the rural home I spent my formative years with vegetable gardens and chickens to the Toronto loft in the junction. It is likely that each place affected my health ways in myriad ways. Like the student flat that definitely had mould issues, the fatal shooting a block from my Toronto home, and the frost bite I endured when waiting for a bus during a polar vortex in Ottawa and the shockingly poor water quality in London.
 
-# But does your neighbourhood affect your mental health?
+## But does your neighbourhood affect your mental health?
 
 I think my neighbourhood can affect my mood and mental health. Weathering the pandemic in London was challenging (so many people, so little space). The slivers of parkland were slim tethers to sanity when the world was shrunk to our immediate surroundings.
 
