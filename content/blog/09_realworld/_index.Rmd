@@ -1,0 +1,28 @@
+---
+title: "Mental health, social isolation, and financial stress: Christmas in COVID-19"
+subtitle: Podcast interview
+author: " "
+date: 17/12/2020
+use_featured: true
+expert: 
+format: single 
+categories: 
+- Podcast
+- social isolation
+- financial insecurity
+- 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, out.width="90%", fig.cap="Photo: http://www.nzcompare.com", fig.align='centre'}
+knitr::include_graphics("featured.jpg")
+```
+
+One of the exciting new projects I have been involved in is the launch of a new podcast: Real World Public Mental Health. This podcast was developed as a forum to discuss how evidence can be used in the real world to prevent mental health problems and promote better mental health. It is hosted by Stu King of the Behavioural Science and Public Health Network in partnership with a bunch of collaborators, including our NIHR Public Mental Health Programme and Public Health England.
+
+I was delighted to participate in the second episode, which has just been released. In this episode, I join Ed Davie and Caron Walker to discuss the impact of loneliness, social isolation, and financial strain on mental health problems, with consideration to the influence of COVID-19 and the start of the holiday season. You can listen here: [](http://bit.ly/3r1thMn).
+
+

@@ -1,0 +1,43 @@
+---
+
+title: "Digital hoarding"
+subtitle: ""
+author: " "
+date: "23/12/2019"
+use_featured: true
+expert: 
+format: single
+series: 
+- Aca life (musings about academic life and research culture)
+- PhD life
+- Research 
+categories: 
+- Tips & tricks (look up that guy who writes the academic blog posts I like)
+---
+
+```{r, echo=FALSE, out.width="75%", fig.cap="Photo: http://www.nzcompare.com", fig.align='centre'}
+knitr::include_graphics("img9.jpg")
+```
+The shocking reality TV show "Hoarders" was still allegedly popular during my PhD (although I an not 45 years old so I don't have a cable subscription so I have never actually watched it). As a true millennial (cue grinding of the teeth for all readers who are "lucky" enough to perpetually look down on the spoiled, self-centred millennial), I have a real hording problem - but of digital matter. 
+
+I honestly have very little idea how to curate my masses of electronic information, how to manage the flow of articles, how to keep relevant versions of documents, and how to properly back up things so that when your computer contracts a lethal virus (after the attempted illegal download of an expensive statistical software package), you don't have a total meltdown. 
+
+Or, the time that your main thesis manuscript file decides one day that it is corrupted and your heart stops. 
+
+After enough experiences like this, you might, like me, become a digital hoarder. I have scads of copies upon copies of documents, saved in the cloud, on Dropbox, on an external hard drive, inconsistently on my school network drive, my network drive for my research collaborators, emailed to myself, or one of my 3 computers (school desktop, old laptop, new laptop). This basically means I never know where the most up-to-date version is, I spend money to buy extra storage on the cloud-based networks, and generally live in a state of fear that my "system" will fail me at a critical moment and everything will be lost.  
+
+I feel like I need an intervention, but I don't think addressing file hording makes for as exciting television as interventions for individuals who hoard cats or plastic bags. 
+
+So it is possible I will drown in a sea of digital files. 
+
+
+
+```{r, echo=FALSE, out.width="75%", fig.cap="Photo: http://www.nzcompare.com", fig.align='centre'}
+knitr::include_graphics("img8.jpg")
+```
+
+For even more gift ideas, check out this post on [great gifts for grad students](https://lovelyoutliers.com/2018/09/03/back-to-grad-school-gift-ideas/)! 
+
+Have a wonderful holiday season! Hope you celebrate with eggnog, Hallmark Christmas movies, and not checking the status of submitted papers (for 24 hours at least).
+
+ 

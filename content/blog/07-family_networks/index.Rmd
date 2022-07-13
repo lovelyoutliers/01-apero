@@ -1,0 +1,54 @@
+---
+title: "Family networks at migration"
+author: J Dykxhoorn
+date: 
+title_as_header: true
+featured: true
+use_featured: true
+expert: 
+format: single 
+categories: 
+- Swedish
+- Migrants & refugees
+- Longitudinal
+# install.packages("jpeg") - ctl + shift + c to comment something out inside of the ``` r sections
+---
+
+```{r, echo=FALSE, out.width="90%", fig.cap="", fig.align='centre'}
+knitr::include_graphics("featured.jpg")
+```
+
+
+
+I have published a new paper!! Family networks during migration and risk of non-affective psychosis. 
+
+##What did we look at?
+We had a cohort of migrants to Sweden and we looked to see if having family around during migration affected the risk of developing psychotic disorders (like schizophrenia).
+
+What did we find: We found sex-specific patterns, where the presence of family was protective for females but increased risk among males.
+```{r, echo=FALSE, out.width="75%", fig.cap="", fig.align='centre'}
+knitr::include_graphics("img1.jpg")
+```
+
+## What does this mean
+It is possible that gendered experiences encountered in the context of immigration may contribute to some of this heterogeneity, and moreover, may underpin some of the excess rates of psychotic disorders amongst immigrant groups.
+
+## Read more 
+It is open access, so you can all read the [full paper here.](https://www.sciencedirect.com/science/article/pii/S0920996419300477#f0010). (#FridayNightPlans?)
+
+I will leave you with some pictures of my silly and wonderful family, which have provided me with tons social support (and pestering) over the years.
+
+```{r, echo=FALSE, outj.width="90%", fig.cap="", fig.align='centre'}
+knitr::include_graphics("featured.jpg")
+```
+
+
+And with the addition of two adorable raggimuffins
+```{r, echo=FALSE, out.width="90%", fig.cap="", fig.align='centre'}
+knitr::include_graphics("img2.jpg")
+```
+
+
+
+
+

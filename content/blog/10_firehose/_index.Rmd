@@ -1,0 +1,53 @@
+---
+title: "Sipping from a fire hose"
+subtitle: "Musings on data, knowledge, and models in a complex world"
+author: " "
+date: "16/03/2020"
+use_featured: true
+expert: 
+format: single 
+categories: 
+- Complexity
+- Data science
+- Science communication 
+- Covid-19
+- 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, out.width="90%", fig.cap="Photo: http://www.nzcompare.com", fig.align='centre'}
+knitr::include_graphics("featured.jpg")
+```
+
+I am a doctor… but not the kind that is useful in a medical emergency.
+
+I am an epidemiologist, the rock stars of an outbreak, but not the kind that is particularly useful to help us understand the spread of infectious diseases.
+
+My research is focused on mental health, quantifying who is mostly likely to develop a mental health problem, and what we can do to address inequities in mental health outcomes for vulnerable groups.
+
+Like most, I have been glued to the news, my Twitter feed, and inbox to watch as the coronavirus sweeps globe, changing the nature of daily life in large and small ways. If nothing else, the past week has demonstrated the that the interconnected, ever-changing, which is incredibly relevant to epidemiology, beyond infectious diseases.
+
+We are thirsty for information – what to do, how to behave, how to protect yourself and those you love from a worrying infectious disease. So we turn to the fire hose of constant information – the news and social media.
+
+Unfortunately, information is gushing out of a fire hose of constant news and people are being blasted in the face with INFORMATION and DATA, coming away anxious, afraid, and confused.
+
+While this clearly represents a failure in public health communication, it also is a great illustration of a situation when **MORE DATA IS NOT ALWAYS THE ANSWER!**
+
+[gasp]
+
+[also, brief interruption from learning by watching lots of fire host training videos]
+
+[how to embed youtube videos?](
+https://www.youtube.com/watch?v=2Tsk6S9ToDs&feature=emb_title)
+
+
+I am as guilty as any epidemiologist – I fetishize big datasets, drool over data, and generally get excited by the prospect of more data. However, more data doesn’t always correspond to more knowledge, just like it is hard to get your 8 glasses of water a day from a fire hose blasting water directly at your face.
+
+Data alone is not the answer. We need models to provide logical frameworks within which we can organize information. Models can show the connections between bits of data and can be used to test our assumptions and examine their veracity.   Models can help us plan in complex situations – they are our efforts to peak around the bend in the road to see what might be ahead.
+
+I think we can use modelling approaches to better understand some of the pressing questions that face public health. I recently was awarded a small grant, which will, in part, explore the feasibility of using simulation models to understand important questions in public mental health. I have not used simulation models before, so I am hoping to spend some of this “work from home” period diving into this analytic approach. I feel this is a particularly apt project to concentrate on, as the complexity of a global pandemic unfolds around us, seemingly adding more data but fewer answers with each passing hour.
+
+I would love to hear from you if you have used simulation models (e.g. agent-based models, dynamic micro-simulation models etc) in epidemiology or if you have suggestions of great books/papers to peruse! Send missives of epidemiology my way to keep me company as I try to work from home (without becoming one with the sofa).
