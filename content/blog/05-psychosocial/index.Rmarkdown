@@ -12,8 +12,10 @@ series:
 tags: 
 categories:
 - Financial insecurity
-- Sommon mental disorders
+- Common mental disorders
 - Systematic review
+- UK
+- Public mental health
 layout: single
 ---
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center',  fig.cap="Photo from unsplash.com"}

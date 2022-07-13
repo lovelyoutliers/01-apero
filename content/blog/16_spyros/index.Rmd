@@ -1,0 +1,52 @@
+---
+title: Neighborhood-level predictors of age-at-first-diagnosis of psychotic disorders
+subtitle: Does where you live affect how quickly you have access to psychiatric are?
+excerpt: Longitudinal research on neighbourhood factors and acces to mental health care, led by MSc student Spyros Spyridonidis.
+text_align_right: false
+date: 2022-07-20
+author: "Jen Dykxhoorn"
+draft: true
+featured: true
+image_left: true
+show_social_links: true
+series:
+tags: 
+categories:
+- Neighbourhood
+- Swedish data
+- Sweden
+- Epidemiology
+- Longitudinal
+- Schizophrenia
+- Psychiatric care
+- Deprivation
+- Population density
+layout: single
+---
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Westard Ho! homes "}
+knitr::include_graphics("featured.jpg")
+```
+
+## Why did we do this research?
+The relationship between neighborhood-level factors and the incidence of psychotic disorders is well established. However, it is unclear whether neighborhood characteristics are also associated with age-at-first-diagnosis of these disorders.
+
+
+## What did we do? 
+We used linked Swedish register data to identify a cohort of persons first diagnosed with an ICD-10 non-affective or affective psychotic disorder (F20-33) between 1997 and 2016. Using multilevel mixed-effect linear modelling, we investigated whether neighborhood deprivation and population density at birth were associated with age-at-first diagnosis of a psychotic disorder. Our final cohort included 13,440 individuals, with a median age-at-first-diagnosis of 21.8 years for women (interquartile range [IQR]: 19.0-25.5) and 22.9 years for men (IQR: 20.1-26.1; p<.0001).
+
+
+## What did we find? 
+n an unadjusted model, we found no evidence of an association between neighborhood deprivation and age-at-first-diagnosis of psychotic disorder (p=.07). However, after multivariable adjustment, age-at-first-diagnosis increased by .13 years (95% CI: .05 to .21; p=.002) for a one standard deviation increase in neighborhood deprivation. This was equivalent to a later diagnosis of 47 days (95% CI: 18 to 77). We found no evidence of a different relationship for non-affective versus affective psychoses (LRT χ2(1) = .14; p=.71). Population density was not associated with age-at-first-diagnosis in unadjusted (p=.81) or adjusted (p=.85) models. Later age-at-first-diagnosis for individuals born in more deprived neighborhoods suggests structural barriers to accessing equitable psychiatric care.
+
+## What does this mean?
+
+[Read full-text article](addlink.com). 
+
+This research was led by Spyros, one of the MSc students in the Division of Psychiatry. 
+
+ 
+
+
+
+

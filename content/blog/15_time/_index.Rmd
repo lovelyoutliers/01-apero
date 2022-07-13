@@ -7,7 +7,6 @@ author: " "
 date: ""
 use_featured: true
 expert: 
-format: single
 series: 
 - Aca life (musings about academic life and research culture)
 - PhD life
