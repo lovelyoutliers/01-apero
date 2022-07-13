@@ -5,7 +5,7 @@ excerpt: Objective and subjective neighbourhood factors and suicidality
 show_title_as_headline: true
 date: 2022-07-01
 author: "Jen Dykxhoorn"
-draft: true
+draft: false
 featured: true
 image_left: true
 show_social_links: true
