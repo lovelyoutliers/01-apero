@@ -20,7 +20,7 @@ layout: single
 ---
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Westard Ho! homes "}
-knitr::include_graphics("featured.png")
+knitr::include_graphics("featured.jpeg")
 ```
 
 ## Why did we do this research?
