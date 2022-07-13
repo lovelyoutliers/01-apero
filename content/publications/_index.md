@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2022-06-22
+date: 2022-07-12
 draft: false
 excerpt: Publications, book chapters, and reports
 layout: single
@@ -17,9 +17,9 @@ show_social_links: true
 
 ---
 ## Peer-reviewed publications
-Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol (2022).
+Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022.
 
-Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. Conceptualising public mental health: development of a conceptual framework for public mental health. (Accepted).   
+Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. Conceptualising public mental health: development of a conceptual framework for public mental health.BMC Public Health. 2022.   
 
 Lee C, Kuhn I, McGrath M, Remes O, Cowan A, Duncan F, Baskin C, Oliver EJ, Osborn D, Dykxhoorn J, Kaner E, Walters K, Kirkbride JB, Gnani S, Lafortune L. [A systematic scoping review of community-based interventions for the prevention of mental ill-health and the promotion of mental health in older adults in the UK](https://pubmed.ncbi.nlm.nih.gov/33988281/). Health & Social Care in the Community.  2022 Jan;30(1):27-57. 
 
