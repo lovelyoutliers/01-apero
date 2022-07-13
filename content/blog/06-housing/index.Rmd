@@ -3,7 +3,7 @@ title: Housing affordability and mental health
 subtitle: How do trajectories of housing affordability affect mental health?
 excerpt: Longitudinal research on housing affordability and mental health, let by Kate Dotsikas.
 text_align_right: false
-date: 2022-07-20
+date: 2022-07-13
 author: "Jen Dykxhoorn"
 draft: true
 featured: true
