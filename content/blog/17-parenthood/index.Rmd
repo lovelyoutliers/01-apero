@@ -3,7 +3,7 @@ title: Parenthood and risk of suicide
 subtitle: Do parents have a lower or higher risk of suicide? Does this change over the life course? Is it different for females and males? 
 excerpt: Research led by Alma Sörberg Wallin from Karolinska Institutet exploring if parenthood changed risk of suicide. 
 text_align_right: false
-date: 2022-07-15
+date: 2022-07-14
 author: "Jen Dykxhoorn"
 draft: false
 featured: true
@@ -41,7 +41,7 @@ In order to assess the risk of suicide, we used survival analysis (Cox regressio
 Parents had a lower risk of suicide than non-parents across the life course. This reduction in suicide risk was most pronounced for younger parents, particularly young women.These results are consistent with possible mechanisms, like sense of responsibility and higher levels of connectedness, which may be protective against suicide in parents.
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Association between parenthood and suicide risk in women and men, by age"}
-knitr::include_graphics("fig1.png")
+knitr::include_graphics("fig1.jpg")
 ```
 
 
