@@ -1,14 +1,13 @@
 ---
 title: Publications
-date: 2022-07-12
+date: 2022-07-15
 draft: false
 excerpt: Publications, book chapters, and reports
 layout: single
 tags:
-- publications
-- epidemiology
-title: 
-subtitle: 
+- Publications
+- Epidemiology
+- Psychiatric epidemiology
 images:
 - img/10.png
 featured: true
@@ -18,6 +17,9 @@ show_social_links: true
 ---
 ## Peer-reviewed publications
 Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022.
+
+Sörberg Wallin A, Sjöqvist H, Dehara M, Wells MB, Dykxhoorn J, Kosidou K, Dalman C. [Parenthood and lower risk of suicide in women and men: the total Swedish population followed across adulthood](https://link.springer.com/article/10.1007/s00127-022-02321-y) Soc Psychiatry Psychiatr Epidemiol. 2022. 
+
 
 Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. Conceptualising public mental health: development of a conceptual framework for public mental health.BMC Public Health. 2022.   
 
