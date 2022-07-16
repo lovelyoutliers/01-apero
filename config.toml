@@ -34,6 +34,7 @@ enableEmoji = true
   logo = "/img/mist.jpeg"
   mainSections = ["about", "blog", "team", "publications"]
   navallcaps = true
+
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
@@ -100,6 +101,11 @@ enableEmoji = true
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/blog/index.xml"
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  email = true
 
 [taxonomies]
   category = "categories"
