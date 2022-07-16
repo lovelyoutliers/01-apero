@@ -2,7 +2,7 @@
 title: "Welcome to my research site"
 subtitle: "Under construction - Don't mind the dust!"
 excerpt: "Welcome to my new research site!"
-date: 2022-06-24
+date: 2022-01-01
 author: "Jen Dykxhoorn"
 draft: false
 featured: true
@@ -15,7 +15,6 @@ categories:
 layout: single
 fig.align: 'center'
 ---
-
 
 One of the great things about academica is that you never stop learning, which is also one of the difficult things, as you are always a beginner and constantly feeling out of your depth. 
 
