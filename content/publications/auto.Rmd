@@ -12,12 +12,12 @@ excerpt: Publications, book chapters, and reports
 library(scholar)
 library(tidyverse)
 
-publications <- as_tibble(get_publications("o-PdcTYyYAAAAJ")) %>%
+publications <- as_tibble(get_publications("PdcTYyYAAAAJ")) %>%
   arrange(desc(year)) %>%
   mutate(author_long =
            case_when(str_detect(author, pattern = "\\.\\.\\.$") ~ 1, TRUE ~ 0)) %>%
   mutate(author = case_when(
-    author_long == 1 ~ get_complete_authors("o-PdcTYyYAAAAJ", pubid),
+    author_long == 1 ~ get_complete_authors("PdcTYyYAAAAJ", pubid),
     TRUE ~ author
   )) %>%
   mutate(
