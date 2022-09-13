@@ -1,12 +1,13 @@
 ---
-title: Contact
-exerpt: To collaborate or for more information about my research, get in touch!
+title: "Contact"
+output: html_document
+exerpt: To collaborate or for more information about my research, get in touch. Email j.dykxhoorn@ucl.ac.uk
 draft: false
-layout: standard
 show_social_links: true
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
-show_social_links: true # specify social accounts in site config
 audio_link_label: "How to say my name" # leave blank to exclude
+
+date: "2022-08-31"
 ---
 
 To collaborate or for more information about my research, get in touch: [j.dykxhoorn\@ucl.ac.uk](mailto:j.dykxhoorn@ucl.ac.uk)
