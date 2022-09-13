@@ -1,7 +1,7 @@
 ---
 title: Neighborhood-level predictors of age-at-first-diagnosis of psychotic disorders
 subtitle: Does where you live affect how quickly you have access to psychiatric are?
-excerpt: Longitudinal research on neighbourhood factors and acces to mental health care, led by MSc student Spyros Spyridonidis.
+excerpt: Longitudinal research on neighbourhood factors and access to mental health care, led by MSc student Spyros Spyridonidis.
 text_align_right: false
 date: 2022-07-20
 author: "Jen Dykxhoorn"
