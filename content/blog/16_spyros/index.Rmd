@@ -33,7 +33,10 @@ The relationship between neighborhood-level factors and the incidence of psychot
 
 
 ## What did we do? 
-We used linked Swedish register data to identify a cohort of persons first diagnosed with an ICD-10 non-affective or affective psychotic disorder (F20-33) between 1997 and 2016. Using multilevel mixed-effect linear modelling, we investigated whether neighborhood deprivation and population density at birth were associated with age-at-first diagnosis of a psychotic disorder. Our final cohort included 13,440 individuals, with a median age-at-first-diagnosis of 21.8 years for women (interquartile range [IQR]: 19.0-25.5) and 22.9 years for men (IQR: 20.1-26.1; p<.0001).
+We used linked Swedish register data to identify a cohort of persons first diagnosed with an ICD-10 non-affective or affective psychotic disorder (F20-33) between 1997 and 2016. 
+
+Using multilevel mixed-effect linear modelling, we investigated whether neighborhood deprivation and population density at birth were associated with age-at-first diagnosis of a psychotic disorder. 
+Our final cohort included 13,440 individuals, with a median age-at-first-diagnosis of 21.8 years for women (interquartile range [IQR]: 19.0-25.5) and 22.9 years for men (IQR: 20.1-26.1; p<.0001).
 
 ## What did we find? 
 A one standard deviation increase in deprivation at birth resulted in a 47 day delay (95% CI: 18-77) in first diagnosis. 
