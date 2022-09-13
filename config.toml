@@ -129,13 +129,6 @@ enableEmoji = true
     url = "/publications/"
     weight = 4
     
-  # Configure footer  
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    action = "POST"
-    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

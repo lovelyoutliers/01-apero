@@ -1,0 +1,31 @@
+---
+title: "install packages for blog"
+author: "JLAD"
+date: "2022-08-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+install.packages("rmarkdown")
+install.packages("yaml")
+install.packages("scholar")
+install.packages("tidyverse")
+install.packages("blogdown")
+install.packages("ggplot2")
+install.packages("knitr")
+
+library("rmarkdown")
+library("yaml")
+library("scholar")
+library("tidyverse")
+library("blogdown")
+library("ggplot2")
+library(knitr)
+
+
+blogdown::install_hugo("0.99.1")
+blogdown::config_Rprofile() 
+blogdown::serve_site()
+```
