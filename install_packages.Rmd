@@ -1,0 +1,18 @@
+---
+title: "install packages for blog"
+author: "JLAD"
+date: "2022-08-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+install.packages("rmarkdown")
+install.packages("yaml")
+
+library("rmarkdown")
+library("yaml")
+
+
+```

@@ -134,7 +134,6 @@ enableEmoji = true
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    action = "POST"
     weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
