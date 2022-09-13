@@ -5,7 +5,7 @@ excerpt: Longitudinal research on neighbourhood factors and acces to mental heal
 text_align_right: false
 date: 2022-07-20
 author: "Jen Dykxhoorn"
-draft: true
+draft: false
 featured: true
 image_left: true
 show_social_links: true
@@ -24,44 +24,9 @@ categories:
 layout: single
 ---
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Westard Ho! homes "}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center'}
 knitr::include_graphics("featured.jpg")
 ```
-Using Swedish register data, Spyros found deprivation at birth & upbringing was associated with later age-at-first-diagnosis of psychotic disorder, after adjustment for confounders 2/n
-James B. Kirkbride
-@ProfKirkbride
-·
-11h
-A one standard deviation increase in deprivation at birth resulted in a 47 day delay (95%CI: 18-77) in first diagnosis 3/n
-James B. Kirkbride
-@ProfKirkbride
-·
-11h
-Interestingly, this pattern was initially masked by family income levels (with lower income associated with earlier diagnosis). Once adjusted for income, delays in diagnosis in more deprived neighbourhoods became evident 4/n
-James B. Kirkbride
-@ProfKirkbride
-·
-11h
-We found no evidence this differed by sex or non-affective vs. affective diagnosis, and no evidence of an association with population density; patterns were similar when exposure during upbringing was used 5/n
-James B. Kirkbride
-@ProfKirkbride
-·
-11h
-There may be barriers to accessing timely care for psychosis amongst those born and growing up in more deprived communities, providing an opportunity for tailored, targeted #earlyintervention #eip 6/n
-James B. Kirkbride
-@ProfKirkbride
-·
-11h
-Just published as an accepted manuscript; in press version should follow soon. Well done Spyros & thanks to great colleagues 
-@jendykxhoorn
- (
-@UCLPsychiatry
-) and Anna-Clara Hollander & Christina Dalman (
-@karolinskainst
-) for fantastic continued collaboration 7/7
-
-
-
 
 
 ## Why did we do this research?
@@ -71,18 +36,23 @@ The relationship between neighborhood-level factors and the incidence of psychot
 ## What did we do? 
 We used linked Swedish register data to identify a cohort of persons first diagnosed with an ICD-10 non-affective or affective psychotic disorder (F20-33) between 1997 and 2016. Using multilevel mixed-effect linear modelling, we investigated whether neighborhood deprivation and population density at birth were associated with age-at-first diagnosis of a psychotic disorder. Our final cohort included 13,440 individuals, with a median age-at-first-diagnosis of 21.8 years for women (interquartile range [IQR]: 19.0-25.5) and 22.9 years for men (IQR: 20.1-26.1; p<.0001).
 
-
 ## What did we find? 
-n an unadjusted model, we found no evidence of an association between neighborhood deprivation and age-at-first-diagnosis of psychotic disorder (p=.07). However, after multivariable adjustment, age-at-first-diagnosis increased by .13 years (95% CI: .05 to .21; p=.002) for a one standard deviation increase in neighborhood deprivation. This was equivalent to a later diagnosis of 47 days (95% CI: 18 to 77). We found no evidence of a different relationship for non-affective versus affective psychoses (LRT χ2(1) = .14; p=.71). Population density was not associated with age-at-first-diagnosis in unadjusted (p=.81) or adjusted (p=.85) models. Later age-at-first-diagnosis for individuals born in more deprived neighborhoods suggests structural barriers to accessing equitable psychiatric care.
+A one standard deviation increase in deprivation at birth resulted in a 47 day delay (95% CI: 18-77) in first diagnosis. 
+
+Interestingly, this association was first maksed by family income (in the unadjusted models), but once we accounted for income, delays in diagonsis related to neighbourhood deprivation became apparent (adjusted models).
+
+We found no evidence this differed by sex or non-affective vs. affective diagnosis, and no evidence of an association with population density; patterns were similar when exposure during upbringing was used.
+
 
 ## What does this mean?
+Later age-at-first-diagnosis for individuals born in more deprived neighborhoods suggests structural barriers to accessing equitable psychiatric care.
 
-[Read full-text article](addlink.com). 
+There may be barriers to accessing timely care for psychosis amongst those born and growing up in more deprived communities, providing an opportunity for tailored, targeted early intervention.
 
-This research was led by Spyros, one of the MSc students in the Division of Psychiatry. 
 
- 
+[Read full-text article](https://academic.oup.com/schizbullopen/article/3/1/sgac045/6640228). 
 
+This research was led by Spyros, one of the MSc students in the Division of Psychiatry and is part of an ongoing collaboration with researchers at Karolinska Institutet (Dr Anna-Clara Hollander & Prof Christina Dalman.
 
 
 
