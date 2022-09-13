@@ -132,7 +132,7 @@ enableEmoji = true
   # Configure footer  
   [[menu.footer]]
     name = "Contact"
-    title = "Contact form"
+    title = "Contact"
     url = "/contact/"
     weight = 2
 
