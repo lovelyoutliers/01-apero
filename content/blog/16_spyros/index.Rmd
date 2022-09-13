@@ -28,7 +28,6 @@ layout: single
 knitr::include_graphics("featured.jpg")
 ```
 
-
 ## Why did we do this research?
 The relationship between neighborhood-level factors and the incidence of psychotic disorders is well established. However, it is unclear whether neighborhood characteristics are also associated with age-at-first-diagnosis of these disorders.
 
