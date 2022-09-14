@@ -4,7 +4,7 @@ subtitle: Do parents have a lower or higher risk of suicide? Does this change ov
 excerpt: Research led by Alma Sörberg Wallin from Karolinska Institutet exploring if parenthood changed risk of suicide. 
 text_align_right: false
 date: 2022-07-14
-author: "Jen Dykxhoorn"
+author: "J Dykxhoorn"
 draft: false
 featured: true
 image_left: true

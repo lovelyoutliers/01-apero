@@ -15,9 +15,7 @@ categories:
 - Tips & tricks (look up that guy who writes the academic blog posts I like)
 ---
 
-```{r, echo=FALSE, out.width="75%", fig.cap="Photo: http://www.nzcompare.com", fig.align='centre'}
-knitr::include_graphics("img9.jpg")
-```
+
 The shocking reality TV show "Hoarders" was still allegedly popular during my PhD (although I an not 45 years old so I don't have a cable subscription so I have never actually watched it). As a true millennial (cue grinding of the teeth for all readers who are "lucky" enough to perpetually look down on the spoiled, self-centred millennial), I have a real hording problem - but of digital matter. 
 
 I honestly have very little idea how to curate my masses of electronic information, how to manage the flow of articles, how to keep relevant versions of documents, and how to properly back up things so that when your computer contracts a lethal virus (after the attempted illegal download of an expensive statistical software package), you don't have a total meltdown. 

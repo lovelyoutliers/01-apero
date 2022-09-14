@@ -1,6 +1,6 @@
 ---
 title: "Conceptual framework for public mental health"
-author: " "
+author: "J Dykxhoorn"
 date: "2022-09-12"
 use_featured: true
 draft: false

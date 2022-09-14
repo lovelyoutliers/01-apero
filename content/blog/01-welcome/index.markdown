@@ -3,7 +3,7 @@ title: "Welcome to my research site"
 subtitle: "Under construction - Don't mind the dust!"
 excerpt: "Welcome to my new research site!"
 date: 2022-01-01
-author: "Jen Dykxhoorn"
+author: "J Dykxhoorn"
 draft: false
 featured: true
 image_left: true
