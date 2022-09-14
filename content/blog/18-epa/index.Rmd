@@ -1,7 +1,7 @@
 ---
 title: Re-imagining public mental health together: A week of psychiatric epi
-subtitle: : EPA Epidemiology & Social Psychiatry conference
-excerpt: What happens when you invite 350 of your favourite psych epi researchers and people with lived experience to chat mental health research? Magic. 
+subtitle: EPA Epidemiology & Social Psychiatry conference
+excerpt: "What happens when you invite 350 of your favourite psych epi researchers and people with lived experience to chat mental health research? Magic."
 text_align_right: false
 date: 2022-09-14
 author: "Jen Dykxhoorn"
@@ -46,7 +46,6 @@ In a week of highlights, here were a few of my favourite moments.
 One of the perks of being a member of the local organising committee is to suggest who might be our dream speakers. And sometimes they say yes! Fast forward 3 years, and I found myself on the mainstage introducing one of my public health heros, Professor Sir Michael Marmot. 
 
 His research over the past 40 years has transformed the conversation about health inequalities and has inspired a generation of public health researchers working to understand and address inequalities. 
-
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Prof Sir Michael Marmot & Jen Dykxhoorn, EPA 2022"}
 knitr::include_graphics("marmot.jpeg")

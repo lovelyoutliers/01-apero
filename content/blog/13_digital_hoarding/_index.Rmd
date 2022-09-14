@@ -2,10 +2,10 @@
 
 title: "Digital hoarding"
 subtitle: ""
-author: " "
+author: "Jen Dykxhoorn"
 date: "23/12/2019"
 use_featured: true
-expert: 
+expert: ""
 format: single
 series: 
 - Aca life (musings about academic life and research culture)
