@@ -11,3 +11,7 @@ date: "2022-08-31"
 ---
 
 To collaborate or for more information about my research, get in touch: [j.dykxhoorn\@ucl.ac.uk](mailto:j.dykxhoorn@ucl.ac.uk)
+
+```{r, echo=FALSE, out.width="75%", fig.cap="", fig.align='centre'}
+knitr::include_graphics("avatar.jpeg")
+```

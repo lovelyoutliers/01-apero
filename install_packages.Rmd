@@ -13,6 +13,9 @@ install.packages("yaml")
 
 library("rmarkdown")
 library("yaml")
+library("blogdown")
+library("knittr")
+
 
 
 ```
