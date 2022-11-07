@@ -18,6 +18,8 @@ keep_md: yes
 
 ## Peer-reviewed publications
 
+Spyridonidis S, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride JB. [Neighborhood-level predictors of age-at-first-diagnosis of psychotic disorders: A Swedish register-based cohort study](https://academic.oup.com/schizbullopen/article/3/1/sgac045/6640228). Schiz Bull Open 2022 Jan;3(1).
+
 Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022 June.
 
 Sörberg Wallin A, Sjöqvist H, Dehara M, Wells MB, Dykxhoorn J, Kosidou K, Dalman C. [Parenthood and lower risk of suicide in women and men: the total Swedish population followed across adulthood](https://link.springer.com/article/10.1007/s00127-022-02321-y). Soc Psychiatry Psychiatr Epidemiol. 2022.
