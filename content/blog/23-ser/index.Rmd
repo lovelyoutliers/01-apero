@@ -1,0 +1,33 @@
+---
+title: "A little about me: SER member profile"
+author: "Jen Dykxhoorn"
+date: "2022-09-22"
+slug: []
+categories:
+  - Press
+  - epidemiology
+  - 
+tags:
+  - Media
+subtitle: ''
+excerpt: ''
+draft: no
+series: ~
+layout: single
+image_left: true
+featured: true
+show_social_links: true
+---
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
+knitr::include_graphics("featured.jpg")
+```
+
+Wondering what sparked my interest in epi and why I think it is the best career? 
+
+Check out this [brief profile by the Society for Epidemiologic Research](https://epiresearch.org/2022/10/25/member-insight-jennifer-dykxhoorn/). 
+
+It's a treat to be featured on the SER site. I have been a member of SERs for several years, and am currently on the Membership & Nominations Committee and the International Sub-committee. It is a wonderfully supportive community, with lots of opportunity to learn cutting-edge methods, present at conferences, and meet other epidemiologists from around the world. One of the highlights is the annual meeting (which will be hosted in Portland in 2023, and abstract submissions are open!)
+
+
+
+

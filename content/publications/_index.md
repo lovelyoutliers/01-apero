@@ -20,9 +20,9 @@ keep_md: yes
 
 Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022 June.
 
-Sörberg Wallin A, Sjöqvist H, Dehara M, Wells MB, Dykxhoorn J, Kosidou K, Dalman C. [Parenthood and lower risk of suicide in women and men: the total Swedish population followed across adulthood](https://link.springer.com/article/10.1007/s00127-022-02321-y) Soc Psychiatry Psychiatr Epidemiol. 2022.
+Sörberg Wallin A, Sjöqvist H, Dehara M, Wells MB, Dykxhoorn J, Kosidou K, Dalman C. [Parenthood and lower risk of suicide in women and men: the total Swedish population followed across adulthood](https://link.springer.com/article/10.1007/s00127-022-02321-y). Soc Psychiatry Psychiatr Epidemiol. 2022.
 
-Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. [Conceptualising public mental health: development of a conceptual framework for public mental health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13775-9).BMC Public Health. 2022 Jul;22.
+Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. [Conceptualising public mental health: development of a conceptual framework for public mental health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13775-9). BMC Public Health. 2022 Jul;22.
 
 Lee C, Kuhn I, McGrath M, Remes O, Cowan A, Duncan F, Baskin C, Oliver EJ, Osborn D, Dykxhoorn J, Kaner E, Walters K, Kirkbride JB, Gnani S, Lafortune L. [A systematic scoping review of community-based interventions for the prevention of mental ill-health and the promotion of mental health in older adults in the UK](https://pubmed.ncbi.nlm.nih.gov/33988281/). Health & Social Care in the Community. 2022 Jan;30(1):27-57.
 
