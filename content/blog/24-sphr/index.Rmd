@@ -1,5 +1,5 @@
 ---
-title: Behind the research: SPHR profile
+title: "Behind the research: SPHR profile
 author: Jen Dykxhoorn
 date: '2021-10-04'
 slug: []
@@ -9,25 +9,19 @@ categories:
   - public mental health
 tags:
   - Media
-subtitle: ''
-excerpt: ''
-draft: no
-series: ~
-layout: single
+draft: false
 image_left: true
-featured: true
 show_social_links: true
+series:
+layout: single
 ---
+
+
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
-knitr::include_graphics("24_featured.jpg")
+knitr::include_graphics("24_featured.png")
 ```
 
 To accompany the launch of our [interactive public mental health website](www.publicmentalhealth.co.uk), the School for Public Health Research published a profile on my work, as a glimpse "behind the research."
 
-[Check out the profile here](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-jen-dykxhoorn/). 
-
-
-
-
-
+[Check out the profile here](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-jen-dykxhoorn/).
 
