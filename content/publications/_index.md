@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2022-07-15
+date: 2023-03-26
 draft: false
 excerpt: Publications, book chapters, and reports
 layout: single
@@ -17,6 +17,8 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+
+Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). JMIR. 2023 Mar;25.
 
 Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. [Conceptualising public mental health: development of a conceptual framework for public mental health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13775-9). BMC Public Health. 2022 Jul;22.
 
@@ -70,7 +72,7 @@ McMartin S, Kingsbury M, Dykxhoorn J, Colman I. [Time trends in symptoms of adol
 
 ## Commentaries
 
-Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imperative to address the mental health crises within asylum-seekers and refugees system: a commentary on Hvidtfeldt et al. (2021)](https://link.springer.com/article/10.1007/s00127-022-02318-7). 2022 June 17.
+Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imperative to address the mental health crises within asylum-seekers and refugees system: a commentary on Hvidtfeldt et al. (2021)](https://link.springer.com/article/10.1007/s00127-022-02318-7). Soc Psych and Psych Epi. 2022 June 17.
 
 Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplinary understanding of psychosis risk amongst migrants and their descendants](https://pubmed.ncbi.nlm.nih.gov/30208980/). Epidemiol Psychiatr Sci. 2019 Apr;28(2):146-152.
 
