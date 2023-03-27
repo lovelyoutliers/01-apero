@@ -20,17 +20,18 @@ Research is not a solitary act. All of the work described in this site has only 
 + [Prof James Kirkbride](https://www.psylife.eu/): James was one of my PhD supervisors (2015-19) and is the head of the PsyLife group at UCL. The PsyLife group explores inequalities in the social determinants of psychosis and other mental health problems over the life course. 
 
 + [Prof Glyn Lewis](https://www.ucl.ac.uk/brain-sciences/people/professor-glyn-lewis): Glyn also supervised my PhD and is a trailblazer in exploring the causes of psychiatric disorders, with a particular focus on depression and psychosis. 
+
 + [Prof Ian Colman](http://www.psychepi.com/): Ian was my MSc supervisor (2012-14), who guided me down the garden path of epi, big data, and longitudinal research. His research group is a leading psychiatric epidemiology group in Canada, producing rigorous research long-term processes surrounding common mental disorders and their treatment, including suicidal behaviour.
 
 ## Students and trainees 
-I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. 
+I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
 
 MSc students
 + Melisa Yimaz (2022): Social exclusion and mental health
 
 + Fiona Lin (2021): Neighbourhood characteristics at migration and psychosis risk 
 
-+ Spyros Spyridonidis (2021): Neighbourhood-level predictors of the age of onset of psychotic disorders
++ Spyros Spyridonidis (2021): [Neighbourhood-level predictors of the age of onset of psychotic disorders](https://academic.oup.com/schizbullopen/article/3/1/sgac045/6640228)
 
 + Tanuja Noor (2021): Systematic review of discrimination measures
 
@@ -51,18 +52,21 @@ MSc students
 
 
 PhD students
-+ Nat Rich (committee member) - Ethnic inequalities in psychosis
++ Natalie Rich (committee member - 2022-2025) - Ethnic inequalities in psychosis
 
-+ Jenny Fielder (Wellcome PhD placement supervisor) - Neighbourhood cohesion, income, and mental health
++ Jenny Fielder (Wellcome PhD placement supervisor - 2022) - Neighbourhood cohesion, income, and mental health
 
-+ Sarah Ledden (additional supervisor) - Alcohol and suicidality
++ Sarah Ledden (additional supervisor - 2019-2023) - Alcohol and suicidality
 
-If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch - j.dykxhoorn@ucl.ac.uk. 
+
+Academic clinical fellows
++ Philippa Clery - Heat waves and mental health 
+
 
 Pre- and Post-doctoral fellows
-+ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring trajectories of housing affordability and mental health. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
++ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the gendered impact of the COVID-19 pandemic. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
-+ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the link between social media and mental health. Since completing her NIHR launching fellowship, she has secureed a NIHR Three Schools Mental Health fellowship to continue her research. 
++ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secureed a NIHR Three Schools Mental Health fellowship to continue her research. 
 
 
 
