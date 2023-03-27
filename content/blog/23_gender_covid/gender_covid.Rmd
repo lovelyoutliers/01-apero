@@ -1,0 +1,67 @@
+---
+title: Gendered impact of the pandemic on mental health 
+author: JA Dykxhoorn
+date: '2023-03-29'
+slug: []
+categories:
+  - Cohort study
+  - Epidemiology
+  - Longitudinal
+  - Social determinants of mental health
+  - Common mental disorders
+  - Gender
+  - COVID
+subtitle: ''
+excerpt: ''
+draft: yes
+series: ~
+layout: single
+---
+Cast your mind back to the spring of 2020. As the crocuses a d dafodils started to The world was in the start of what would become a global pandemic. We were all learning about coronaviruses and studying on Facebook university to become infectious disease epidemiologists. We were just at the start - not knowing that 3 million would die in 2020 alone from a disease that we had not even heard of months earlier. 
+
+As the pandemic unfolded, we found ourselves negotiating confusing messages from public officials, banging pots and pans off our balconies, and having a worrying number of conversations about toilet paper. In short, we were finding ourselves unmoored from our normal life, particularly with the annoucement of national lockdown measures which moved everyone indoors. 
+
+In the UK, a national lockdown was implemented from March 23 through May 11, when some restrintions were relaxed. This lockdown included strict measures about permitted reasons to leave your house (e.g. daily exercise, walking dogs, or going grocery shopping). Schools were closed and students moved to online learning from home. Most offices were shut, and any non-essential workers started working from home, converting kitchen tables and bedrooms into office space. Bars and restaurants were closed and all other forms of socialising were prohibited. 
+
+These restrictions, while necessary for the containment of a major infectious disase threat, caused disruption and distress. People were facing the stress of a largely unknown threat, daily uncertainty, and stress. 
+
+Without a doubt, many people were struggling - with the stress of an unknown threat, the uncertainty of every day life, where things like taking the bus or going to the grocery store took on a level of threat, the uncertainty of when things would return to "normal" and the worry about vulnerable loved ones. 
+
+This struggle has been quantified by research, with many studies showing that mental health declined substantially during the pandemic compared to pre-pandemic levels. 
+Importantly, this deterioration in mental health was not experienced equally for all in the population, and research has found that women experienced a more substantial decrease in their mental health compared to men.*
+  
+  
+
+
+demonstrating the high levels of metal health problems, including elevated rates of depression and anxiety. This deterioration of mental health was seen most dramatically in women, however explanations for this gender difference have not yet been explored. 
+
+There are many possible drivers for the gendered impact of the pandemic on mental health, including women being more likely to face: 
+- A disproportionate burden of housework and unpaid domestic labour
+- Extra childcare respponsibilities, including overseeing online education
+- Higher levels of employment disruption (e.g. being laid off or "furloughed", having hours cut/reducing hours due to domestic responsibliites, or losing jobs in impacted industries)
+- Elevated feelings of loneliness
+
+
+Aim
+This paper aimed to explore these 4 possible pathways to see if the gendered impact of the pandemic on mental health can be explained by these explanations. 
+
+What did we do
+Using data from Understanding Society, a longitudinal survey from the UK, we were able to use mental health measures from before the start of the pandemic, look at experiences in the first lockdown (April 2020), and see if there was an impact on mental health oucomes in May and June. 
+
+Mental health was measured using a 12-item quesionnarie (the General Health Questionnaire - GHQ-12)
+
+We conducted a mediation analysis using structural equation modelling to see how much of the relationship could be explained by the following four factors: 
+- Employment disruption
+- Hours spent on housework
+- Hours spent on childcare
+- Loneliness 
+
+[add pretty picture drawing this out]
+
+[figure out how to do those simple illustrations]
+
+This paper was led by my superstar predoctoral fellow, Kate Dotsikas, who has since moved to Paris to continue her social epi career at the Sorbonne. 
+
+*Figure out how to change the font to make a footnote like this 
+
+  *(add a footnote: Overall, levels of common mental disorders, including depression and anxiety are higher for women then men. This research is able to account for this pre-pandemic difference and focus on the gendered CHANGE in mental health status)
