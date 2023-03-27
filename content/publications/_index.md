@@ -19,7 +19,11 @@ keep_md: yes
 ## Peer-reviewed publications
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). J Med Internet Res 2023;25:e43213
+=======
+Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). JMIR. 2023 Mar;25.
+>>>>>>> ee74e6aa88b9d3744e2187e523225ff5685876ae
 =======
 Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). JMIR. 2023 Mar;25.
 >>>>>>> ee74e6aa88b9d3744e2187e523225ff5685876ae
