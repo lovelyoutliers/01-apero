@@ -16,6 +16,8 @@ tags: []
 draft: no
 series: ~
 layout: single
+image_left: true
+featured: true
 
 ---
 
