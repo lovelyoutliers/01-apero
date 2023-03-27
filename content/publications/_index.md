@@ -18,15 +18,7 @@ keep_md: yes
 
 ## Peer-reviewed publications
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). J Med Internet Res 2023;25:e43213
-=======
-Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). JMIR. 2023 Mar;25.
->>>>>>> ee74e6aa88b9d3744e2187e523225ff5685876ae
-=======
-Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). JMIR. 2023 Mar;25.
->>>>>>> ee74e6aa88b9d3744e2187e523225ff5685876ae
+Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). J Med Internet Res 2023;25.
 
 Dykxhoorn J, Fischer L, Bayliss B, Brayne C, Crosby L, Galvin B, Geijer-Simpson E, Jones O, Lafortune L Michael M, Jones O, Kaner E, Moehring P, Osborn D, Petermann M, Remes O, Vadgama A, Walters K. [Conceptualising public mental health: development of a conceptual framework for public mental health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13775-9). BMC Public Health. 2022 Jul;22.
 
