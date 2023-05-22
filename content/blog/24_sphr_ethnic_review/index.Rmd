@@ -1,20 +1,24 @@
 ---
-title: Measuring social exclusion and its distribution across England
-subtitle: How can we capture the multidimensional nature of social exclusion in quantitatiave research? 
-excerpt: Research describing an analytic approach to measuring five domains of social exclusion using data from a UK household survey
+title: Improving public mental health among adults from ethnic minority populations in the UK: New research
+subtitle: What community-based interventions improve the mental health of ethnic minoritised adults?
+excerpt: 
 author: J Dykxhoorn
-date: '2023-05-09'
+date: '2021-05-28'
 slug: []
 categories:
-  - Social exclusion
   - Health inequalities
   - Epidemiology
-  - Public health
-  - Principal component analysis
-  - Understanding Society
+  - Public mental health
+  - Race/ethnicity
   - Social determinants of mental health
-tags: []
-draft: yes
+  - Scoping review
+tags: 
+- minoritised groups
+- ethnicity
+- public mental health
+- community interventions
+- scoping review
+draft: no
 series: ~
 layout: single
 image_left: true
@@ -22,49 +26,47 @@ featured: true
 
 ---
 
-
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Is social media use driving mental health problems in young people?"}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Mental health interventions for ethnic minoritised groups, Photo: V Karpovich on Pexels.com"}
 knitr::include_graphics("featured.jpeg")
 ```
 
-## Why did we do this research?
 
-## Research question
-What is the association between social media use and later mental health problems in adolescents? 
+For the past two years, I have been the programme manager and senior research fellow on a large programme of research aimed at generating evidence for public mental health. As with many projects, it always takes time before you can see the fruits of all of the work. I am delighted that our first papers are coming out now, with more exciting stuff to follow. 
+
+
+## Why did we do this research?
+We wanted to see what community-based interventions exist to improve the mental health of adults from ethnic minority groups.
+
 
 ## What did we do? 
-Using data from [Understanding Society](https://www.understandingsociety.ac.uk/), we included 3,228 young people who had answered questions about their social media use at the ages 12-13. We followed these young people for two years and measured their mental health at ages 14-15. 
+We conducted a scoping review of studies on the effectiveness of community-centred interventions designed to improve the mental health and well-being of adults from ethnic minority groups in the UK.
 
-
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Self-esteem as a mediator in the relationship between social media use and mental health"}
-knitr::include_graphics("dag.png")
-```
+We searched six electronic academic databases for studies published between January 1990 and September 2019: Medline, Embase, PsychINFO, Scopus, CINAHL and Cochrane
 
 ## What did we find? 
-Overall, most 12-13-year-olds reported some social media use on weekdays (74.3%) with over 10% reporting using 4 hours or more per day. 
+Our preliminary searches identified 4,501 studies, but only 7 met the eligibility criteria: 
+- four randomised controlled trials, 
+- one pre/post-pilot study, 
+- one cross-sectional study,
+- one ethnographic study. 
 
+Interventions included therapy-style sessions, peer-support groups, educational materials, gym access and a family services programme. 
 
-We found that more time spent on social media at ages 12-13 was not associated with mental health problems at ages 14-15. 
+Common components included a focus on tackling social isolation, using lay health workers from within the community, signposting and overcoming structural barriers to access. 
 
-The unadjusted model showed a relationship between increased social media and more mental health problems, but this relationship was fully attenuated once we accounted for sex, ethnicity, baseline mental health, and other covariates. Most of the relationship could be explained by mental health problems at baseline.
+Four studies found that the intervention improved mental health outcomes. 
 
-We found that self-esteem partially mediated this relationship, but once we accounted for important baseline variables, this relationship was also fully attenuated. 
-
+However, 6 studies were assessed as having a "high risk of bias." Studies with a high-risk of bias have flaws or issues in the design or analysis which means that we cannot be confident in the results of these studies.   
 
 ## What does this mean?
-This research shows that there is little evidence of a relationship between social media and developing mental health problems. 
+Despite clear evidence showing that people from ethnic minority groups tend to experience more mental health problems due to structural and institutional risk factors, we found that there were few interventions which have been designed to improve mental health in this population. 
 
-From a methodological perspective, it also shows the importance of using longitudinal data, as the longitudinal findings consistently find little evidence for a link between social media and adolescent mental health, while many cross-sectional studies find a negative relationship between social media use and mental health.
+This review highlighted that we need to continue to design and evaluate interventions for ethnic minority populations in order to have the high-quality evidence needed to guide public health practice and policies. 
 
-This finding also questions mental health interventions which aim to reduce social media usage in order to improve mental health in young people. The lack of a longitidnal association suggest that these interventions are unlikely to be an effective way to improve mental health and reduce mental disorders in young people. 
-
-[Read full-text, open-access article](https://www.jmir.org/2023/1/e43213). This research was also in the news. [Read the iNews story](https://inews.co.uk/news/science/social-media-not-bad-feared-teen-mental-health-study-2258605)
-
-## Behind the research
-This research was led by [Dr Ruth Plackett](https://www.ucl.ac.uk/epidemiology-health-care/ruth-plackett) during her post-doctoral launching fellowship from the NIHR School for Public Health Research. She has gone on to secure another fellowship to continue her mental health research. 
+This paper is Open Access, so you can read the full paper here: [Mental health interventions for ethnic minoritised groups](https://bmjopen.bmj.com/content/11/4/e041102.full)
 
 
-Photo by Markus Spiske on [Unsplash.com](https://unsplash.com/photos/QozzJpFZ2lg)
+
  
 
 
