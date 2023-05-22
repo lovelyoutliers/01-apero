@@ -1,0 +1,42 @@
+---
+title: Mental health, social isolation, and financial stress
+subtitle: A pandemic Christmas (podcast interview)
+excerpt: One of the exciting new projects I have been involved in is the launch of a new podcast. 
+author: J Dykxhoorn
+date: '2020-12-17'
+slug: []
+categories:
+  - Health inequalities
+  - Epidemiology
+  - Public mental health
+  - Financial stress
+  - Covid 19
+  - Social isolation
+  - Social determinants of mental health
+  - Media
+  - Podcast 
+tags: 
+- public mental health
+- Podcast
+- Media
+
+draft: no
+series: ~
+layout: single
+image_left: true
+featured: true
+
+---
+
+One of the exciting new projects I have been involved in is the launch of a new podcast: Real World Public Mental Health. This podcast was developed as a forum to discuss how evidence can be used in the real world to prevent mental health problems and promote better mental health.
+
+It is hosted by Stu King of the Behavioural Science and Public Health Network in partnership with a bunch of collaborators, including our NIHR Public Mental Health Programme and Public Health England. 
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Photo: www.nzcompare.com"}
+knitr::include_graphics("featured.jpeg")
+```
+
+
+I was delighted to participate in the second episode, which has just been released [Social isolation, loneliness, and financial strain](https://www.buzzsprout.com/1427881/6798052-social-isolation-loneliness-financial-strain-dr-jen-dykxhoorn-ed-davie-caron-walker). 
+
+In this episode, I join Ed Davie and Caron Walker to discuss the impact of loneliness, social isolation, and financial strain on mental health problems, with consideration to the influence of COVID-19 and the start of the holiday season. You can listen to the interview here: [Real World Public Mental Health podcast](http://bit.ly/3r1thMn)
