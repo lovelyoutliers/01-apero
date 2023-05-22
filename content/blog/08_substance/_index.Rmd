@@ -28,7 +28,7 @@ featured: true
 It’s been a while since I have shared any epi fun on the blog, and I am very overdue on an update, but I thought I would tide you over with this little research snack – a paper we just published on substance use disorders in migrants and refugees: [full text](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002944).
 
 ```{r, echo=FALSE, out.width="75%", fig.cap="", fig.align='centre'}
-knitr::include_graphics("featured.jpg")
+knitr::include_graphics("featured.JPG")
 ```
 
 
