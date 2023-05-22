@@ -1,17 +1,26 @@
 ---
-title: "Substance use in migrants and refugees"
-author: " "
+title: Substance use in migrants and refugees
+subtitle: 
+exerpt: 
+author: J Dykxhoorn
 date: "2019-07-20"
 use_featured: true
-draft: true
-expert: 
+draft: false
 
-categories: 
-- Swedish 
-- Sweden
-- Migrants & refugees
-- Substance use
-- Longitudinal
+categories:
+  - Sweden
+  - Epidemiology
+  - Substance use
+  - Public mental health
+  - Migration
+  - Migrants & refugees
+  - Open access
+  - Psychiatric epidemiology
+  - Psychosis
+  - Social determinants of mental health
+tags: 
+- New research
+
 ---
 
 ```{r setup, include=FALSE}
