@@ -1,7 +1,7 @@
 ---
-title: Improving public mental health among adults from ethnic minority populations in the UK: New research
+title: Improving public mental health among adults from ethnic minority populations in the UK
 subtitle: What community-based interventions improve the mental health of ethnic minoritised adults?
-excerpt: 
+excerpt: What community-based interventions exist to improve the mental health of adults from ethnic minority groups?
 author: J Dykxhoorn
 date: '2021-05-28'
 slug: []
@@ -26,12 +26,13 @@ featured: true
 
 ---
 
+
+For the past two years, I have been the programme manager and senior research fellow on a large programme of research aimed at generating evidence for public mental health. As with many projects, it always takes time before you can see the fruits of all of the work. I am delighted that our first papers are coming out now, with more exciting stuff to follow. 
+
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Mental health interventions for ethnic minoritised groups, Photo: V Karpovich on Pexels.com"}
 knitr::include_graphics("featured.jpeg")
 ```
 
-
-For the past two years, I have been the programme manager and senior research fellow on a large programme of research aimed at generating evidence for public mental health. As with many projects, it always takes time before you can see the fruits of all of the work. I am delighted that our first papers are coming out now, with more exciting stuff to follow. 
 
 
 ## Why did we do this research?
