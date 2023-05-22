@@ -1,7 +1,7 @@
 ---
 title: Neighbourhood migrant density and psychotic disorders
-subtitle: A pandemic Christmas (podcast interview)
-excerpt: One of the exciting new projects I have been involved in is the launch of a new podcast. 
+subtitle: New research
+excerpt: Does the proportion of one's neighbours which share migration backgrounds impact psychosis risk? 
 author: J Dykxhoorn
 date: '2020-03-06'
 slug: []
@@ -39,29 +39,29 @@ There is some previous research which suggests that ethnic density - the proport
 
 We wanted to see if migrant density, or the proportion of one's neighbours who have the same background (e.g. migrated from the same region, or have parents who came from the same region) explained the psychosis risk in migrant populations.
 
-##Research question:
+## Research question:
 1. Does neighbourhood migrant density affect risk of developing psychotic disorders? 
 
 2. Does this vary by generation status (e.g. migrants vs. children of migrants), visible minority status, or region of origin?
 
-##What did we find?
+## What did we find?
 Migrant density was associated with psychosis risk - we found that those who had neighbours with shared backgrounds had lower risk of developing psychotic disorders. This relationship was stronger in probable visible minority migrants, including those from Asia and sub-Saharan Africa. This pattern was also observed for children of migrants.
 
-##What does this mean?
+## What does this mean?
 Our findings suggest that having neighbours with shared characteristics may be beneficial to the mental health of migrants and their children. Since we observed different rates of psychotic disorders based on neighbourhood characteristics, it suggests that the unequal distribution of psychosis in migrant populations may be socially constructed.
 
-##Why? What might be underlying this pattern?
+## Why? What might be underlying this pattern?
 We can't determine the mechanism that underlies this relationship from this study, so the following is pure speculation. Some theories we have considered include:
 
 - Social support - migrant groups living in areas with others from similar background may have increased social support, enhanced feelings of inclusion, and be buffered from experiences of racism and discrimination. Migrants with more neighbours who have shared migration experiences, cultural practices, or language may experience a greater sense of belonging, feel more connected to others, and have access to more emotional or practical support.
 - Experience of being different - conversely, migrants living in areas where there are few who share a migrant background may feel different from their social environment, experience higher levels of social stress, and more frequent experiences of discrimination.
 
-##Where can we go from here?
+## Where can we go from here?
 While one interpretation of this research may be to suggest that migrants should seek to settle in neighbourhoods with a high number of migrants from the same region, this study adds to growing body of literature that highlights how the broader society may be failing to support the mental health and well-being of migrants, particularly beyond their communities of support.
 
 As mentioned, this research is not able to say what mechanisms drives the migrant density effect, but it does suggest that we may need to consider how neighbourhoods can support and undermine mental health in migrant groups.
 
-##What do you think?
+## What do you think?
 I would love to hear what you think of this question, and what other things we may want to consider in our next paper.
 
 If you want to hear what another researcher thinks about this research, you can also read this commentary that was published alongside the paper: [Commentary](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30101-2/fulltext)
