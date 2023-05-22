@@ -1,22 +1,28 @@
 ---
-title: "Substance use in migrants and refugees"
-author: " "
+title: Substance use in migrants and refugees
+subtitle: 
+exerpt: 
+author: J Dykxhoorn
 date: "2019-07-20"
 use_featured: true
-draft: true
-expert: 
+draft: false
 
-categories: 
-- Swedish 
-- Sweden
-- Migrants & refugees
-- Substance use
-- Longitudinal
+categories:
+  - Sweden
+  - Epidemiology
+  - Substance use
+  - Public mental health
+  - Migration
+  - Migrants & refugees
+  - Open access
+  - Psychiatric epidemiology
+  - Psychosis
+  - Social determinants of mental health
+tags: 
+- New research
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 It’s been a while since I have shared any epi fun on the blog, and I am very overdue on an update, but I thought I would tide you over with this little research snack – a paper we just published on substance use disorders in migrants and refugees: [full text](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002944).
 
 ```{r, echo=FALSE, out.width="75%", fig.cap="", fig.align='centre'}
