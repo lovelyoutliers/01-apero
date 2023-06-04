@@ -114,7 +114,6 @@ disruption - Hours spent on housework - Hours spent on childcare -
 Loneliness
 
 ## What did we find?
-
 We found that the worse mental health reported by women in the initial
 period of COVID-19 was partly explained by experiences of loneliness.
 Experiences of loneliness, for example in April 2020, had a strong
@@ -123,7 +122,6 @@ health problems in June. This was not found to be the case for
 housework, childcare or employment disruption.
 
 ## What does this mean?
-
 We demonstrated that loneliness was a key driver of the worse mental
 health experienced by women during the pandemic.
 
@@ -132,18 +130,15 @@ during disruptive periods of change, such as the pandemic, to prevent
 mental health problems in women.
 
 ## Read more
-
 The full article was published in PLoS One and is available
 [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514#pone.0283514.ref007)
 
 ## Behind the research
-
 This paper was led by my superstar pre-doctoral fellow, Kate Dotsikas,
 who has since moved to Paris to continue her social epi career at the
 Sorbonne. Another pre-doctoral fellow, Liam Crosby, worked on this
 analysis as well, before moving into an exciting role in public health
 practice.
-
 
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
 knitr::include_graphics("featured.jpeg")
