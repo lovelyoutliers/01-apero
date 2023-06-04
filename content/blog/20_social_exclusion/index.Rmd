@@ -61,7 +61,7 @@ We found that the levels of social exclusion varied by age group, region, and et
 ![Distribution of social exclusion domains by age group, 2009/2010](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00127-023-02489-x/MediaObjects/127_2023_2489_Fig2_HTML.png?as=webp)
 
 
-![Distribution of social exclusion domains across England(https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00127-023-02489-x/MediaObjects/127_2023_2489_Fig1_HTML.png?as=webp)]
+![Distribution of social exclusion domains across England](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00127-023-02489-x/MediaObjects/127_2023_2489_Fig1_HTML.png?as=webp)
 
 ## What does this mean? 
 This research demonstrates that it is possible to use existing population studies to generate good estimates of social exclusion. Further, our findings that there were important differences across domains suggests that attention should be paid to these separate domains, particularly when designing interventions with reduce the levels of social exclusion in the population. 
