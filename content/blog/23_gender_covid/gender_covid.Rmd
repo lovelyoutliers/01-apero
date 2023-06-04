@@ -27,11 +27,7 @@ editor_options:
     wrap: 72
 ---
 
-
-```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
-knitr::include_graphics("featured.jpeg")
-```
-
+![](https://images.unsplash.com/photo-1612246964377-048f2f1e76d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
 Cast your mind back to the spring of 2020. As the crocuses and daffodils
 started to, we were hearing rumblings about a new virus. As the days
@@ -147,3 +143,8 @@ who has since moved to Paris to continue her social epi career at the
 Sorbonne. Another pre-doctoral fellow, Liam Crosby, worked on this
 analysis as well, before moving into an exciting role in public health
 practice.
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
+knitr::include_graphics("featured.jpeg")
+```
