@@ -3,7 +3,7 @@ title: Measuring social exclusion and its distribution across England
 subtitle: How can we capture the multidimensional nature of social exclusion in quantitatiave research? 
 excerpt: Research describing an analytic approach to measuring five domains of social exclusion using data from a UK household survey
 author: J Dykxhoorn
-date: '2023-05-09'
+date: '2023-06-04'
 slug: []
 categories:
   - Social exclusion
@@ -13,8 +13,9 @@ categories:
   - Principal component analysis
   - Understanding Society
   - Social determinants of mental health
+  - Measurement
 tags: []
-draft: no
+draft: false
 series: ~
 layout: single
 image_left: true
@@ -23,49 +24,49 @@ featured: true
 ---
 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Is social media use driving mental health problems in young people?"}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Measuring social exclusion"}
 knitr::include_graphics("featured.jpeg")
 ```
 
-## Why did we do this research?
 
-## Research question
-What is the association between social media use and later mental health problems in adolescents? 
+
+Social exclusion is a term that has been used for many years in political rhetoric to represent the multidimensional processes which restrict groups or individuals from participating fully in society.
+
+While it is a powerful concept, we have not been able to measure it consistently across health and social studies. Many studies have used one aspect (e.g. low income) as a proxy for social exclusion. On the other side of the spectrum, some have developed dedicated surveys to get detailed measures of social exclusion (e.g. Netherlands). However, while these specialised surveys can provide an in depth picture of social exclusion at one point in time, they are not as useful in understanding how social exclusion changes over time and how it relates to a range of factors like mental health outcomes. 
+
+#Why did we do this resarch?
+The goals of this project were to generate a measurement approach to social exclusion which captured the multidimensional nature of social exclusion using existing population health data, which could be replicated at multiple timepoints. 
 
 ## What did we do? 
-Using data from [Understanding Society](https://www.understandingsociety.ac.uk/), we included 3,228 young people who had answered questions about their social media use at the ages 12-13. We followed these young people for two years and measured their mental health at ages 14-15. 
+We first reviewed the existing literature around social exclusion to capture the range of what is included in social exclusion. We also consulted with people with lived experience to discuss their understanding of the important aspects of social exclusion. We narrowed the list to 5 main domains: 
 
+Five domains of social exclusion
++ Material exclusion (e.g. poverty, housing insecurity, unemployment)
++ Relational exclusion (e.g. low social support)
++ Political exclusion (e.g. disengagement from civic and political processes)
++ Digital exclusion (e.g. lacking technology or skills to access digital resources)
++ Structural exclusion (e.g. unequal distribution of power due to discrimination or unjust policies)
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Self-esteem as a mediator in the relationship between social media use and mental health"}
-knitr::include_graphics("dag.png")
-```
+With these domains, we then used Wave 1 (2009/2010) of [Understanding Society](https://www.understandingsociety.ac.uk/) to find questions (measures) in the survey that related to each of these domains. We then conducted Principal Component Analysis within each domain to identify the main "components" of each of these domains. 
+
+For example, we identified 11 different measures of material exclusion in the survey. These were "grouped" into "components." For example, income satisfaction, subjective financial status, and ability to pay bills, and ability to buy material goods were all grouped into one component of "income."
+
+We repeated this process in a second wave of the survey (Wave 10 - 2018/2019). 
+
+We then looked at how different groups scored for social exclusion and the domains in both waves of the survey. 
 
 ## What did we find? 
-Overall, most 12-13-year-olds reported some social media use on weekdays (74.3%) with over 10% reporting using 4 hours or more per day. 
+We found that the levels of social exclusion varied by age group, region, and ethnicity. Interestingly we found that these patterns differed across domains. 
+
+![Distribution of social exclusion domains by age group, 2009/2010](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00127-023-02489-x/MediaObjects/127_2023_2489_Fig2_HTML.png?as=webp)
 
 
-We found that more time spent on social media at ages 12-13 was not associated with mental health problems at ages 14-15. 
+![Distribution of social exclusion domains across England(https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00127-023-02489-x/MediaObjects/127_2023_2489_Fig1_HTML.png?as=webp)]
 
-The unadjusted model showed a relationship between increased social media and more mental health problems, but this relationship was fully attenuated once we accounted for sex, ethnicity, baseline mental health, and other covariates. Most of the relationship could be explained by mental health problems at baseline.
+## What does this mean? 
+This research demonstrates that it is possible to use existing population studies to generate good estimates of social exclusion. Further, our findings that there were important differences across domains suggests that attention should be paid to these separate domains, particularly when designing interventions with reduce the levels of social exclusion in the population. 
 
-We found that self-esteem partially mediated this relationship, but once we accounted for important baseline variables, this relationship was also fully attenuated. 
-
-
-## What does this mean?
-This research shows that there is little evidence of a relationship between social media and developing mental health problems. 
-
-From a methodological perspective, it also shows the importance of using longitudinal data, as the longitudinal findings consistently find little evidence for a link between social media and adolescent mental health, while many cross-sectional studies find a negative relationship between social media use and mental health.
-
-This finding also questions mental health interventions which aim to reduce social media usage in order to improve mental health in young people. The lack of a longitidnal association suggest that these interventions are unlikely to be an effective way to improve mental health and reduce mental disorders in young people. 
-
-[Read full-text, open-access article](https://www.jmir.org/2023/1/e43213). This research was also in the news. [Read the iNews story](https://inews.co.uk/news/science/social-media-not-bad-feared-teen-mental-health-study-2258605)
-
-## Behind the research
-This research was led by [Dr Ruth Plackett](https://www.ucl.ac.uk/epidemiology-health-care/ruth-plackett) during her post-doctoral launching fellowship from the NIHR School for Public Health Research. She has gone on to secure another fellowship to continue her mental health research. 
-
-
-Photo by Markus Spiske on [Unsplash.com](https://unsplash.com/photos/QozzJpFZ2lg)
- 
+[Read full-text, open-access article](https://link.springer.com/article/10.1007/s00127-023-02489-x). 
 
 
 
