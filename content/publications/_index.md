@@ -18,6 +18,8 @@ keep_md: yes
 
 ## Peer-reviewed publications
 
+Dotsikas K, Crosby L, McMunn A, Walters K, Dykxhoorn J. [The gender dimensions of mental health during the Covid-19 pandemic: a path analysis](https://pubmed.ncbi.nlm.nih.gov/37205670/). PLoS One 2023;18(5).
+
 Dykxhoorn J, Osborn D, Fischer L, Kirkbride JB, Troy D, Walters K. [Measuring social exclusion and its distribution in England](https://link.springer.com/article/10.1007/s00127-023-02489-x). Soc Psychiatry Psychiatr Epidemiol 2023 May.
 
 Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). J Med Internet Res 2023;25.

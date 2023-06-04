@@ -13,55 +13,127 @@ categories:
   - COVID
 subtitle: ''
 excerpt: ''
-draft: yes
-series: ~
+draft: no
+series: null
 layout: single
+image_left: true
+featured: true
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-Cast your mind back to the spring of 2020. As the crocuses a d dafodils started to The world was in the start of what would become a global pandemic. We were all learning about coronaviruses and studying on Facebook university to become infectious disease epidemiologists. We were just at the start - not knowing that 3 million would die in 2020 alone from a disease that we had not even heard of months earlier. 
 
-As the pandemic unfolded, we found ourselves negotiating confusing messages from public officials, banging pots and pans off our balconies, and having a worrying number of conversations about toilet paper. In short, we were finding ourselves unmoored from our normal life, particularly with the annoucement of national lockdown measures which moved everyone indoors. 
+Cast your mind back to the spring of 2020. As the crocuses a d daffodils
+started to, we were hearing rumblings about a new virus. As the days
+went on, and the Facebook U was filled with infectious disease experts,
+it became clear that we were in for an "unprescedented" public health
+emergency. I would gather around the TV with my flatmates, watching
+Downing Street briefings, waiting to see what was going to happen. March
+2023 was just the beginning. As we headed into lockdowns, we had no way
+of knowing that more than 3 million people would die in 2020 alone from
+a disease that we had not even heard of months earlier.
 
-In the UK, a national lockdown was implemented from March 23 through May 11, when some restrintions were relaxed. This lockdown included strict measures about permitted reasons to leave your house (e.g. daily exercise, walking dogs, or going grocery shopping). Schools were closed and students moved to online learning from home. Most offices were shut, and any non-essential workers started working from home, converting kitchen tables and bedrooms into office space. Bars and restaurants were closed and all other forms of socialising were prohibited. 
+In the UK, a national lockdown was implemented from March 23 through May
+11, after which some restrictions were relaxed. This lockdown included
+strict measures about permitted reasons to leave your house (e.g. daily
+exercise, walking dogs, or going grocery shopping). Schools were closed
+and students moved to online learning from home. Most offices were shut,
+and any non-essential workers started working from home, converting
+kitchen tables and bedrooms into office space. Bars and restaurants were
+closed and all other forms of socialising were prohibited.
 
-These restrictions, while necessary for the containment of a major infectious disase threat, caused disruption and distress. People were facing the stress of a largely unknown threat, daily uncertainty, and stress. 
+These restrictions, while necessary for the containment of a major
+infectious disase threat, caused disruption and distress. People were
+facing the stress of a largely unknown threat, daily uncertainty, and
+stress.
 
-Without a doubt, many people were struggling - with the stress of an unknown threat, the uncertainty of every day life, where things like taking the bus or going to the grocery store took on a level of threat, the uncertainty of when things would return to "normal" and the worry about vulnerable loved ones. 
+Without a doubt, many people were struggling, unmoored from the
+activities of "normal" life, facing the constant stress of an unknown
+threat, heightened worry about vulnerable loved ones, and uncertainty of
+everyday life.
 
-This struggle has been quantified by research, with many studies showing that mental health declined substantially during the pandemic compared to pre-pandemic levels. 
-Importantly, this deterioration in mental health was not experienced equally for all in the population, and research has found that women experienced a more substantial decrease in their mental health compared to men.*
-  
-  
+This struggle has been quantified by research, with many studies showing
+that mental health declined substantially during the pandemic compared
+to pre-pandemic levels.
 
+Importantly, this deterioration in mental health was not experienced
+equally for all in the population, and research has found that women
+experienced a more substantial decrease in their mental health compared
+to men. This deterioration of mental health was seen most dramatically
+in women,[^1] however explanations for this gender difference have not
+yet been explored.[^2]
 
-demonstrating the high levels of metal health problems, including elevated rates of depression and anxiety. This deterioration of mental health was seen most dramatically in women, however explanations for this gender difference have not yet been explored. 
+[^1]: See Pierce et al (2020) "Mental health before and during the
+    COVID-19 pandemic
 
-There are many possible drivers for the gendered impact of the pandemic on mental health, including women being more likely to face: 
-- A disproportionate burden of housework and unpaid domestic labour
-- Extra childcare respponsibilities, including overseeing online education
-- Higher levels of employment disruption (e.g. being laid off or "furloughed", having hours cut/reducing hours due to domestic responsibliites, or losing jobs in impacted industries)
-- Elevated feelings of loneliness
+[^2]: Overall, levels of common mental disorders, including depression
+    and anxiety are consistently higher in women then men, so
+    pre-pandemic, there was this baseline difference. However, we were
+    interested if the CHANGE in mental health status differed by gender,
+    and what might account for these differences.
 
+There are many possible drivers for the gendered impact of the pandemic
+on mental health, including women being more likely to face: - A
+disproportionate burden of housework and unpaid domestic labour - Extra
+childcare responsibilities, including overseeing online education -
+Higher levels of employment disruption (e.g. being laid off or
+"furloughed", having hours cut/reducing hours due to domestic
+responsibilities, or losing jobs in impacted industries) - Elevated
+feelings of loneliness
 
-Aim
-This paper aimed to explore these 4 possible pathways to see if the gendered impact of the pandemic on mental health can be explained by these explanations. 
+![Hypothesised pathways between gender and mental healh](pathways.PNG)
 
-What did we do
-Using data from Understanding Society, a longitudinal survey from the UK, we were able to use mental health measures from before the start of the pandemic, look at experiences in the first lockdown (April 2020), and see if there was an impact on mental health oucomes in May and June. 
+## Why did we do this study?
 
-Mental health was measured using a 12-item quesionnarie (the General Health Questionnaire - GHQ-12)
+This paper aimed to explore these 4 possible pathways to see if the
+gendered impact of the pandemic on mental health can be explained by
+these explanations.
 
-We conducted a mediation analysis using structural equation modelling to see how much of the relationship could be explained by the following four factors: 
-- Employment disruption
-- Hours spent on housework
-- Hours spent on childcare
-- Loneliness 
+## What did we do?
 
-[add pretty picture drawing this out]
+We used data from Understanding Society, a UK longitudinal household
+survey. This included data from over 9,000 participants who had taken
+part in the survey in 2019 before the pandemic, and again in 2020
+(April, May, or June).
 
-[figure out how to do those simple illustrations]
+Mental health was measured using a 12-item quesionnarie (the General
+Health Questionnaire - GHQ-12), a way of estimating symptoms of common
+mental disorders like anxiety and depression.
 
-This paper was led by my superstar predoctoral fellow, Kate Dotsikas, who has since moved to Paris to continue her social epi career at the Sorbonne. 
+We used structural equation modelling, a statistical analysis technique,
+to explore the relationship between gender and mental health, testing
+the four potential 'mediating' pathways mentioned above (housework,
+childcare, employment disruption, and loneliness). - Employment
+disruption - Hours spent on housework - Hours spent on childcare -
+Loneliness
 
-*Figure out how to change the font to make a footnote like this 
+## What did we find?
 
-  *(add a footnote: Overall, levels of common mental disorders, including depression and anxiety are higher for women then men. This research is able to account for this pre-pandemic difference and focus on the gendered CHANGE in mental health status)
+We found that the worse mental health reported by women in the initial
+period of COVID-19 was partly explained by experiences of loneliness.
+Experiences of loneliness, for example in April 2020, had a strong
+impact on mental health in May and continued to have an impact on mental
+health problems in June. This was not found to be the case for
+housework, childcare or employment disruption.
+
+## What does this mean?
+
+We demonstrated that loneliness was a key driver of the worse mental
+health experienced by women during the pandemic.
+
+This finding highlights the importance of supporting social connection
+during disruptive periods of change, such as the pandemic, to prevent
+mental health problems in women.
+
+## Read more
+
+The full article was published in PLoS One and is available
+[here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514#pone.0283514.ref007)
+
+## Behind the research
+
+This paper was led by my superstar pre-doctoral fellow, Kate Dotsikas,
+who has since moved to Paris to continue her social epi career at the
+Sorbonne. Another pre-doctoral fellow, Liam Crosby, worked on this
+analysis as well, before moving into an exciting role in public health
+practice.
