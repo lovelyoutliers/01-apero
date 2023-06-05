@@ -22,6 +22,8 @@ series: ~
 layout: single
 image_left: true
 featured: true
+excerpt: 'New research on substance use and PTSD in migrants and refugees'
+
 
 ---
 
