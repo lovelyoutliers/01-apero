@@ -21,11 +21,9 @@ image_left: true
 featured: true
 ---
 
-
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=""}
 knitr::include_graphics("featured.jpeg")
 ```
-
 
 Cast your mind back to the spring of 2020. As the crocuses and daffodils
 started to, we were hearing rumblings about a new virus. As the days
@@ -83,7 +81,7 @@ on mental health, including women being more likely to face:
 + A disproportionate burden of housework and unpaid domestic labour 
 + Extra childcare responsibilities, including overseeing online education 
 + Higher levels of employment disruption (e.g. being laid off or "furloughed", having hours cut/reducing hours due to domestic responsibilities, or losing jobs in impacted industries)
-+Elevated feelings of loneliness
++ Elevated feelings of loneliness
 
 ![Hypothesised pathways between gender and mental healh](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0283514.g001)
 
