@@ -34,7 +34,7 @@ Social exclusion is a term that has been used for many years in political rhetor
 
 While it is a powerful concept, we have not been able to measure it consistently across health and social studies. Many studies have used one aspect (e.g. low income) as a proxy for social exclusion. On the other side of the spectrum, some have developed dedicated surveys to get detailed measures of social exclusion (e.g. Netherlands). However, while these specialised surveys can provide an in depth picture of social exclusion at one point in time, they are not as useful in understanding how social exclusion changes over time and how it relates to a range of factors like mental health outcomes. 
 
-#Why did we do this resarch?
+## Why did we do this resarch?
 The goals of this project were to generate a measurement approach to social exclusion which captured the multidimensional nature of social exclusion using existing population health data, which could be replicated at multiple timepoints. 
 
 ## What did we do? 
