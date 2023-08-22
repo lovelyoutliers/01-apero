@@ -1,0 +1,23 @@
+---
+title: "Untitled"
+author: "jlad"
+date: "2023-07-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(FlickrAPI)
+setFlickrAPIKey(api_key = "220332ac21ca6195f6c9afd69a5777a9", install = TRUE)
+
+```
+
+```{r pics}
+
+photos <- getPhotos(user_id = "grand_canyon_nps")
+knitr::kable(photos[1,])
+```
+https://koki25ando.github.io/FlickrAPI/
+
+

@@ -10,12 +10,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 install.packages("rmarkdown")
 install.packages("yaml")
+install.packages("knitr")
+install.packages("blogdown")
 
 library("rmarkdown")
 library("yaml")
 library("blogdown")
-library("knittr")
+library("knitr")
+library(blogdown)
+
+
+
+blogdown::install_hugo
 
 
 
 ```
+
+
+
+
