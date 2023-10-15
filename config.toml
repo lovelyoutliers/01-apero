@@ -7,7 +7,7 @@ copyright = "" # set to override the auto generated copyright using org info and
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
-# set deliberately low for testing choose your preffered number based on the blog layout you've chosen
+# set deliberately low for testing choose your prefered number based on the blog layout you've chosen
 #updated to have more per page 
 paginate = 8
 preserveTaxonomyNames = true
@@ -42,8 +42,9 @@ enableEmoji = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "mist.jpeg"
-  # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "jendykxhoorn"
+  # Twitter username (without @). Used when a visitor shares your site on Twitter. Deleted Twitter
+   # in oct 2023 - remove icon 
+   # twitter = "jendykxhoorn"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
