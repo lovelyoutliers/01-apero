@@ -3,7 +3,7 @@ author: J Dykxhoorn
 cascade:
   author: J Dykxhoorn
   show_author_byline: false
-  show_comments: true
+  show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
