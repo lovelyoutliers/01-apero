@@ -89,15 +89,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/lovelyoutliers/"
+      url       = "https://www.instagram.com/mentalhealthepi/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/jendykxhoorn"
+      url       = "https://www.linkedin.com/in/jen-dykxhoorn/"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0001-6391-8626"
+  [[params.social]]
+      icon      = "google" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://scholar.google.com/citations?user=PdcTYyYAAAAJ&hl=en"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
