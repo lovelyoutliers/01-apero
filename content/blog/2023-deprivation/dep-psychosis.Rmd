@@ -1,7 +1,7 @@
 ---
 title: Trajectories of deprivation and population density before and after diagnosis with a psychotic disorder
 author: J Dykxhoorn
-date: '2023-10-15'
+date: '2023-10-14'
 slug: []
 categories:
   - New research
@@ -22,7 +22,7 @@ featured: true
 ---
 
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="People on a cafe terrace by Elisabeth Epstein (1913)"}
-knitr::include_graphics("elisabeth-epstein.png")
+knitr::include_graphics("featured.png")
 ```
 
 People with psychosis are more likely to live in densely populated, socioeconomically deprived areas. However, it is not clear if the relationship between these environmental risk factors and psychosis are due to causation or social drift. 
@@ -54,7 +54,7 @@ Here, for example, you see the exposure to deprivation over time from birth thro
 
 There is one group (top in white) which experienced a high level of deprivation throughout this period . There is another group (bottom in dark blue) that never lived lived in a deprived area throughout their childhood. The other groups experienced change over time. Some groups (orange and grey) experienced deprivation early in their childhood, but this reduced over time (upward mobility). The other groups (e.g. light blue and brown) saw a gradual increase in their level of deprivation over time.
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Trajectories of deprivation before diagnosis, birth to age 14"}
-knitr::include_graphics("dep_traj.png")
+knitr::include_graphics("traj.png")
 ```
 We generated similar trajectories for deprivation experienced after diagnosis, and for population density (before and after diagnosis).
 
