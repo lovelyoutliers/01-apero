@@ -2,7 +2,6 @@
 title: Trajectories of deprivation and population density before and after diagnosis with a psychotic disorder
 author: J Dykxhoorn
 date: '2023-10-14'
-slug: []
 categories:
   - New research
   - Longitudinal 
@@ -13,7 +12,6 @@ categories:
   - Sweden
 subtitle: ''
 excerpt: 'Does exposure to differing trajectories of deprivation and population density affect rates of psychotic disorders?'
-tags: []
 draft: false
 series: ~
 layout: single
@@ -21,8 +19,10 @@ image_left: true
 featured: true
 ---
 
-```{r, out.width="100%", fig.align = 'center', fig.cap='People on a cafe terrace by Elisabeth Epstein (1913)'}
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap='People on a cafe terrace by Elisabeth Epstein (1913)'}
 knitr::include_graphics("featured.png")
+
 ```
 
 People with psychosis are more likely to live in densely populated, socioeconomically deprived areas. However, it is not clear if the relationship between these environmental risk factors and psychosis are due to causation or social drift. 
@@ -33,7 +33,7 @@ Alternately, people with psychotic disorders may experience downward social mobi
 
 Finally, people with psychosis may be more likely to remain in the same neighbourhood, experiencing social immobility, than their peers without psychosis. 
 
-Interestingly, preivous research suggests that the relationship between environmental risk factors (deprivation and population density) are more strongly related to psychotic disorders (including schizophrenia) than other severe mental illnesses, like non-psychotic bipolar disorder. 
+Interestingly, previous research suggests that the relationship between environmental risk factors (deprivation and population density) are more strongly related to psychotic disorders (including schizophrenia) than other severe mental illnesses, like non-psychotic bipolar disorder. 
 
 
 ## Research question
@@ -54,7 +54,7 @@ Here, for example, you see the exposure to deprivation over time from birth thro
 
 There is one group (top in white) which experienced a high level of deprivation throughout this period . There is another group (bottom in dark blue) that never lived lived in a deprived area throughout their childhood. The other groups experienced change over time. Some groups (orange and grey) experienced deprivation early in their childhood, but this reduced over time (upward mobility). The other groups (e.g. light blue and brown) saw a gradual increase in their level of deprivation over time.
 
-```{r, out.width="100%", fig.align = 'center', fig.cap='Trajectories of deprivation before diagnosis, birth to age 14'}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap='Trajectories of deprivation before diagnosis, birth to age 14'}
 knitr::include_graphics("traj.png")
 ```
 
