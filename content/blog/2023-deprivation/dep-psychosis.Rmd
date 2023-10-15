@@ -1,7 +1,7 @@
 ---
 title: Trajectories of deprivation and population density before and after diagnosis with a psychotic disorder
 author: J Dykxhoorn
-date: '2023-10-14'
+date: 15 Oct 2023
 categories:
   - New research
   - Longitudinal 
@@ -10,16 +10,14 @@ categories:
   - Deprivation
   - Population density
   - Sweden
-subtitle: ''
 excerpt: 'Does exposure to differing trajectories of deprivation and population density affect rates of psychotic disorders?'
 draft: false
-series: ~
 layout: single
 image_left: true
 featured: true
 ---
 
-![]("/Users/jen/Documents/GitHub/01-apero/content/blog/2023-deprivation/featured.png")
+![](/Users/jen/Desktop/featured.png)
 
 People with psychosis are more likely to live in densely populated, socioeconomically deprived areas. However, it is not clear if the relationship between these environmental risk factors and psychosis are due to causation or social drift. 
 
