@@ -19,7 +19,7 @@ image_left: true
 featured: true
 ---
 
-![A beautiful sunset](/Users/jen/Desktop/featured.png)
+![](/Users/jen/Desktop/featured.png)
 
 People with psychosis are more likely to live in densely populated, socioeconomically deprived areas. However, it is not clear if the relationship between these environmental risk factors and psychosis are due to causation or social drift. 
 
