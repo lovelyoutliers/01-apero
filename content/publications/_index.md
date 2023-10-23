@@ -17,6 +17,11 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Logeswaran Y, Dykxhoorn J, Dalman C, Kirkbride J.B. [Life course trajectories of neighborhood social deprivation and population density before and after first diagnosis of psychotic disorders: a nested case-control study in Sweden](https://pubmed.ncbi.nlm.nih.gov/37672257/). JAMA Psychiatry 2023; Sept 6:e233220. 
+
+Dykxhoorn J, Osborn D, Walters K, Kirkbride J.B., Lazzarino, A. [Temporal patterns in the recorded annual incidence of common mental disorders over two decades in the United Kingdom: A primary care cohort study](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5FDB89622CEED13B8538CAA28E837144/S0033291723002349a.pdf/temporal_patterns_in_the_recorded_annual_incidence_of_common_mental_disorders_over_two_decades_in_the_united_kingdom_a_primary_care_cohort_study.pdf). Psychological Medicine 2023; Aug:1-12.
+
+Pinfold V, Thompson R, Lewington A, Samuel G, Jayacodi S, Vadgama A, Fischer L.E., Jones O, Crawford A, Dykxhoorn J, Kidger J, Duncan, F, Oliver E.J. [Public perspectives on inequality and mental health: A peer research study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13868). Health Expectations 2023;1-15. 
 
 Dotsikas K, Crosby L, McMunn A, Walters K, Dykxhoorn J. [The gender dimensions of mental health during the Covid-19 pandemic: a path analysis](https://pubmed.ncbi.nlm.nih.gov/37205670/). PLoS One 2023;18(5).
 
