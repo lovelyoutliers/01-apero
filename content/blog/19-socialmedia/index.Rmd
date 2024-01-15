@@ -3,7 +3,7 @@ title: Social media and adolescent mental health
 subtitle: Is social media use linked to mental health prolems in adolescents? 
 excerpt: Longitudinal research on social media use and mental health problems in UK young people
 author: J Dykxhoorn
-date: '2023-03-26'
+date: '2024-01-14'
 slug: []
 categories:
   - Cohort study
@@ -60,9 +60,9 @@ This research shows that there is little evidence of a relationship between soci
 
 From a methodological perspective, it also shows the importance of using longitudinal data, as the longitudinal findings consistently find little evidence for a link between social media and adolescent mental health, while many cross-sectional studies find a negative relationship between social media use and mental health.
 
-This finding also questions mental health interventions which aim to reduce social media usage in order to improve mental health in young people. The lack of a longitidnal association suggest that these interventions are unlikely to be an effective way to improve mental health and reduce mental disorders in young people. 
+This finding also questions mental health interventions which aim to reduce social media usage in order to improve mental health in young people. The lack of a longitudinal association suggest that these interventions are unlikely to be an effective way to improve mental health and reduce mental disorders in young people. 
 
-[Read full-text, open-access article](https://www.jmir.org/2023/1/e43213). This research was also in the news. [Read the iNews story](https://inews.co.uk/news/science/social-media-not-bad-feared-teen-mental-health-study-2258605)
+[Read full-text, open-access article](https://www.jmir.org/2023/1/e43213). This research was also in the news. [Read the iNews story](https://inews.co.uk/news/science/social-media-not-bad-feared-teen-mental-health-study-2258605). Also mentioned on the [Oh God What Now? podcast](https://lnkd.in/euGhJXtS). 
 
 ## Behind the research
 This research was led by [Dr Ruth Plackett](https://www.ucl.ac.uk/epidemiology-health-care/ruth-plackett) during her post-doctoral launching fellowship from the NIHR School for Public Health Research. She has gone on to secure another fellowship to continue her mental health research. 
