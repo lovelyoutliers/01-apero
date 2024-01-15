@@ -71,11 +71,13 @@ MSc students - I have co-supervised many MSc projects with my collegues at UCL, 
 
 
 PhD students
-+ Natalie Rich (committee member - 2022-2025) - Ethnic inequalities in psychosis
++ Alua Yeskendir (MHRUK - 2023-2027) - Social inequalities in severe mental illness
 
-+ Jenny Fielder (Wellcome PhD placement supervisor - 2022) - Neighbourhood cohesion, income, and mental health
++ Natalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
 
-+ Sarah Ledden (additional supervisor - 2019-2023) - Alcohol and suicidality
++ Jenny Fielder (Wellcome rotation supervisor - 2022) - Neighbourhood cohesion, income, and mental health
+
++ Sarah Ledden (NIHR - 2019-2023) Alcohol and suicidality
 
 
 Academic clinical fellows
