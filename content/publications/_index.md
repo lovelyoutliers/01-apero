@@ -17,6 +17,8 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Kirkbride J.B., Anglin D.M., Colman I, Dykxhoorn J, Jones P.B., Patalay P, Pitman A, Soneson E, Steare T, Wright T, Griffiths S.L. [The social determinants of mental health and disorder: evidence, prevention and recommendations](https://www.wpanet.org/_files/ugd/842ec8_e625b4e0f44d46048540fb635402669e.pdf) World Psychiatry 2024; Feb 23(1): 58-90. 
+
 Logeswaran Y, Dykxhoorn J, Dalman C, Kirkbride J.B. [Life course trajectories of neighborhood social deprivation and population density before and after first diagnosis of psychotic disorders: a nested case-control study in Sweden](https://pubmed.ncbi.nlm.nih.gov/37672257/). JAMA Psychiatry 2023; Sept 6:e233220. 
 
 Dykxhoorn J, Osborn D, Walters K, Kirkbride J.B., Lazzarino, A. [Temporal patterns in the recorded annual incidence of common mental disorders over two decades in the United Kingdom: A primary care cohort study](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5FDB89622CEED13B8538CAA28E837144/S0033291723002349a.pdf/temporal_patterns_in_the_recorded_annual_incidence_of_common_mental_disorders_over_two_decades_in_the_united_kingdom_a_primary_care_cohort_study.pdf). Psychological Medicine 2023; Aug:1-12.
