@@ -71,7 +71,7 @@ MSc students - I have co-supervised many MSc projects at UCL. Whenever possible,
 
 
 PhD students
-+ Alua Yeskendir (MHRUK - 2023-2027) - Social inequalities in severe mental illness
++ Alua Yeskendir (MHRUK - 2023-2027) - Historically marginalised groups and mental health inequalities
 
 + Natalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
 
