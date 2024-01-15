@@ -30,13 +30,13 @@ Research is not a solitary act. All of the work described in this site has only 
 ## Students and trainees 
 I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
 
-MSc students - I have co-supervised many MSc projects with my collegues at UCL, namely Dr Justin Yang, Dr Ruth Plackett, Prof James Kirkbride, Prof Joseph Hayes, Prof Kate Walters, and Prof David Osborn. Whenever possible, MSc students are supported in publishing their MSc dissertations (see examples below). 
+MSc students - I have co-supervised many MSc projects at UCL. Whenever possible, MSc students are supported in publishing their MSc dissertations (see examples below). 
 
 + Ridha Mahmood (2023): Impact of climate change on mental health of vulnerable groups
 
 + Liying (Justina) Cao (2023): Urban heat islands and mental health
 
-+ Bhavya Gupta (2023): Psychosocial inverventions for those with commorbid ADHD and substance use disorders
++ Bhavya Gupta (2023): Psychosocial interventions for those with co-morbid ADHD and substance use disorders
 
 + Haneen Hakeem (2023): Integrated vs. non-integrated treatment approaches for co-occuring substance use and post-traumatic stress disorder 
 
@@ -84,10 +84,10 @@ Academic clinical fellows
 + Philippa Clery - Heat waves and mental health 
 
 
-Pre- and Post-doctoral fellows
+Pre- and post-doctoral fellows
 + [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the gendered impact of the COVID-19 pandemic. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
-+ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secureed a NIHR Three Schools Mental Health fellowship to continue her research. 
++ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
 
 
 
