@@ -1,17 +1,15 @@
 ---
-title: Social media and adolescent mental health 
-subtitle: Is social media use linked to mental health prolems in adolescents? 
-excerpt: Longitudinal research on social media use and mental health problems in UK young people
+title: The social determinants of mental health 
+subtitle: What are the social factors which drive of mental health and what can we do about them? 
+excerpt: A comphrehensive "state-of-the-science" review of the social detemrinants of mental health, review of prevention strategies, and key recommendations 
 author: J Dykxhoorn
 date: '2023-03-26'
 slug: []
 categories:
-  - Cohort study
   - Epidemiology
-  - Longitudinal
-  - public mental health
   - Social determinants of mental health
-  - Common mental disorders
+  - Social justice
+  - Inequality
 tags: []
 draft: no
 series: ~
@@ -22,50 +20,72 @@ featured: true
 ---
 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Is social media use driving mental health problems in young people?"}
-knitr::include_graphics("featured.png")
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="The social determinants of mental health (image by Alua Yeskendir)"}
+knitr::include_graphics("featured.jpeg")
 ```
 
 ## Why did we do this research?
-It is not a new refrain - worried parents wondering if social media is turning their kids  social media is turning our kids brains to mush and creating a generation of anxious and depressed adolescents.  
+There is compelling evidence that the risk of developing mental health problems depend on social and structural factors. These factors, also called the 'social determinants of mental health' include  a wide range of factors including income, housing, childhood adversity, and neighbourhood conditions. 
 
-The huge increase in social media use in recent decades seems to correspond to the high rates of mental health probvlems in young people. While it seems easy to blame the high rates of mental disorders in young people on social media, research on this relationship has been inconsistent. Some studies have linked social media use to depression, anxiety, and psychological distress, while others have highlighted that social media may improve mental health through higher social support, stronger bonds, and reduced loneliness. 
+Critically, these factors are not randomly distributed. Some individuals and groups are much more likely to experience these social risk factors, and a far higher burden of mental health problems. 
 
-Importantly, few of these studies used longitudinal data, which means they were not able to see if the social media use came before developing mental health problems. 
+The point of this review was to summarise the state of the evidence around the social determinants of mental health, highlight 'what works'  to prevent mental health problems, and urges us to shift our focus to viewing mental health inequalities as a issue of social justice requiring urgent action. 
 
-## Research question
-What is the association between social media use and later mental health problems in adolescents? 
+## Prevention strategies to address the social determinants of mental health 
+We highlighted a range of prevention strategies which aim to prevent mental health problems and support those experiencing mental health problems. 
 
-## What did we do? 
-Using data from [Understanding Society](https://www.understandingsociety.ac.uk/), we included 3,228 young people who had answered questions about their social media use at the ages 12-13. We followed these young people for two years and measured their mental health at ages 14-15. 
-
-
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Self-esteem as a mediator in the relationship between social media use and mental health"}
-knitr::include_graphics("dag.png")
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Strategies to tackle social injustice in the onset of mental health problems"}
+knitr::include_graphics("featured2.jpeg")
 ```
 
-## What did we find? 
-Overall, most 12-13-year-olds reported some social media use on weekdays (74.3%) with over 10% reporting using 4 hours or more per day. 
 
+## Key recommendations
+1. Make social justice central to all public mental health interventions.
+Mental health problems are inequitably distributed between and within
+populations, principally arising from systemic structural inequalities.
+Making social justice core to all public mental health interventions and
+policies would reduce these inequities.
+2. Invest in interventions that pay off in multiple domains. Few social
+determinants solely affect mental health. Investing in interventions that
+target key social determinants will improve physical, mental and social
+outcomes for individuals and communities. Intervention programs
+should routinely measure mental health alongside these other outcomes.
+3. Invest in interventions that target critical windows of the life
+course to interrupt intergenerational transmission of mental health
+inequalities. Providing good-quality and accessible parental and familial
+support early in life can interrupt the intergenerational transmission of
+mental health inequalities within families or communities.
+4. Prioritize interventions that focus on poverty alleviation. Any
+comprehensive public health approach to reduce the burden of poor
+mental health must include efforts to reduce poverty. Poverty is
+inextricably linked to most social determinants of mental health, and
+could be considered a root cause.
+5. Strengthen causal inference in research on social determinants
+of mental health and primary prevention. Most research on social
+determinants of mental health is observational, often subject to selection
+and confounding bias. Stronger causal inference methods are needed, as
+well as larger, interdisciplinary observational and experimental studies
+in representative and adequately powered samples to accelerate progress
+of knowledge and develop effective primary interventions.
+6. Establish inclusive longitudinal population mental health monitoring.
+Many countries struggle to accurately estimate psychiatric morbidity
+in their populations, which inhibits both clinical and public mental
+health provision. Samples are often unrepresentative. Reliable, inclusive
+and precise longitudinal monitoring of population mental health is the
+essential basis for effective prevention.
+7. Ensure parity between primary, secondary and tertiary prevention in
+mental health. Investing sufficiently in primary prevention to stop the
+onset of mental disorders prevents suffering, improves quality of life
+and societal outcomes, and reduces demand for secondary and tertiary
+prevention.
 
-We found that more time spent on social media at ages 12-13 was not associated with mental health problems at ages 14-15. 
+## Read more: 
+There is currently an issue with the direct link to the article, but this link will bring you to the [full edition of World Psychiatry](https://www.wpanet.org/_files/ugd/842ec8_e625b4e0f44d46048540fb635402669e.pdf), which will allow you to read the paper (starting on page 58) as well as the accompanying responses
 
-The unadjusted model showed a relationship between increased social media and more mental health problems, but this relationship was fully attenuated once we accounted for sex, ethnicity, baseline mental health, and other covariates. Most of the relationship could be explained by mental health problems at baseline.
-
-We found that self-esteem partially mediated this relationship, but once we accounted for important baseline variables, this relationship was also fully attenuated. 
-
-
-## What does this mean?
-This research shows that there is little evidence of a relationship between social media and developing mental health problems. 
-
-From a methodological perspective, it also shows the importance of using longitudinal data, as the longitudinal findings consistently find little evidence for a link between social media and adolescent mental health, while many cross-sectional studies find a negative relationship between social media use and mental health.
-
-This finding also questions mental health interventions which aim to reduce social media usage in order to improve mental health in young people. The lack of a longitidnal association suggest that these interventions are unlikely to be an effective way to improve mental health and reduce mental disorders in young people. 
-
-[Read full-text, open-access article](https://www.jmir.org/2023/1/e43213). This research was also in the news. [Read the iNews story](https://inews.co.uk/news/science/social-media-not-bad-feared-teen-mental-health-study-2258605)
+To read a summary of this research, one of my PhD students [Alua Yeskendir]() wrote a fantastic piece summarising the main findings: [Poor mental health is not random](https://blogs.ucl.ac.uk/mental-health/2024/01/12/poor-mental-health-is-not-random-what-can-we-do-to-achieve-social-justice/). She also created the beautiful illustrations featured in this post. 
 
 ## Behind the research
-This research was led by [Dr Ruth Plackett](https://www.ucl.ac.uk/epidemiology-health-care/ruth-plackett) during her post-doctoral launching fellowship from the NIHR School for Public Health Research. She has gone on to secure another fellowship to continue her mental health research. 
+This research was a tremendous undertaking, led by [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555) and drawing on the expertise of numerous international experts in mental health. The article is accompanied by several commentary responses by notable leaders in the field, including [Prof Ron Kessler](https://hcp.hms.harvard.edu/people/ronald-c-kessler), [Prof Ichiro Kawachi](https://www.hsph.harvard.edu/profile/ichiro-kawachi/), and [Prof Kerry Keyes](https://www.publichealth.columbia.edu/profile/katherine-m-keyes-phd). 
 
  
 
