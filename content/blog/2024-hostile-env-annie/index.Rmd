@@ -10,9 +10,9 @@ categories:
   - Causal inference
   - Bayesian 
   - Interrupted time series
+  - Inequality
   - Social determinants of mental health
   - Social justice
-  - Inequality
 tags: []
 draft: no
 series: ~
