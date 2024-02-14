@@ -23,11 +23,7 @@ featured: true
 ---
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="No Man's Land (1943) by Jankel Adler"}
-<<<<<<< HEAD
 knitr::include_graphics("featured.jpg")
-=======
-knitr::include_graphics("adler.jpg")
->>>>>>> 54f70fcd7d52c340e37c92468695a25f7f4375c7
 ```
 
 ## Background
@@ -67,11 +63,8 @@ Ultimately, governments should ensure that future policies are not implemented w
 
 ## Read more
 You can read the full, open-access paper [Lancet Psychiatry ](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext). 
-<<<<<<< HEAD
 
 A summary can be also found on[Medical Xpress](https://medicalxpress.com/news/2024-02-hostile-environment-policies-linked-prolonged.html). If you are lucky, you may catch Annie Jeffery's interview on LBC morning radio.  
-=======
->>>>>>> 54f70fcd7d52c340e37c92468695a25f7f4375c7
 
 ## Behind the research
 This analysis was led [Dr Annie Jeffery](https://profiles.ucl.ac.uk/74470-annie-jeffery), a post-doc in [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555)'s PsyLife Lab at UCL and a crew of brilliant statisticians and experts in Bayesian analysis and causal inference. 
