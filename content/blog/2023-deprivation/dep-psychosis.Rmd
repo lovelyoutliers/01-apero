@@ -48,14 +48,12 @@ We generated similar trajectories for deprivation experienced after diagnosis, a
 
 Once each person was assigned their trajectory, we conducted logistic regression to explore the relationship between each exposure (deprivation / population density) before and after diagnosis and rates of psychotic disorders and non-psychotic bipolar disorder. 
 
-
 ## What did we find? 
 We found evidence that living in more deprived and more densely populated areas from birth through early adolescence increased the odds of developing psychotic disorders. Those who experienced "upward mobility" during their upbringing had lower risk than those who had experienced persistently high levels of deprivation and population density. 
 
 After diagnosis, those with a psychotic disorder were more likely than their matche dcontrol to be living in more deprived areas, and were more likely to "drift" downward to areas with more deprivation. Importantly, people with psychotic disorders were more likely to remain in the deprived areas (social immobility) compared to the control participants, who were likely to experience upward mobility over time. 
 
 We found different patterns for non-psychotic bipolar disorder for deprivation and population density (see full paper for details).
-
 
 ## What does this mean? 
 This research provides further evidence that experiencing highly deprived and densely populated environments during upbringing leads to higher rates of psychotic disorders, consistent with the "social causation" model. 
@@ -66,11 +64,9 @@ It also shows that people who have been diagnosed with psychotic disorders are l
 
 A very interesting finding was that the risk of psychosis among those who experienced deprivation in early childhood was ameliorated if their families experienced upward mobility during their upbringing. This may be an area for public health intervention, as social mobility may mitigate the impacts of early-life deprivation.  
 
-
 ## Read more
 The full article was published open-access in JAMA Psychiatry and is available
 [here](https://pubmed.ncbi.nlm.nih.gov/37672257/)
-
 
 ## Behind the research
 This research was developed as part of Yanakan Logeswaran's MSc thesis and he worked closely with James Kirkbride to finalise the results for publication. Yan has gone on to begin a PhD at Kings College London's Institute of Psychiatry, Psychology, and Neuroscience. 
