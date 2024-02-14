@@ -1,12 +1,15 @@
 ---
-title: The social determinants of mental health 
-subtitle: What are the social factors which drive of mental health and what can we do about them? 
-excerpt: A comphrehensive "state-of-the-science" review of the social determinants of mental health, a review of prevention strategies, and 7 key recommendations 
+title: The effect of immigration policy reform on mental health
+subtitle: What was the mental health impact of "hostile environment" policies effect mental health? 
+excerpt: A new longitudinal study demonstrated a causal link between government migration policies and a subsequent decline in mental health. 
 author: J Dykxhoorn
-date: '2024-01-12'
+date: '2024-02-14'
 slug: []
 categories:
   - Epidemiology
+  - Causal inference
+  - Bayesian 
+  - Interrupted time series
   - Social determinants of mental health
   - Social justice
   - Inequality
@@ -19,70 +22,49 @@ featured: true
 
 ---
 
-
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="The social determinants of mental health (image by Alua Yeskendir)"}
-knitr::include_graphics("featured.jpeg")
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="No Man's Land (1943) by Jankel Adler"}
+knitr::include_graphics("featured.jpg")
 ```
+
+## Background
+Over the past decade, there have been broad changes to immigration and citizenship policies in the UK. In 2012, a series of policy reforms were introduced, collectively known as the "hostile environment policy." These policies included deputizing landlords, employers, health services, banks, and police to enforce migration rules by checking "right-to-stay" documentation. 
+
+Under these policies, hundreds of Commonwealth citizens who had been legally settled in the UK since the 1950s, many from the Caribbean (the Windrush Generation)  were labeled as undocumented, and some were subject to deportation. By 2017, the UK media began highlighting stories of individuals who lost jobs, benefits, housing under the hostile environment policy, which started to be known as the "Windrush scandal."
 
 ## Why did we do this research?
-There is compelling evidence that the risk of developing mental health problems depend on social and structural factors. These factors, also called the 'social determinants of mental health' include  a wide range of factors including income, housing, childhood adversity, and neighbourhood conditions. 
+In this study, we investigated whether the hostile environment policy caused mental health problems in people from minoritised ethnic backgrounds. We expected to see an increase in mental health problems and psychological distress among those from Black Caribbean backgrounds following the introduction of the Immigration Act (2014) and subsequent media coverage of the Windrush Scandal (2017), particularly when compared to people of White ethnicity. 
 
-Critically, these factors are not randomly distributed. Some individuals and groups are much more likely to experience these social risk factors, and a far higher burden of mental health problems. 
+## What did we do? 
+We used participants from Understanding Society, the UK Household Longitudinal Study between 2009 and 2020. 
 
-The point of this review was to summarise the state of the evidence around the social determinants of mental health, highlight 'what works'  to prevent mental health problems, and urges us to shift our focus to viewing mental health inequalities as a issue of social justice requiring urgent action. 
+We measured psychological distress, using the General Health Questionnaire (GHQ-12), commonly used to measure symptoms of common mental health problems, like depression and anxiety. 
 
-## Prevention strategies to address the social determinants of mental health 
-We highlighted a range of prevention strategies which aim to prevent mental health problems and support those experiencing mental health problems. 
+We used Bayesian interrupted time series analysis to look for differences over 3 time periods: 
+- Before the introduction of the Immigration Act (Aug 1, 2009–May 13, 2014)
+- Following the introduction of the Immigration Act and before the 2017 media coverage (May 14, 2014–Nov 27, 2017)
+- Following media coverage (Nov 28, 2017–March 23, 2020)
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Strategies to tackle social injustice in the onset of mental health problems"}
-knitr::include_graphics("featured2.jpeg")
+We looked at changes in mental health problems in minoritised ethnic groups (
+(Black Caribbean, Black African, Indian, or Bangladeshi) and comparison ethnic group (White).
+
+## What did we find?
+We found evidence that the UK Government's hostile environment policy and subsequent media coverage of the Windrush scandal caused people of Black Caribbean ethnicities living in the UK to experience greater psychological distress relative to the White ethnicity group.
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Effects of the hostile environment policy on mental ill health across different ethnic groups compared with people of White ethnicity"}
+knitr::include_graphics("hostile1.jpg")
 ```
 
+## What does this mean? 
+Our study shows that political policies can produce, maintain, and exacerbate systemic inequities in population mental health. 
 
-## Key recommendations
-1. Make social justice central to all public mental health interventions.
-Mental health problems are inequitably distributed between and within
-populations, principally arising from systemic structural inequalities.
-Making social justice core to all public mental health interventions and
-policies would reduce these inequities.
-2. Invest in interventions that pay off in multiple domains. Few social
-determinants solely affect mental health. Investing in interventions that
-target key social determinants will improve physical, mental and social
-outcomes for individuals and communities. Intervention programs
-should routinely measure mental health alongside these other outcomes.
-3. Invest in interventions that target critical windows of the life
-course to interrupt intergenerational transmission of mental health
-inequalities. Providing good-quality and accessible parental and familial
-support early in life can interrupt the intergenerational transmission of
-mental health inequalities within families or communities.
-4. Prioritize interventions that focus on poverty alleviation. Any
-comprehensive public health approach to reduce the burden of poor
-mental health must include efforts to reduce poverty. Poverty is
-inextricably linked to most social determinants of mental health, and
-could be considered a root cause.
-5. Strengthen causal inference in research on social determinants
-of mental health and primary prevention. Most research on social
-determinants of mental health is observational, often subject to selection
-and confounding bias. Stronger causal inference methods are needed, as
-well as larger, interdisciplinary observational and experimental studies
-in representative and adequately powered samples to accelerate progress
-of knowledge and develop effective primary interventions.
-6. Establish inclusive longitudinal population mental health monitoring.
-Many countries struggle to accurately estimate psychiatric morbidity
-in their populations, which inhibits both clinical and public mental
-health provision. Samples are often unrepresentative. Reliable, inclusive
-and precise longitudinal monitoring of population mental health is the
-essential basis for effective prevention.
-7. Ensure parity between primary, secondary and tertiary prevention in
-mental health. Investing sufficiently in primary prevention to stop the
-onset of mental disorders prevents suffering, improves quality of life
-and societal outcomes, and reduces demand for secondary and tertiary
-prevention.
+Our findings also show the intersectional ways in which ethnicity, migrant status, and income level combine as structural forces that erode the agency required for affected individuals to achieve equitable levels of mental health to the general population. 
+
+Ultimately, governments should ensure that future policies are not implemented without consideration of the effects they could have on public mental health, via a population mental health impact assessment that quantifies the potential effect (negative or positive) that any policy could have on overall levels of public mental health or on exacerbating or reducing inequalities by ethnicity or any other protected characteristic.
 
 ## Read more
-There is currently an issue with the direct link to the article, but this link will bring you to the [full edition of World Psychiatry](https://www.wpanet.org/_files/ugd/842ec8_e625b4e0f44d46048540fb635402669e.pdf), which will allow you to read the paper (starting on page 58) as well as the accompanying responses
+You can read the full, open-access paper [Lancet Psychiatry ](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext). 
 
-To read a summary of this research, one of my PhD students [Alua Yeskendir]() wrote a fantastic piece summarising the main findings: [Poor mental health is not random](https://blogs.ucl.ac.uk/mental-health/2024/01/12/poor-mental-health-is-not-random-what-can-we-do-to-achieve-social-justice/). She also created the beautiful illustrations featured in this post. 
+A summary can be also found on[Medical Xpress](https://medicalxpress.com/news/2024-02-hostile-environment-policies-linked-prolonged.html). If you are lucky, you may catch Annie Jeffery's interview on LBC morning radio.  
 
 ## Behind the research
-This research was a tremendous undertaking, led by [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555) and drawing on the expertise of numerous international experts in mental health. The article is accompanied by several commentary responses by notable leaders in the field, including [Prof Ron Kessler](https://hcp.hms.harvard.edu/people/ronald-c-kessler), [Prof Ichiro Kawachi](https://www.hsph.harvard.edu/profile/ichiro-kawachi/), and [Prof Kerry Keyes](https://www.publichealth.columbia.edu/profile/katherine-m-keyes-phd). 
+This analysis was led [Dr Annie Jeffery](https://profiles.ucl.ac.uk/74470-annie-jeffery), a post-doc in [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555)'s PsyLife Lab at UCL and a crew of brilliant statisticians and experts in Bayesian analysis and causal inference. 
