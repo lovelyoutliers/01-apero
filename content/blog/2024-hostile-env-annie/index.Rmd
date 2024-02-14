@@ -64,7 +64,10 @@ Ultimately, governments should ensure that future policies are not implemented w
 ## Read more
 You can read the full, open-access paper [Lancet Psychiatry ](https://www.sciencedirect.com/science/article/pii/S2215036623004121). 
 
-A summary can be also found on[Medical Xpress](https://medicalxpress.com/news/2024-02-hostile-environment-policies-linked-prolonged.html). If you are lucky, you may catch Annie Jeffery's interview on LBC morning radio.  
+## News coverage
+- [The Guardian article](https://www.theguardian.com/world/2024/feb/14/hostile-environment-caused-immense-distress-in-black-caribbeans-study-finds)
+- [Medical Xpress](https://medicalxpress.com/news/2024-02-hostile-environment-policies-linked-prolonged.html). 
+- If you are up early, you might catch Annie Jeffery's interview on LBC morning radio.  
 
 ## Behind the research
 This analysis was led [Dr Annie Jeffery](https://profiles.ucl.ac.uk/74470-annie-jeffery), a post-doc in [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555)'s PsyLife Lab at UCL and a crew of brilliant statisticians and experts in Bayesian analysis and causal inference. 
