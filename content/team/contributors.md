@@ -46,7 +46,7 @@ MSc students - I have co-supervised many MSc projects at UCL. Whenever possible,
 
 + Melisa Yimaz (2022): Social exclusion and mental health 
 
-+ Lilian Burr (2022): Refugee status and affective psychotic disorders
++ Lilian Burr (2022): [Refugee status and affective psychotic disorders](https://authors.elsevier.com/c/1ibzhbXYiu-h5)
 
 + Fiona Lin (2021): Neighbourhood characteristics at migration and psychosis risk 
 
