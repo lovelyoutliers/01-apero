@@ -19,9 +19,9 @@ keep_md: yes
 ## Peer-reviewed publications
 Jeffery A, Gascoigne C, Dykxhoorn J, Blangiardo M, Geneletti S, Biao G, Kirkbride J.B. [The effect of immigration policy reform on mental health in people from minoritised ethnic groups in England: an interrupted time series analysis of longitudinal data for the UK Household Longitudinal Study cohort.](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext) Lancet Psychiatry 2024: Mar 11(3): 183-192.  
 
-Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://authors.elsevier.com/c/1ibzhbXYiu-h5) Journal of Affective Disorders: 2024; May 352: 43-60.  
+Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.  
 
-Kirkbride J.B., Anglin D.M., Colman I, Dykxhoorn J, Jones P.B., Patalay P, Pitman A, Soneson E, Steare T, Wright T, Griffiths S.L. [The social determinants of mental health and disorder: evidence, prevention and recommendations](https://www.wpanet.org/_files/ugd/842ec8_e625b4e0f44d46048540fb635402669e.pdf) World Psychiatry 2024; Feb 23(1): 58-90. 
+Kirkbride J.B., Anglin D.M., Colman I, Dykxhoorn J, Jones P.B., Patalay P, Pitman A, Soneson E, Steare T, Wright T, Griffiths S.L. [The social determinants of mental health and disorder: evidence, prevention and recommendations](https://onlinelibrary.wiley.com/doi/10.1002/wps.21160) World Psychiatry 2024; Feb 23(1): 58-90. 
 
 Logeswaran Y, Dykxhoorn J, Dalman C, Kirkbride J.B. [Life course trajectories of neighborhood social deprivation and population density before and after first diagnosis of psychotic disorders: a nested case-control study in Sweden](https://pubmed.ncbi.nlm.nih.gov/37672257/). JAMA Psychiatry 2023; Sept 6:e233220. 
 
