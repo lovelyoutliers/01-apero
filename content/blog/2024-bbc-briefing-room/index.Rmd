@@ -1,0 +1,49 @@
+---
+title: Anxiety & depression in the UK 
+subtitle: BBC Briefing Room episode
+excerpt: Join host David Aaronovitch interviewing Dr Jennifer Wild and me to explore patterns of anxiety and depression in the UK
+author: J Dykxhoorn
+date: '2024-07-10'
+slug: []
+categories:
+  - Media
+  - Common mental disorders
+  - anxiety
+  - depression
+  - Inequality
+tags: []
+draft: true
+series: ~
+layout: single
+image_left: true
+featured: true
+
+---
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="No Man's Land (1943) by Jankel Adler"}
+knitr::include_graphics("featured.jpg")
+```
+
+## Background
+
+## Why did we do this research?
+
+## What did we do? 
+
+
+## What did we find?
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="With David Aaronovitch in the studio for BBC Briefing Room taping"}
+knitr::include_graphics("briefing-room.jpg")
+```
+
+## What does this mean? 
+
+
+## Key papers
+[Temporal trends of common mental disorders You can read the full, open-access paper] (https://www.mentalhealthepi.com/blog/10_incidence/). 
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="With David Aaronovitch in the studio for BBC Briefing Room taping"}
+knitr::include_graphics("briefing-room.jpg")
+```
+

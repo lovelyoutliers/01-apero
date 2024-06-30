@@ -46,9 +46,10 @@ Academic clinical fellows
 
 
 Pre- and post-doctoral fellows
-+ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the gendered impact of the COVID-19 pandemic. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
++ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the [gendered impact of the COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514) and [hostile environment policies and the mental health of minoritised ethnic groups](). After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
 + [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
+
 
 MSc students - I have co-supervised many MSc projects at UCL. Whenever possible, MSc students are supported in publishing their MSc dissertations (see examples below). 
 

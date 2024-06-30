@@ -17,17 +17,24 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
-Jeffery A, Gascoigne C, Dykxhoorn J, Blangiardo M, Geneletti S, Biao G, Kirkbride J.B. [The effect of immigration policy reform on mental health in people from minoritised ethnic groups in England: an interrupted time series analysis of longitudinal data for the UK Household Longitudinal Study cohort.](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext) Lancet Psychiatry 2024: Mar 11(3): 183-192.  
+Dotsikas K, McGrath M, Walters K, Osborn DPJ, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a differences in differences analysis](). Soc Psychiatry Psychiatr Epidemiol 2024 Jul.
+[OSF protocol & pre-print](https://osf.io/v7f38/) and 
+[Github code](https://github.com/lovelyoutliers/hostile_environment)
 
-Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.  
+Plackett R, Hulin J, Mukuria C, Clowes M, Ramsey SE, Spencer L, Adams EA, Dykxhoorn J, Walters K, Osborn DPJ, Zamperoni V, Jones O, Weich S [Measures of social connectedness in adult populations: A systematic review]
+[Research Square pre-print](https://www.researchsquare.com/article/rs-2475856/v1)
 
-Kirkbride J.B., Anglin D.M., Colman I, Dykxhoorn J, Jones P.B., Patalay P, Pitman A, Soneson E, Steare T, Wright T, Griffiths S.L. [The social determinants of mental health and disorder: evidence, prevention and recommendations](https://onlinelibrary.wiley.com/doi/10.1002/wps.21160) World Psychiatry 2024; Feb 23(1): 58-90. 
+Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
 
-Logeswaran Y, Dykxhoorn J, Dalman C, Kirkbride J.B. [Life course trajectories of neighborhood social deprivation and population density before and after first diagnosis of psychotic disorders: a nested case-control study in Sweden](https://pubmed.ncbi.nlm.nih.gov/37672257/). JAMA Psychiatry 2023; Sept 6:e233220. 
+Jeffery A, Gascoigne C, Dykxhoorn J, Blangiardo M, Geneletti S, Biao G, Kirkbride J.B. [The effect of immigration policy reform on mental health in people from minoritised ethnic groups in England: an interrupted time series analysis of longitudinal data for the UK Household Longitudinal Study cohort.](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext) Lancet Psychiatry 2024: Mar 11(3): 183-192.
+
+Kirkbride J.B., Anglin D.M., Colman I, Dykxhoorn J, Jones P.B., Patalay P, Pitman A, Soneson E, Steare T, Wright T, Griffiths S.L. [The social determinants of mental health and disorder: evidence, prevention and recommendations](https://onlinelibrary.wiley.com/doi/10.1002/wps.21160) World Psychiatry 2024; Feb 23(1): 58-90.
+
+Logeswaran Y, Dykxhoorn J, Dalman C, Kirkbride J.B. [Life course trajectories of neighborhood social deprivation and population density before and after first diagnosis of psychotic disorders: a nested case-control study in Sweden](https://pubmed.ncbi.nlm.nih.gov/37672257/). JAMA Psychiatry 2023; Sept 6:e233220.
 
 Dykxhoorn J, Osborn D, Walters K, Kirkbride J.B., Lazzarino, A. [Temporal patterns in the recorded annual incidence of common mental disorders over two decades in the United Kingdom: A primary care cohort study](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5FDB89622CEED13B8538CAA28E837144/S0033291723002349a.pdf/temporal_patterns_in_the_recorded_annual_incidence_of_common_mental_disorders_over_two_decades_in_the_united_kingdom_a_primary_care_cohort_study.pdf). Psychological Medicine 2023; Aug:1-12.
 
-Pinfold V, Thompson R, Lewington A, Samuel G, Jayacodi S, Vadgama A, Fischer L.E., Jones O, Crawford A, Dykxhoorn J, Kidger J, Duncan, F, Oliver E.J. [Public perspectives on inequality and mental health: A peer research study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13868). Health Expectations 2023;1-15. 
+Pinfold V, Thompson R, Lewington A, Samuel G, Jayacodi S, Vadgama A, Fischer L.E., Jones O, Crawford A, Dykxhoorn J, Kidger J, Duncan, F, Oliver E.J. [Public perspectives on inequality and mental health: A peer research study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13868). Health Expectations 2023;1-15.
 
 Dotsikas K, Crosby L, McMunn A, Walters K, Dykxhoorn J. [The gender dimensions of mental health during the Covid-19 pandemic: a path analysis](https://pubmed.ncbi.nlm.nih.gov/37205670/). PLoS One 2023;18(5).
 
@@ -85,27 +92,26 @@ Colman I, Kingsbury M, Weeks M, Ataullahjan A, Belair M, Dykxhoorn J, Hynes K, L
 
 McMartin S, Kingsbury M, Dykxhoorn J, Colman I. [Time trends in symptoms of adolescent mental illness: Findings from a national survey of Canadians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259795/). Canadian Medical Association Journal. 2014 Dec 9; 186(18): 672-678.
 
-## Commentaries
 
-Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imperative to address the mental health crises within asylum-seekers and refugees system: a commentary on Hvidtfeldt et al. (2021)](https://link.springer.com/article/10.1007/s00127-022-02318-7). Soc Psych and Psych Epi. 2022 June 17.
+## Commentaries
+Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imperative to address the mental health crises within asylum-seekers and refugees system: a commentary on Hvidtfeldt et al. (2021)](https://link.springer.com/article/10.1007/s00127-022-02318-7). Soc Psych and Psych Epi. 2022 Jun 17.
 
 Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplinary understanding of psychosis risk amongst migrants and their descendants](https://pubmed.ncbi.nlm.nih.gov/30208980/). Epidemiol Psychiatr Sci. 2019 Apr;28(2):146-152.
 
-## Book chapters
 
+## Book chapters
 Dykxhoorn J, Kirkbride JB. The epidemiological burden of major psychiatric disorders. Oxford Textbook of Public Mental Health. Bhugra D et al (eds.). 2017.
 
 Solmi F, Dykxhoorn J, Kirkbride JB. Urban-rural differences in major mental health conditions. Mental Health and Illness in the City. Mental Health and Illness Worldwide 1. P. Munk-Jorgensen et al (eds.). 2017.
 
-## Protocols and preprints
 
+## Protocols and preprints
 Find pre-registered protocols and pre-print versions of my research on [Open Science Framework](https://osf.io/8fqv3/)
 
 Code and other resources can be found on [Github](https://github.com/lovelyoutliers)
 
 
 ## Reports, resources, & technical documents
-
 Public Mental Health Programme (2021). [Conceptual framework for public mental health](http://www.publicmentalhealth.co.uk). NIHR School for Public Health Research: London, UK.
 
 Public Health Agency of Canada (2015). [Measuring positive mental health in Canada](http://www.phac-aspc.gc.ca/mh-sm/mhp-psm/pmh-smp-eng.php). PHAC: Ottawa, ON. .

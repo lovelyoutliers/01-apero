@@ -1,0 +1,41 @@
+---
+title: Measuring social connectedness
+subtitle: What measures can we use to measure social connectedness in adults? 
+excerpt: A systematic review of measures
+author: J Dykxhoorn
+date: '2024-08-01'
+slug: []
+categories:
+  - Social connectedness
+  - Loneliness & social isolation
+  - Public mental health
+  - Systematic review
+  - Psychometric properties
+tags: []
+draft: no
+series: ~
+layout: single
+image_left: true
+featured: true
+
+---
+
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap=""}
+knitr::include_graphics("featured.jpeg")
+```
+
+## Why did we do this research?
+
+
+## Read more
+This article has been published at [BMC Public Health]()
+
+## Behind the research
+This review was conducted as part of the [School for Public Health Research's Public Mental Health Programme]. We conducted several similar reviews to explore outcome measures in mental health. 
+
+We also developed a [PMH conceptual framework](www.publicmentalhealth.co.uk) to summarise the determinants of public mental health , which was linked to this 
+
+
+
+
