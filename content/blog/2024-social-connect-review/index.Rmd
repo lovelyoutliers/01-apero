@@ -12,7 +12,7 @@ categories:
   - Systematic review
   - Psychometric properties
 tags: []
-draft: no
+draft: true
 series: ~
 layout: single
 image_left: true
