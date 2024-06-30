@@ -12,7 +12,7 @@ show_social_links: true
 
 ---
 
-Research is not a solitary act. All of the work described in this site has only been possible due to extrardinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi geneology! 
+Research is not a solitary act. All of the work described in this site has only been possible due to extraordinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi genealogy! 
 
 ## Mentors and supervisors
 + [Prof Kate Walters](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWALT44) and [Prof David Osborn](https://www.ucl.ac.uk/psychiatry/people/david-osborn) were the principal investigators of the [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). I was the programme manager and senior research fellow for this research during my postdoc (2019-22). David continues to be a mentor for my current fellowship. 
@@ -29,6 +29,26 @@ Research is not a solitary act. All of the work described in this site has only 
 
 ## Students and trainees 
 I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
+
+
+PhD students
++ Alua Yeskendir (MHRUK - 2023-2027) - Historically marginalised groups and mental health inequalities
+
++ Natalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
+
++ Jenny Fielder (Wellcome rotation supervisor - 2022) - Neighbourhood cohesion, income, and mental health
+
++ Sarah Ledden (NIHR - 2019-2023) Alcohol and suicidality
+
+
+Academic clinical fellows
++ Philippa Clery - Heat waves and mental health 
+
+
+Pre- and post-doctoral fellows
++ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the gendered impact of the COVID-19 pandemic. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
+
++ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
 
 MSc students - I have co-supervised many MSc projects at UCL. Whenever possible, MSc students are supported in publishing their MSc dissertations (see examples below). 
 
@@ -67,27 +87,4 @@ MSc students - I have co-supervised many MSc projects at UCL. Whenever possible,
 + Sarah Ledden (2018): The association between community level social capital and psychological distress
 
 + Sam Harris (2017):  [A nationwide study of the incidence of substance use disorders in refugee and migrant groups in Sweden: a cohort study of 1.2 million people](https://pubmed.ncbi.nlm.nih.gov/31689291/)
-
-
-
-PhD students
-+ Alua Yeskendir (MHRUK - 2023-2027) - Historically marginalised groups and mental health inequalities
-
-+ Natalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
-
-+ Jenny Fielder (Wellcome rotation supervisor - 2022) - Neighbourhood cohesion, income, and mental health
-
-+ Sarah Ledden (NIHR - 2019-2023) Alcohol and suicidality
-
-
-Academic clinical fellows
-+ Philippa Clery - Heat waves and mental health 
-
-
-Pre- and post-doctoral fellows
-+ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the gendered impact of the COVID-19 pandemic. After her fellowship, she has moved on complete her PhD at the Sorbonne. 
-
-+ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
-
-
 
