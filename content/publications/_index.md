@@ -17,12 +17,6 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
-Dotsikas K, McGrath M, Walters K, Osborn DPJ, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a differences in differences analysis](). Soc Psychiatry Psychiatr Epidemiol 2024 Jul.
-[OSF protocol & pre-print](https://osf.io/v7f38/) and 
-[Github code](https://github.com/lovelyoutliers/hostile_environment)
-
-Plackett R, Hulin J, Mukuria C, Clowes M, Ramsey SE, Spencer L, Adams EA, Dykxhoorn J, Walters K, Osborn DPJ, Zamperoni V, Jones O, Weich S [Measures of social connectedness in adult populations: A systematic review]
-[Research Square pre-print](https://www.researchsquare.com/article/rs-2475856/v1)
 
 Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
 
