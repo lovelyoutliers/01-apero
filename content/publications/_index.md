@@ -17,7 +17,6 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
-
 Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
 
 Jeffery A, Gascoigne C, Dykxhoorn J, Blangiardo M, Geneletti S, Biao G, Kirkbride J.B. [The effect of immigration policy reform on mental health in people from minoritised ethnic groups in England: an interrupted time series analysis of longitudinal data for the UK Household Longitudinal Study cohort.](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext) Lancet Psychiatry 2024: Mar 11(3): 183-192.

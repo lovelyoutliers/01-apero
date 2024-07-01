@@ -1,6 +1,6 @@
 ---
-title: Re-imagining public mental health together: A week of psychiatric epi
-subtitle: EPA Epidemiology & Social Psychiatry conference
+title: "Re-imagining public mental health together: A week of psyc epi"
+subtitle: "EPA Epidemiology & Social Psychiatry conference in Cambridge 2022"
 excerpt: "What happens when you invite 350 of your favourite psych epi researchers and people with lived experience to chat mental health research? Magic."
 text_align_right: false
 date: 2022-09-14
@@ -25,16 +25,15 @@ knitr::include_graphics("featured.jpeg")
 ```
 
 ## EPA Epidemiology and Social Psychiatry - 20th biennial congress
-The year was 2018 (I think?). Covid was but a twinkle in no one's eye, and we naively agreed to coordinate a conference. 
+The year was 2018ish, and we were offered the opportunity to host the next EPA Epi & Social Psych section meeting.  
 
-Initially, we were hoping to welcome delegates to Cambridge in 2020, but there was something else that had rather monopolised the world, so the Local Organising Committee Chair (James Kirkbride) prudenty postponed the meeting until Sept 2022. 
+We spent the next year (or so) putting together an exciting programme of rockstar keynotes, inspiring early career researchers, and fun social events. The plan was to welcome delegates to Cambridge for the 2020 section meeting of the European Psychiatric Association's Epidemiology & Social Psychiatry section meeting. Six months before, however, a small global pandemic had us scrambling for another option. Our Organising Committee chair (Prof James Kirkbride) prudently postponed the meeting until Sept 2022. 
 
-After many months of planning, James Kirkbride, Emma Soneson, Joana Pato-Aithal, and I pulled off a magnificant conference. 
+A year (or so) later, the plans were dusted off, the keynotes re-invited, the abstracts re-accepted, and we  had the immense pleasure of welcoming over 300 people to EPA Psyc Epi & Soc Psyc. 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Local organising committee with Marmot (Jen, Emma, Michael, Joana, James), EPA 2022"}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Local Organising Committee with Marmot (Jen Dykxhoorn, Emma Soneson, Michael Marmot, Joana Pato-Aithal, James Kirkbride), EPA 2022"}
 knitr::include_graphics("loc.jpeg")
 ```
-
 
 ##Public mental health re-imagined: a roadmap towards global equity
 We brought together renowned keynote speakers (Prof Peter Jones! Prof Ian Colman! Prof Sir Michael Marmot! Prof Inez Myin-Germeys! Prof Ann John), and had a strong line up of presentations, posters, and panels. A psych epi nerd's dream! (You can see the whole scientific programme on our [conference site](https://www.psychepi.org/congress/)).
