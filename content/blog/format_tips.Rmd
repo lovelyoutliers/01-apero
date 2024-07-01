@@ -45,7 +45,7 @@ And adjusting the spacing within paragraphs is something that seems to be fine i
 
 -   this seems easy!
 
-# 
+# Numbering 
 
 1.  I would also like to be able to number things better
 
