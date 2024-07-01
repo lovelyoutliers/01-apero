@@ -48,23 +48,23 @@ We used data from the Swedish population registers, which includes all individua
 
 *Exposures:* Refugee status & region We classified all participants by refugee status:
 
-1.  refugee migrants,
++  refugee migrants,
 
-2.  non-refugee migrants, or
++  non-refugee migrants, or
 
-3.  Swedish-born to two Swedish-born parents.
++  Swedish-born to two Swedish-born parents.
 
 We also categorised all participants into 5 regions:
 
-1.  Swedish-born,
++  Swedish-born,
 
-2.  Asia & Oceania,
++  Asia & Oceania,
 
-3.  Middle East and North Africa,
++  Middle East and North Africa,
 
-4.  Russia and Eastern Europe, or
++  Russia and Eastern Europe, or
 
-5.  Sub-Saharan Africa
++  Sub-Saharan Africa
 
 We excluded children of migrants (individuals with one or more migrant parents), and anyone without a residence permit (e.g. asylum-seekers do not receive a residence permit until a decision has been made on their asylum application. The registers also do not contain information on undocumented migrants or temporary visitors).
 
