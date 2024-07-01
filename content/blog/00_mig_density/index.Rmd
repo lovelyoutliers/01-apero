@@ -6,6 +6,7 @@ author: J Dykxhoorn
 date: '2020-03-06'
 slug: []
 categories:
+  - Research
   - Epidemiology
   - Public mental health
   - Migration
@@ -13,9 +14,6 @@ categories:
   - Psychiatric epidemiology
   - Psychosis
   - Social determinants of mental health
-tags: 
-- New research
-
 draft: no
 series: ~
 layout: single

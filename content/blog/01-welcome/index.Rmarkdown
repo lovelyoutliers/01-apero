@@ -2,7 +2,7 @@
 title: "Welcome to my research site"
 subtitle: "Under construction - Don't mind the dust!"
 excerpt: "Welcome to my new research site!"
-date: 2021-01-05
+date: 2020-02-02
 author: "J Dykxhoorn"
 draft: false
 featured: true
@@ -12,6 +12,9 @@ show_social_links: true
 series:
 tags: 
 categories:
+  - Blog
+  - Academic life
+  - News
 layout: single
 fig.align: 'center'
 ---
