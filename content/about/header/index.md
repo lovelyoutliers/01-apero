@@ -5,6 +5,11 @@ layout: standard
 show_title_as_headline: false
 headline: 
   Exploring mental illness through systems thinking (MIST).
+number_featured: 3 # pulling from mainSections in config.toml
+use_featured: false # if false, use most recent by date
+number_categories: 5 # set to zero to exclude
+show_intro: false
+intro: 
 ---
 
 <!-- this is a subheadline -->
