@@ -14,7 +14,7 @@ show_social_links: true
 
 Research is not a solitary act. All of the work described in this site has only been possible due to extraordinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi genealogy! 
 
-## Mentors and supervisors
+### Mentors and supervisors
 + [Prof Kate Walters](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWALT44) and [Prof David Osborn](https://www.ucl.ac.uk/psychiatry/people/david-osborn) were the principal investigators of the [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). I was the programme manager and senior research fellow for this research during my postdoc (2019-22). David continues to be a mentor for my current fellowship. 
 
 + [Prof James Kirkbride](https://www.psylife.eu/): James was one of my PhD supervisors (2015-19) and is the head of the PsyLife group at UCL. The PsyLife group explores inequalities in the social determinants of psychosis and other mental health problems over the life course. 
@@ -27,31 +27,31 @@ Research is not a solitary act. All of the work described in this site has only 
 
 + [Prof Ian Colman](http://www.psychepi.com/): Ian was my MSc supervisor (2012-14), who guided me down the garden path of epi, big data, and longitudinal research. His research group is a leading psychiatric epidemiology group in Canada, producing rigorous research long-term processes surrounding common mental disorders and their treatment, including suicidal behaviour.
 
-## Students and trainees 
-I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
+### Students and trainees 
+I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. Below are some of the trainees I have worked with and links to publications we have written together. If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
 
 
-PhD students
+*PhD students*
 + Alua Yeskendir (MHRUK - 2023-2027) - Historically marginalised groups and mental health inequalities
 
-+ Natalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
++ Nathalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
 
 + Jenny Fielder (Wellcome rotation supervisor - 2022) - Neighbourhood cohesion, income, and mental health
 
 + Sarah Ledden (NIHR - 2019-2023) Alcohol and suicidality
 
 
-Academic clinical fellows
+*Academic clinical fellows*
 + Philippa Clery - Heat waves and mental health 
 
 
-Pre- and post-doctoral fellows
+*Pre- and post-doctoral fellows*
 + [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the [gendered impact of the COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514) and [hostile environment policies and the mental health of minoritised ethnic groups](). After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
 + [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
 
 
-MSc students - I have co-supervised many MSc projects at UCL. Whenever possible, MSc students are supported in publishing their MSc dissertations (see examples below). 
+*MSc students* 
 
 + Ridha Mahmood (2023): Impact of climate change on mental health of vulnerable groups
 
