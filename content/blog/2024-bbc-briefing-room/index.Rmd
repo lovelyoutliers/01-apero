@@ -1,39 +1,34 @@
 ---
-title: Anxiety & depression in the UK 
+title: "Anxiety & depression in the UK"
+author: "J Dykxhoorn"
+date: "2024-07-10"
 subtitle: BBC Briefing Room episode
-excerpt: Join host David Aaronovitch interviewing Dr Jennifer Wild and me to explore patterns of anxiety and depression in the UK
-author: J Dykxhoorn
-date: '2024-07-10'
+excerpt: Join host David Aaronovitch interviewing Dr Jennifer Wild and me to explore
+  patterns of anxiety and depression in the UK
 slug: []
 categories:
-  - Media
-  - Common mental disorders
-  - anxiety
-  - depression
-  - Inequality
+- Media
+- Common mental disorders
+- anxiety
+- depression
+- Inequality
 tags: []
-draft: true
-series: ~
+draft: yes
+series: null
 layout: single
-image_left: true
-featured: true
-
+image_left: yes
+featured: yes
 ---
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="No Man's Land (1943) by Jankel Adler"}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Heading to BBC studio"}
 knitr::include_graphics("featured.jpg")
 ```
 
 ## Background
 
-## Why did we do this research?
-
-## What did we do? 
 
 
-## What did we find?
-
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="With David Aaronovitch in the studio for BBC Briefing Room taping"}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="David Aaronovitch in studio with Jen Dykxhoorn"}
 knitr::include_graphics("briefing-room.jpg")
 ```
 
@@ -42,6 +37,8 @@ knitr::include_graphics("briefing-room.jpg")
 
 ## Key papers
 [Temporal trends of common mental disorders You can read the full, open-access paper] (https://www.mentalhealthepi.com/blog/10_incidence/). 
+
+
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="With David Aaronovitch in the studio for BBC Briefing Room taping"}
 knitr::include_graphics("briefing-room.jpg")

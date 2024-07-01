@@ -17,7 +17,7 @@ library("rmarkdown")
 library("yaml")
 library("blogdown")
 library("knitr")
-library(blogdown)
+library("blogdown")
 
 
 
