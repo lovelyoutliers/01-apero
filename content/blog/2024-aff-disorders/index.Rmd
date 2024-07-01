@@ -21,6 +21,7 @@ series: ~
 layout: single
 image_left: true
 featured: true
+show_post_thumbnail: true
 ---
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="The Arrival (1913) by Christopher Nevinson"}
