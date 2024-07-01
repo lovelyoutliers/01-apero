@@ -2,7 +2,7 @@
 description: Thanks to all of my mentors, collaborators, and trainees!
 draft: false
 layout: single
-show_title_as_headline: true
+show_title_as_headline: false
 title: Contributors
 excerpt: The many people who have contributed to this research, including students, collaborators, and mentors [read more...]
 featured: true
