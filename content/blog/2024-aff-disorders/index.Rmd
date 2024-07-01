@@ -55,7 +55,7 @@ We used data from the Swedish population registers, which includes all individua
 
 We also categorised all participants into 5 regions:
 
-1.   Swedish-born,
+1.  Swedish-born,
 
 2.  Asia & Oceania,
 
