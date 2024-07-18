@@ -1,7 +1,6 @@
 ---
 title: "Categories & tags"
 categories:
-  
   - Anxiety & depression
   - Bipolar & mania
   - Common mental disorders
@@ -36,11 +35,6 @@ categories:
   - Systematic review
   - Trajectory modelling
   
-  
-  - UK
-  - Sweden
-  - USA
-  
   - Research
   - News
   - Media 
@@ -49,9 +43,11 @@ categories:
   - Academic life
   
 
+tags: 
+  - UK
+  - Sweden
+  - USA
 
-
-tags: []
 draft: yes
 series: ~
 ---

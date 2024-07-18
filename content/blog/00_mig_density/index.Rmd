@@ -1,19 +1,24 @@
 ---
 title: Neighbourhood migrant density and psychotic disorders
 subtitle: New research
-excerpt: Does the proportion of one's neighbours which share migration backgrounds impact psychosis risk? 
+excerpt: Does the proportion of ones neighbours which share migration backgrounds impact psychosis risk? 
 author: J Dykxhoorn
 date: '2020-03-06'
 slug: []
 categories:
-  - Research
-  - Epidemiology
-  - Public mental health
-  - Migration
-  - Open access
-  - Psychiatric epidemiology
-  - Psychosis
+  - Migrants & refugees
+  - Neighbourhood
+  - Schizophrenia & psychosis
+  - Severe mental illness
   - Social determinants of mental health
+  - Epidemiology
+  - Longitudinal
+  - Multilevel
+  - Open science
+  - Survival analysis
+  - Research
+tags: 
+  - Sweden
 draft: no
 series: ~
 layout: single

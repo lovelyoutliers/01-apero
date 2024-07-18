@@ -6,20 +6,18 @@ author: J Dykxhoorn
 date: '2020-12-17'
 slug: []
 categories:
-  - Health inequalities
-  - Epidemiology
+  - Deprivation
+  - Inequality
+  - Mental health
   - Public mental health
-  - Financial stress
-  - Covid 19
-  - Social isolation
+  - Severe mental illness
   - Social determinants of mental health
-  - Media
-  - Podcast 
+  - Social exclusion
+  - Media 
+  - Interview
+  - Podcast
 tags: 
-- public mental health
-- Podcast
-- Media
-
+  - UK
 draft: no
 series: ~
 layout: single
@@ -31,7 +29,7 @@ featured: true
 One of the exciting new projects I have been involved in is the launch of a new podcast: Real World Public Mental Health. This podcast was developed as a forum to discuss how evidence can be used in the real world to prevent mental health problems and promote better mental health.
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Photo: www.nzcompare.com"}
-knitr::include_graphics("featured.jpeg")
+knitr::include_graphics("featured.jpg")
 ```
 
 It is hosted by Stu King of the Behavioural Science and Public Health Network in partnership with a bunch of collaborators, including our NIHR Public Mental Health Programme and Public Health England. 

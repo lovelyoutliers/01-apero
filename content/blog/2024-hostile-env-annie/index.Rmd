@@ -6,14 +6,22 @@ author: J Dykxhoorn
 date: '2024-02-14'
 slug: []
 categories:
-  - Epidemiology
   - Causal inference
-  - Bayesian 
-  - Interrupted time series
+  - Common mental disorders
+  - Ethnicity
   - Inequality
+  - Migrants & refugees
+  - Public mental health
   - Social determinants of mental health
   - Social justice
-tags: []
+  - Bayesian
+  - Epidemiology
+  - Interrupted time series
+  - Longitudinal
+  - Research
+  - News
+tags: 
+  - UK
 draft: no
 series: ~
 layout: single
