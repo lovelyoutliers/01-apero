@@ -1,0 +1,58 @@
+---
+title: "Categories & tags"
+categories:
+  
+  - Anxiety & depression
+  - Bipolar & mania
+  - Common mental disorders
+  - Deprivation
+  - Ethnicity
+
+  - Inequality
+  - Migrants & refugees
+  - Neighbourhood
+  
+  - Public mental health
+  - Schizophrenia & psychosis
+  
+  - Severe mental illness
+  - Social determinants of mental health
+  - Social justice
+  - Social exclusion
+  - Substance use
+  - Suicide & self-harm
+  
+  
+  - Bayesian
+  - Causal inference
+  - Commentary
+  - Epidemiology
+  - Interrupted time series
+  - Longitudinal
+  - Multilevel
+  - Open science
+  - Principal component analysis
+  - Survival analysis
+  - Systematic review
+  - Trajectory modelling
+  
+  
+  - UK
+  - Sweden
+  - USA
+  
+  - Research
+  - News
+  - Media 
+  - Interview
+  - Podcast
+  - Academic life
+  
+
+
+
+tags: []
+draft: yes
+series: ~
+---
+
