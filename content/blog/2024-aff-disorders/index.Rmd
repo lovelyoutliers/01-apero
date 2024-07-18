@@ -6,14 +6,15 @@ author: J Dykxhoorn
 date: '2024-02-16'
 slug: []
 categories:
-  - Epidemiology
-  - Psychiatric Epidemiology 
-  - Affective disorders
-  - Psychosis
-  - Bipolar disorder
+  - Bipolar & mania
+  - Inequality
+  - Migrants & refugees
+  - Schizophrenia & psychosis
+  - Severe mental illness
   - Social determinants of mental health
-  - Refugees 
-  - Migrants
+  - Epidemiology
+  - Longitudinal
+  - Research
   - Sweden
 tags: []
 draft: no

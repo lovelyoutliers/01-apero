@@ -43,7 +43,6 @@ categories:
   - Academic life
   
 
-tags: 
   - UK
   - Sweden
   - USA

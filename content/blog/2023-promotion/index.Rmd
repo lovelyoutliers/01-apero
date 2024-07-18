@@ -1,15 +1,14 @@
 ---
-title: Academic milestone news
-author: admin
+title: Academic milestone news - promotion!
 date: '2023-06-04'
 slug: []
 categories:
-  - Academic Life
+  - Academic life
   - News
 subtitle: 'Dr Dykxhoorn promoted to Principal Research Fellow (Associate Professor)'
 excerpt: 'Excited to share a career milestone'
 tags: []
-draft: false
+draft: no
 series: ~
 layout: single
 image_left: true
@@ -17,7 +16,7 @@ featured: true
 ---
 
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=""}
-knitr::include_graphics("featured.jpeg")
+knitr::include_graphics("yay.jpeg")
 ```
 
 Delighted to share that Dr Jen Dykxhoorn has been [promoted to Principal Research Fellow (Associate Professor)](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/promotions-2022-23#Professors) at UCL within the Division of Psychiatry's Department of Epidemiology and Applied Clinical Research. 
