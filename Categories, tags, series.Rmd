@@ -16,11 +16,10 @@ categories:
   
   - Severe mental illness
   - Social determinants of health
-  - Social justice
   - Social exclusion
+  - Social justice
   - Substance use
   - Suicide & self-harm
-  
   
   - Bayesian
   - Causal inference
@@ -31,8 +30,10 @@ categories:
   - Multilevel
   - Open science
   - Principal component analysis
+  - Policy
   - Survival analysis
   - Systematic review
+  - Systems science
   - Trajectory modelling
   
   - Research
@@ -42,7 +43,6 @@ categories:
   - Podcast
   - Academic life
   
-
   - UK
   - Sweden
   - USA
@@ -51,6 +51,7 @@ series:
  - Migrants & refugees
  - Social exclusion
  - Social determinants of health
+ - Media
 
 draft: yes
 series: ~

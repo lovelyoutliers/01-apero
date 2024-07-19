@@ -1,7 +1,8 @@
 ---
 title: Academic milestone news - promotion!
-subtitle: Dr Dykxhoorn promoted to Principal Research Fellow (Associate Professor)
+subtitle:  Dr Dykxhoorn promoted to Principal Research Fellow (Associate Professor) at UCL 
 excerpt: Excited to share an academic career milestone
+author: J Dykxhoorn
 date: '2023-06-01'
 slug: []
 categories:
@@ -13,11 +14,11 @@ series: ~
 layout: single
 image_left: true
 featured: true
+show_post_thumbnail: true
 ---
 
-
-```{r, echo=FALSE, out.width="100%", fig.align = 'center'}
-knitr::include_graphics("yay.jpeg")
+```{r, echo=FALSE, out.width="75%", fig.align = 'center'}
+knitr::include_graphics("featured.jpeg")
 ```
 
 Delighted to share that Dr Jen Dykxhoorn has been [promoted to Principal Research Fellow (Associate Professor)](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/promotions-2022-23#Professors) at UCL within the Division of Psychiatry's Department of Epidemiology and Applied Clinical Research. 
@@ -33,6 +34,3 @@ Dr Dykxhoorn supervises PhD students within the Division of Psychiatry. Prospect
 ## Study with us
 Jen leads the [Social Determinants of Global Health MSc module](https://www.ucl.ac.uk/module-catalogue/modules/the-social-determinants-of-global-health-IEHC0048) in the Institute of Epidemiology and Health Care. Spaces are open to postgraduate students at UCL, including those enrolled in the MSc in Social Epidemiology, MSc Population Health, and MSc Global Health and Development.
 
-
-Image: Photo by <a href="https://unsplash.com/fr/@pattib?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patti Black</a> on <a href="https://unsplash.com/photos/3YSGBYZMvcs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  

@@ -3,8 +3,7 @@ title: Trajectories of deprivation and population density before and after diagn
   with a psychotic disorder
 subtitle: Does exposure to differing trajectories of deprivation and population density
   affect rates of psychotic disorders?  
-excerpt: Does exposure to differing trajectories of deprivation and population density
-  affect rates of psychotic disorders? New research published in the JAMA Psychiatry. 
+excerpt: New research published in the JAMA Psychiatry. 
 author: J Dykxhoorn
 date: '2023-10-15'
 slug: []
@@ -12,7 +11,6 @@ categories:
   - Deprivation
   - Inequality
   - Schizophrenia & psychosis
-  - Severe mental illness
   - Social determinants of health
   - Epidemiology
   - Longitudinal
