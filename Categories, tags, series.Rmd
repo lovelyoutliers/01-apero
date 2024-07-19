@@ -1,10 +1,14 @@
 ---
 title: "Categories & tags"
 categories:
+  - Affective disorders
   - Anxiety & depression
+  - Bayesian
+  - Causal inference
   - Bipolar & mania
   - Common mental disorders
   - Deprivation
+  - Directed acyclic graph
   - Ethnicity
 
   - Inequality
@@ -14,15 +18,14 @@ categories:
   - Public mental health
   - Schizophrenia & psychosis
   
-  - Severe mental illness
   - Social determinants of health
   - Social exclusion
   - Social justice
   - Substance use
   - Suicide & self-harm
-  
-  - Bayesian
-  - Causal inference
+  - Structural equation modelling
+  - Systems science
+
   - Commentary
   - Epidemiology
   - Interrupted time series
@@ -30,9 +33,10 @@ categories:
   - Multilevel
   - Open science
   - Principal component analysis
+  - PTSD
   - Policy
   - Survival analysis
-  - Systematic review
+  - Review
   - Systems science
   - Trajectory modelling
   
@@ -49,8 +53,8 @@ categories:
 
 series:
  - Migrants & refugees
- - Social exclusion
  - Social determinants of health
+ - Neighbourhoods & mental health
  - Media
 
 draft: yes
