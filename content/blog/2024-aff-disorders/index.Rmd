@@ -10,15 +10,15 @@ categories:
   - Inequality
   - Migrants & refugees
   - Schizophrenia & psychosis
-  - Severe mental illness
-  - Social determinants of mental health
+  - Social determinants of health
   - Epidemiology
   - Longitudinal
   - Research
   - Sweden
 tags: []
 draft: no
-series: ~
+series: 
+  - Migrants & refugees
 layout: single
 image_left: true
 featured: true

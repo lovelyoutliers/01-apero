@@ -1,22 +1,22 @@
 ---
 title: Measuring social exclusion and its distribution across England
 subtitle: How can we capture the multidimensional nature of social exclusion in quantitatiave research? 
-excerpt: Research describing an analytic approach to measuring five domains of social exclusion using data from a UK household survey
+excerpt: Analytic approach to multi-dimensional measurement of social exclusion, published in Social Psychiatry & Psychiatric Epidemiology
 author: J Dykxhoorn
 date: '2023-06-04'
 slug: []
 categories:
+  - Inequality
+  - Deprivation
+  - Social determinants of health
   - Social exclusion
-  - Health inequalities
-  - Epidemiology
-  - Public health
   - Principal component analysis
-  - Understanding Society
-  - Social determinants of mental health
-  - Measurement
+  - Research
+  - UK
 tags: []
 draft: false
-series: ~
+series: 
+  - Social determinants of health 
 layout: single
 image_left: true
 featured: true
@@ -28,24 +28,31 @@ featured: true
 knitr::include_graphics("featured.jpeg")
 ```
 
-
+### Background
 
 Social exclusion is a term that has been used for many years in political rhetoric to represent the multidimensional processes which restrict groups or individuals from participating fully in society.
 
 While it is a powerful concept, we have not been able to measure it consistently across health and social studies. Many studies have used one aspect (e.g. low income) as a proxy for social exclusion. On the other side of the spectrum, some have developed dedicated surveys to get detailed measures of social exclusion (e.g. Netherlands). However, while these specialised surveys can provide an in depth picture of social exclusion at one point in time, they are not as useful in understanding how social exclusion changes over time and how it relates to a range of factors like mental health outcomes. 
 
-## Why did we do this resarch?
+### Why did we do this resarch?
+
 The goals of this project were to generate a measurement approach to social exclusion which captured the multidimensional nature of social exclusion using existing population health data, which could be replicated at multiple timepoints. 
 
-## What did we do? 
+### What did we do? 
+
 We first reviewed the existing literature around social exclusion to capture the range of what is included in social exclusion. We also consulted with people with lived experience to discuss their understanding of the important aspects of social exclusion. We narrowed the list to 5 main domains: 
 
-Five domains of social exclusion
-+ Material exclusion (e.g. poverty, housing insecurity, unemployment)
-+ Relational exclusion (e.g. low social support)
-+ Political exclusion (e.g. disengagement from civic and political processes)
-+ Digital exclusion (e.g. lacking technology or skills to access digital resources)
-+ Structural exclusion (e.g. unequal distribution of power due to discrimination or unjust policies)
+Five domains of social exclusion:
+
++   Material exclusion (e.g. poverty, housing insecurity, unemployment)
+
++   Relational exclusion (e.g. low social support)
+
++   Political exclusion (e.g. disengagement from civic and political processes)
+
++   Digital exclusion (e.g. lacking technology or skills to access digital resources)
+
++   Structural exclusion (e.g. unequal distribution of power due to discrimination or unjust policies)
 
 With these domains, we then used Wave 1 (2009/2010) of [Understanding Society](https://www.understandingsociety.ac.uk/) to find questions (measures) in the survey that related to each of these domains. We then conducted Principal Component Analysis within each domain to identify the main "components" of each of these domains. 
 
@@ -63,10 +70,10 @@ We found that the levels of social exclusion varied by age group, region, and et
 
 ![Distribution of social exclusion domains across England](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00127-023-02489-x/MediaObjects/127_2023_2489_Fig1_HTML.png?as=webp)
 
-## What does this mean? 
+### What does this mean? 
 This research demonstrates that it is possible to use existing population studies to generate good estimates of social exclusion. Further, our findings that there were important differences across domains suggests that attention should be paid to these separate domains, particularly when designing interventions with reduce the levels of social exclusion in the population. 
 
-[Read full-text, open-access article](https://link.springer.com/article/10.1007/s00127-023-02489-x). 
+[Read full-text, open-access article in Social Psychiatry and Psychiatric Epidemiology](https://link.springer.com/article/10.1007/s00127-023-02489-x). 
 
 
 

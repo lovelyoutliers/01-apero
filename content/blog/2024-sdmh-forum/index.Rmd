@@ -1,18 +1,20 @@
 ---
 title: The social determinants of mental health 
 subtitle: What are the social factors which drive of mental health and what can we do about them? 
-excerpt: A comphrehensive "state-of-the-science" review of the social determinants of mental health, a review of prevention strategies, and 7 key recommendations 
+excerpt: A comphrehensive "state-of-the-science" review published in World Psychiatry
 author: J Dykxhoorn
 date: '2024-01-12'
 slug: []
 categories:
-  - Epidemiology
-  - Social determinants of mental health
+  - Public mental health
+  - Social determinants of health
   - Social justice
   - Inequality
+  - Review
 tags: []
 draft: no
-series: ~
+series: 
+  - Social determinants of health
 layout: single
 image_left: true
 featured: true
@@ -24,65 +26,45 @@ featured: true
 knitr::include_graphics("featured.jpeg")
 ```
 
-## Why did we do this research?
+### Why did we do this research?
 There is compelling evidence that the risk of developing mental health problems depend on social and structural factors. These factors, also called the 'social determinants of mental health' include  a wide range of factors including income, housing, childhood adversity, and neighbourhood conditions. 
 
 Critically, these factors are not randomly distributed. Some individuals and groups are much more likely to experience these social risk factors, and a far higher burden of mental health problems. 
 
 The point of this review was to summarise the state of the evidence around the social determinants of mental health, highlight 'what works'  to prevent mental health problems, and urges us to shift our focus to viewing mental health inequalities as a issue of social justice requiring urgent action. 
 
-## Prevention strategies to address the social determinants of mental health 
+### Prevention strategies to address the social determinants of mental health 
 We highlighted a range of prevention strategies which aim to prevent mental health problems and support those experiencing mental health problems. 
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Strategies to tackle social injustice in the onset of mental health problems"}
 knitr::include_graphics("featured2.jpeg")
 ```
 
+### Key recommendations
 
-## Key recommendations
-1. Make social justice central to all public mental health interventions.
-Mental health problems are inequitably distributed between and within
-populations, principally arising from systemic structural inequalities.
-Making social justice core to all public mental health interventions and
+1.    Make social justice central to all public mental health interventions. Mental health problems are inequitably distributed between and within
+populations, principally arising from systemic structural inequalities. Making social justice core to all public mental health interventions and
 policies would reduce these inequities.
-2. Invest in interventions that pay off in multiple domains. Few social
-determinants solely affect mental health. Investing in interventions that
-target key social determinants will improve physical, mental and social
-outcomes for individuals and communities. Intervention programs
-should routinely measure mental health alongside these other outcomes.
-3. Invest in interventions that target critical windows of the life
-course to interrupt intergenerational transmission of mental health
-inequalities. Providing good-quality and accessible parental and familial
-support early in life can interrupt the intergenerational transmission of
-mental health inequalities within families or communities.
-4. Prioritize interventions that focus on poverty alleviation. Any
-comprehensive public health approach to reduce the burden of poor
-mental health must include efforts to reduce poverty. Poverty is
-inextricably linked to most social determinants of mental health, and
-could be considered a root cause.
-5. Strengthen causal inference in research on social determinants
-of mental health and primary prevention. Most research on social
-determinants of mental health is observational, often subject to selection
-and confounding bias. Stronger causal inference methods are needed, as
-well as larger, interdisciplinary observational and experimental studies
-in representative and adequately powered samples to accelerate progress
-of knowledge and develop effective primary interventions.
-6. Establish inclusive longitudinal population mental health monitoring.
-Many countries struggle to accurately estimate psychiatric morbidity
-in their populations, which inhibits both clinical and public mental
-health provision. Samples are often unrepresentative. Reliable, inclusive
-and precise longitudinal monitoring of population mental health is the
-essential basis for effective prevention.
-7. Ensure parity between primary, secondary and tertiary prevention in
-mental health. Investing sufficiently in primary prevention to stop the
-onset of mental disorders prevents suffering, improves quality of life
-and societal outcomes, and reduces demand for secondary and tertiary
+
+2.    Invest in interventions that pay off in multiple domains. Few social determinants solely affect mental health. Investing in interventions that target key social determinants will improve physical, mental and social outcomes for individuals and communities. Intervention programs should routinely measure mental health alongside these other outcomes.
+
+3.    Invest in interventions that target critical windows of the life course to interrupt intergenerational transmission of mental health inequalities. Providing good-quality and accessible parental and familial support early in life can interrupt the intergenerational transmission of mental health inequalities within families or communities.
+
+4.    Prioritize interventions that focus on poverty alleviation. Any comprehensive public health approach to reduce the burden of poor mental health must include efforts to reduce poverty. Poverty is inextricably linked to most social determinants of mental health, and could be considered a root cause.
+
+5.    Strengthen causal inference in research on social determinants of mental health and primary prevention. Most research on social determinants of mental health is observational, often subject to selection and confounding bias. Stronger causal inference methods are needed, as well as larger, interdisciplinary observational and experimental studies in representative and adequately powered samples to accelerate progress of knowledge and develop effective primary interventions.
+
+6.    Establish inclusive longitudinal population mental health monitoring. Many countries struggle to accurately estimate psychiatric morbidity
+in their populations, which inhibits both clinical and public mental health provision. Samples are often unrepresentative. Reliable, inclusive and precise longitudinal monitoring of population mental health is the essential basis for effective prevention.
+
+7.    Ensure parity between primary, secondary and tertiary prevention in mental health. Investing sufficiently in primary prevention to stop the onset of mental disorders prevents suffering, improves quality of life and societal outcomes, and reduces demand for secondary and tertiary
 prevention.
 
-## Read more
+
+### Read more
 There is currently an issue with the direct link to the article, but this link will bring you to the [full edition of World Psychiatry](https://www.wpanet.org/_files/ugd/842ec8_e625b4e0f44d46048540fb635402669e.pdf), which will allow you to read the paper (starting on page 58) as well as the accompanying responses
 
 To read a summary of this research, one of my PhD students [Alua Yeskendir]() wrote a fantastic piece summarising the main findings: [Poor mental health is not random](https://blogs.ucl.ac.uk/mental-health/2024/01/12/poor-mental-health-is-not-random-what-can-we-do-to-achieve-social-justice/). She also created the beautiful illustrations featured in this post. 
 
-## Behind the research
+### Behind the research
 This research was a tremendous undertaking, led by [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555) and drawing on the expertise of numerous international experts in mental health. The article is accompanied by several commentary responses by notable leaders in the field, including [Prof Ron Kessler](https://hcp.hms.harvard.edu/people/ronald-c-kessler), [Prof Ichiro Kawachi](https://www.hsph.harvard.edu/profile/ichiro-kawachi/), and [Prof Kerry Keyes](https://www.publichealth.columbia.edu/profile/katherine-m-keyes-phd). 
