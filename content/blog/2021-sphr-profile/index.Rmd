@@ -1,13 +1,14 @@
 ---
-title: "Behind the research: SPHR profile
-author: Jen Dykxhoorn
+title: Meet who is behind the research
+subtitle: Profile on Jen Dykxhoorn by the NIHR School for Public Health Resarch
+excerpt: Profile of Jen Dykxhoorn by the NIHR School for Public Health Research, to accompany the launch of the PMH conceptual framework. 
 date: '2021-10-04'
 categories:
-  - Press
-  - epidemiology
-  - public mental health
-tags:
-  - Media
+  - Public mental health
+  - News
+  - Media 
+  - Interview
+  - Academic life
 draft: false
 image_left: true
 show_social_links: true
