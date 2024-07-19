@@ -15,7 +15,7 @@ categories:
   - Schizophrenia & psychosis
   
   - Severe mental illness
-  - Social determinants of mental health
+  - Social determinants of health
   - Social justice
   - Social exclusion
   - Substance use

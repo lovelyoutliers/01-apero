@@ -7,7 +7,7 @@ categories:
   - Cohort study
   - Epidemiology
   - Longitudinal
-  - Social determinants of mental health
+  - Social determinants of health
   - Common mental disorders
   - Gender
   - COVID

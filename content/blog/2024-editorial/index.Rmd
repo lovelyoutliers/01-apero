@@ -10,7 +10,7 @@ categories:
   - Inequality
   - Migrants & refugees
   - Public mental health
-  - Social determinants of mental health
+  - Social determinants of health
   - Social justice
   - Suicide & self-harm
   - Commentary
