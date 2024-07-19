@@ -1,12 +1,12 @@
 ---
 title: Academic milestone news - promotion!
+subtitle: Dr Dykxhoorn promoted to Principal Research Fellow (Associate Professor)
+excerpt: Excited to share an academic career milestone
 date: '2023-06-04'
 slug: []
 categories:
   - Academic life
   - News
-subtitle: 'Dr Dykxhoorn promoted to Principal Research Fellow (Associate Professor)'
-excerpt: 'Excited to share a career milestone'
 tags: []
 draft: no
 series: ~
@@ -15,7 +15,8 @@ image_left: true
 featured: true
 ---
 
-```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=""}
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center'}
 knitr::include_graphics("yay.jpeg")
 ```
 
