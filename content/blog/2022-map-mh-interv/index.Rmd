@@ -1,19 +1,17 @@
 ---
 title: Mapping community interventions for mental health
+subtitle: Are we meeting the need for mental health support?   
+excerpt: New research published in BMC Public Health
 author: Jen Dykxhoorn
 date: '2022-09-22'
 slug: []
 categories:
   - Common mental disorders
   - Public mental health
-  - Social determinants of mental health
-  - social isolation
+  - Social determinants of health
   - UK
 tags:
-  - Publications
-  - Media
-subtitle: ''
-excerpt: ''
+  - Social determinants of health
 draft: no
 series: ~
 layout: single
@@ -21,18 +19,29 @@ image_left: true
 featured: true
 show_social_links: true
 ---
+
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
 knitr::include_graphics("featured.jpeg")
 ```
 
+### Background
+
 Improving public mental health, promoting well-being, and preventing mental illness is a major priority for public health in the UK. Importantly, communities can play an important role in providing public mental health interventions which target key determinants of mental health. 
 
-Part of our research within the [NIHR School for Public Health Research's Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/), was mapping map community-based mental health interventions, with the goal of summarising the range of interventions currently offered, review the key features of each intervention, including any evaluations, and to explore the distribution of service offerings in light of data of need in the UK. 
+
+### Why did we do this research? 
+
+Mapping available community-based mental health interventions can show us what is currently available across England, what do these interventions look like, and see if available services align with mental health needs. 
+
+This research was part of the [NIHR School for Public Health Research's Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/) research programme. This work was lead by Dr Fiona Duncan (Durham University) and Michael McGrath (UCL), with support from across the Public Mental Health Programme. 
+
+### What did we do? 
+
+Normally I would jump into a brief summary of what we did, what we found, and why it matters, but the [Mental Elf](https://www.nationalelfservice.net/mental-health/) published a terrific summary of this work on their blog today, including an overview of the research, the limitations, and next steps. 
 
 
-This work was lead by Dr Fiona Duncan (Durham University) and Michael McGrath (UCL), with support from across the Public Mental Health Programme. Our paper was published last year in [BMC Public Health - open access](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11741-5)
+### Read more
 
-Normally I would jump into a brief summary of what we did, what we found, and why it matters, but the [Mental Elf](https://www.nationalelfservice.net/mental-health/) published a terrific summary of this work on their blog today. 
+Our paper was published in [BMC Public Health - open access](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11741-5)
 
-Read the clear summary by Mental Elf Elena Opie here, including limitations and next steps of this research: [A map of England's community mental health interventions: are we meeting people's needs?](https://www.nationalelfservice.net/populations-and-settings/community-settings/community-mental-health-england/)
 
