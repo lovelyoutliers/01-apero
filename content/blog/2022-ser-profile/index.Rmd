@@ -1,16 +1,29 @@
 ---
-title: "Society for Epidemiologic Research profile: Jen Dykxhoorn"
-output: html_document
+title: Society for Epidemiologic Research profile on Jen Dykxhoorn
+subtitle: SER member profile
+excerpt: SER member profile on Jen Dykxhoorn 
 date: "2022-07-11"
+categories:
+  - News
+  - Media 
+  - Interview
+  - Academic life
+  - Epidemiology
+draft: false
+image_left: true
+show_social_links: true
+layout: single
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}
+knitr::include_graphics("featured.jpg")
 ```
+
+To accompany the launch of our [interactive public mental health website](www.publicmentalhealth.co.uk), the School for Public Health Research published a profile on my work, as a glimpse "behind the research."
+
 
 Wondering what sparked my interest in epi and why I think it is the best career?
 
-Check out this brief profile by the Society for Epidemiologic Research.https://epiresearch.org/2022/10/25/member-insight-jennifer-dykxhoorn/
+Check out this [brief profile by the Society for Epidemiologic Research](https://epiresearch.org/2022/10/25/member-insight-jennifer-dykxhoorn/).
 
 It’s a treat to be featured on the SER site. I have been a member of SERs for several years, and am currently on the Membership & Nominations Committee and the International Sub-committee. It is a wonderfully supportive community, with lots of opportunity to learn cutting-edge methods, present at conferences, and meet other epidemiologists from around the world. One of the highlights is the annual meeting (which will be hosted in Portland in 2023, and abstract submissions are open!)
-

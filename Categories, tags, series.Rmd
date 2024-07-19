@@ -47,6 +47,11 @@ categories:
   - Sweden
   - USA
 
+series:
+ - Migrants & refugees
+ - Social exclusion
+ - Social determinants of health
+
 draft: yes
 series: ~
 ---

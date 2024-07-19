@@ -7,15 +7,17 @@ author: "Jen Dykxhoorn"
 draft: false
 image_left: true
 show_social_links: true
-series:
+categories:
   - Inequality
   - Mental health
   - Migrants & refugees
   - Public mental health
-  - Social determinants of mental health
+  - Social determinants of health
   - Social justice
   - Commentary
   - Epidemiology
+series:
+ - Migrants & refugees
 layout: single
 ---
 
