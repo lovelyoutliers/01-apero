@@ -1,0 +1,16 @@
+---
+title: "Society for Epidemiologic Research profile: Jen Dykxhoorn"
+output: html_document
+date: "2022-07-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Wondering what sparked my interest in epi and why I think it is the best career?
+
+Check out this brief profile by the Society for Epidemiologic Research.https://epiresearch.org/2022/10/25/member-insight-jennifer-dykxhoorn/
+
+It’s a treat to be featured on the SER site. I have been a member of SERs for several years, and am currently on the Membership & Nominations Committee and the International Sub-committee. It is a wonderfully supportive community, with lots of opportunity to learn cutting-edge methods, present at conferences, and meet other epidemiologists from around the world. One of the highlights is the annual meeting (which will be hosted in Portland in 2023, and abstract submissions are open!)
+

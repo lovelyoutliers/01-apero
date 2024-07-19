@@ -1,5 +1,5 @@
 ---
-title: Meet who is behind the research
+title: Meet who is behind the research - SPHR profile
 subtitle: Profile on Jen Dykxhoorn by the NIHR School for Public Health Resarch
 excerpt: Profile of Jen Dykxhoorn by the NIHR School for Public Health Research, to accompany the launch of the PMH conceptual framework. 
 date: '2021-10-04'
