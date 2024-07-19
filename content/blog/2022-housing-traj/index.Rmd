@@ -1,7 +1,7 @@
 ---
 title: Housing affordability and mental health
 subtitle: How do trajectories of housing affordability affect mental health?
-excerpt: Longitudinal research on housing affordability and mental health, let by Kate Dotsikas.
+excerpt: New research on housing affordability and mental health, published in Social Psychiatry and Psychiatric Epidemiology
 text_align_right: false
 date: 2022-07-12
 author: "Jen Dykxhoorn"
@@ -10,15 +10,14 @@ featured: true
 image_left: true
 show_social_links: true
 series:
+  - Social determinants of health
 tags: 
 categories:
-- Research
-- Housing 
-- Housing insecurity
-- Trajectories
-- Understanding Society
-- UK
-- Social determinants of mental health
+  - Common mental disorders
+  - Social determinants of health
+  - Inequality
+  - Trajectory modelling
+  - UK
 layout: single
 ---
 
@@ -26,13 +25,20 @@ layout: single
 knitr::include_graphics("featured.jpg")
 ```
 
-### Why did we do this research?
+### Background
+
 With costs of living at a historic high, there are many families in the UK struggling to cover their basic needs of housing, food, and energy. Housing costs, in particular, have risen so the proportion of families facing affordable housing has also increased. While it seems apparent that housing and financial stress can impact mental health, longitudinal evidence is limited. 
 
-### How much is too much? What is "affordable" housing? 
+### Research question
+
+What is the longitudinal relationship between housing affordability and mental health? 
+
+### How much is "too much"? What is "affordable" housing? 
+
 Spending less than 30% of household income on housing is considered affordable, and all those who must spend more than 30% of their income on housing can be said to be facing housing affordability problems. 
 
 ### What did we do? 
+
 Using data from Understanding Society, a survey which follows UK households over time, we looked at trajectories of housing affordability problems over 10 years (2009-2019). We classified people by trajectory of housing affordability. 
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Six trajectory groups of housing affordability "}
@@ -40,14 +46,17 @@ knitr::include_graphics("traj.png")
 ```
 
 ### What did we find? 
+
 Compared to the "stable low" group (which were not exposed to housing affordability problems), all other groups had significantly worse mental health at follow-up. Unsurprisingly, the group with stable high exposure to housing affordability problems had poor mental health outcomes. The other group with poor mental health outcomes was the "high falling" (the group which had experienced a period of housing affordability problems, but this had reduced over time).  
 
 ### What does this mean?
+
 We found that exposure to housing affordability problems is associated with poor mental health outcomes, even in the absence of more recent problems. 
 
-[Read full-text article](https://link.springer.com/article/10.1007/s00127-022-02314-x#citeas). 
+[Read full-text article on Social Psychiatry and Psychiatric Epidemiology](https://link.springer.com/article/10.1007/s00127-022-02314-x). 
 
 ### Behind the research
+
 This research was led by Kate Dotsikas, one of our pre-doctoral fellows. She has since gone on to start her PhD at the Sorbonne and I have no doubt that we will continue to see exciting epi from her! 
 
  

@@ -1,7 +1,7 @@
 ---
-title: Parenthood and risk of suicide
+title: Does parenthood alter suicide risk? 
 subtitle: Do parents have a lower or higher risk of suicide? Does this change over the life course? Is it different for females and males? 
-excerpt: Research led by Alma Sörberg Wallin from Karolinska Institutet exploring if parenthood changed risk of suicide. 
+excerpt: New research published in Social Psychiatry and Psychiatric Epidemiology 
 text_align_right: false
 date: 2022-07-14
 author: "J Dykxhoorn"
@@ -10,15 +10,12 @@ featured: true
 image_left: true
 show_social_links: true
 series:
-tags: 
-categories:
-- Swedish data
-- Epidemiology
-- Longitudinal
-- Suicide
-- Cox regression
-- Parenthood
-
+  - Social determinants of health
+categories: 
+  - Suicide & self-harm
+  - Survival analysis
+  - Social determinants of health
+  - Sweden
 layout: single
 ---
 
@@ -26,24 +23,40 @@ layout: single
 knitr::include_graphics("featured.jpg")
 ```
 
-## Why did we do this research?
+### Why did we do this research?
 Becoming a parent is thought to reduce the risk of suicide, but there are many questions, including does this protective effect change over the life course and if it is different for men and for women.
 
+### Research questions
 
-## What did we do? 
+1.    Do parents have a lower or higher risk of suicide? 
+
+2.    Does this risk change over the life course? 
+
+3.    Does the impact of parenthood on suicide risk differ for females and males? 
+
+
+### What did we do? 
 In this study, we used data on over 5 million Swedish women and men from 1991 to 2011.
 
 We used the linked national registers to identify the birth or adoption of children and other important confounding factors. We used the national death registry to identify people who died by suicide. 
 
 In order to assess the risk of suicide, we used survival analysis (Cox regression).
 
-## What did we find? 
-Parents had a lower risk of suicide than non-parents across the life course. This reduction in suicide risk was most pronounced for younger parents, particularly young women.These results are consistent with possible mechanisms, like sense of responsibility and higher levels of connectedness, which may be protective against suicide in parents.
+### What did we find? 
+
+>Parents had a lower risk of suicide than non-parents across the life course. 
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Association between parenthood and suicide risk in women and men, by age"}
 knitr::include_graphics("fig1.jpg")
 ```
 
+This reduction in suicide risk was most pronounced for younger parents, particularly young women.These results are consistent with possible mechanisms, like sense of responsibility and higher levels of connectedness, which may be protective against suicide in parents.
 
-[Read full-text article](https://link.springer.com/article/10.1007/s00127-022-02321-y#Fig2). 
+### Read more
 
+[Read full-text article on *Social Psychiatry & Psychiatric Epidemiology*](https://link.springer.com/article/10.1007/s00127-022-02321-y#). 
+
+
+### Behind the research
+
+This research led by Alma Sörberg Wallin from Karolinska Institutet.
