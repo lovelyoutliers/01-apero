@@ -17,6 +17,8 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. 
+
 Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
 
 Jeffery A, Gascoigne C, Dykxhoorn J, Blangiardo M, Geneletti S, Biao G, Kirkbride J.B. [The effect of immigration policy reform on mental health in people from minoritised ethnic groups in England: an interrupted time series analysis of longitudinal data for the UK Household Longitudinal Study cohort.](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(23)00412-1/fulltext) Lancet Psychiatry 2024: Mar 11(3): 183-192.
@@ -87,6 +89,8 @@ McMartin S, Kingsbury M, Dykxhoorn J, Colman I. [Time trends in symptoms of adol
 
 
 ## Commentaries
+Dykxhoorn J, Rich N, Martínez-Alés G, Pitman A. [Hiding in plain sight: ethnic and migrant variations in suicide](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00218-9/abstract). Lancet Psychiatry. 2024 Aug; 11(8): 577-578. 
+
 Oduola S & Dykxhoorn J. [Triple trauma, double uncertainty, and a singular imperative to address the mental health crises within asylum-seekers and refugees system: a commentary on Hvidtfeldt et al. (2021)](https://link.springer.com/article/10.1007/s00127-022-02318-7). Soc Psych and Psych Epi. 2022 Jun 17.
 
 Dykxhoorn J, Kirkbride JB. [Psychoses sans frontieres: towards an interdisciplinary understanding of psychosis risk amongst migrants and their descendants](https://pubmed.ncbi.nlm.nih.gov/30208980/). Epidemiol Psychiatr Sci. 2019 Apr;28(2):146-152.
