@@ -32,23 +32,23 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 
 *PhD students*
-+ Alua Yeskendir (MHRUK - 2023-2027) - Historically marginalised groups and mental health inequalities
++ Alua Yeskendir (MHRUK - 2023-27) - Historically marginalised groups and mental health inequalities. She wrote an excellent [blog summarising the social determinants of mental health forum](https://transcendent-sprite-853b4c.netlify.app/blog/2024-sdmh-forum/)
 
-+ Nathalie Rich (ESRC DTP - 2022-2025) - Ethnic inequalities in psychosis
++ Nathalie Rich (ESRC DTP - 2022-25) - Ethnic inequalities in psychosis. Nat contributed to a [commentary on ethnic and migrant differences in suicide for Lancet Psychiatry](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hiding-in-plain-sight/)
 
 + Jenny Fielder (Wellcome rotation supervisor - 2022) - Neighbourhood cohesion, income, and mental health
 
-+ Sarah Ledden (NIHR - 2019-2023) Alcohol and suicidality
++ Sarah Ledden (NIHR - 2019-2023) - Alcohol and suicidality
 
 
 *Academic clinical fellows*
-+ Philippa Clery - Heat waves and mental health 
++ Philippa Clery (ACF 2023-24) - Heat waves and mental health 
 
 
 *Pre- and post-doctoral fellows*
-+ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the [gendered impact of the COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514) and [hostile environment policies and the mental health of minoritised ethnic groups](). After her fellowship, she has moved on complete her PhD at the Sorbonne. 
++ [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the [gendered impact of the COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514) and [hostile environment policies and the mental health of minoritised ethnic groups](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hostile-env-kate/). After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
-+ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://www.jmir.org/2023/1/e43213). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
++ [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://transcendent-sprite-853b4c.netlify.app/blog/2023-social-media/). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
 
 
 *MSc students* 
@@ -67,11 +67,11 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 + Melisa Yimaz (2022): Social exclusion and mental health 
 
-+ Lilian Burr (2022): [Refugee status and affective psychotic disorders](https://authors.elsevier.com/c/1ibzhbXYiu-h5)
++ Lilian Burr (2022): [Refugee status and affective psychotic disorders](https://transcendent-sprite-853b4c.netlify.app/blog/2024-aff-disorders/)
 
 + Fiona Lin (2021): Neighbourhood characteristics at migration and psychosis risk 
 
-+ Spyros Spyridonidis (2021): [Neighbourhood-level predictors of the age of onset of psychotic disorders](https://academic.oup.com/schizbullopen/article/3/1/sgac045/6640228) 
++ Spyros Spyridonidis (2021): [Neighbourhood-level predictors of the age of onset of psychotic disorders](https://transcendent-sprite-853b4c.netlify.app/blog/2023-dep-traj/) 
 
 + Tanuja Noor (2021): Systematic review of discrimination measures
 
@@ -79,13 +79,13 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 + Angela Chase (2020): Neighbourhood-level social capital and incidence of psychosis [preprint](https://osf.io/preprints/psyarxiv/269rx/)
 
-+ Kavya Ashok (2019): [Objective and subjective neighbourhood factors and risk of suicidal thoughts and attempts](https://pubmed.ncbi.nlm.nih.gov/34231453/)
++ Kavya Ashok (2019): [Objective and subjective neighbourhood factors and risk of suicidal thoughts and attempts](https://transcendent-sprite-853b4c.netlify.app/blog/2022-neigh-sui/)
 
 + Zsofia Dombi (2019): The incidence of depressive disorders among first- and second-generation migrants and refugees
 
-+ James Terhune (2018): [Migrant status and risk of compulsory admission at first diagnosis of psychotic disorder: a population-based cohort study in Sweden](https://pubmed.ncbi.nlm.nih.gov/32578529/)
++ James Terhune (2018): [Migrant status and risk of compulsory admission at first diagnosis of psychotic disorder: a population-based cohort study in Sweden](https://transcendent-sprite-853b4c.netlify.app/blog/2021-comp-care/)
 
 + Sarah Ledden (2018): The association between community level social capital and psychological distress
 
-+ Sam Harris (2017):  [A nationwide study of the incidence of substance use disorders in refugee and migrant groups in Sweden: a cohort study of 1.2 million people](https://pubmed.ncbi.nlm.nih.gov/31689291/)
++ Sam Harris (2017):  [A nationwide study of the incidence of substance use disorders in refugee and migrant groups in Sweden: a cohort study of 1.2 million people](https://transcendent-sprite-853b4c.netlify.app/blog/2020-sud-ptsd-mig/)
 
