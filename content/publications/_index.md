@@ -102,10 +102,8 @@ Dykxhoorn J, Kirkbride JB. The epidemiological burden of major psychiatric disor
 Solmi F, Dykxhoorn J, Kirkbride JB. Urban-rural differences in major mental health conditions. Mental Health and Illness in the City. Mental Health and Illness Worldwide 1. P. Munk-Jorgensen et al (eds.). 2017.
 
 
-## Protocols and preprints
-Find pre-registered protocols and pre-print versions of my research on [Open Science Framework](https://osf.io/8fqv3/)
-
-Code and other resources can be found on [Github](https://github.com/lovelyoutliers)
+## Protocols, preprints, and code
+Find pre-registered protocols and pre-print versions of my research on [Open Science Framework](https://osf.io/8fqv3/). Code and other resources can be found on [Github](https://github.com/lovelyoutliers)
 
 
 ## Reports, resources, & technical documents
