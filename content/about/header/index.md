@@ -17,7 +17,7 @@ MIST is my current research programme, funded by the NIHR Advanced Fellowship (2
 
 My research aims to explore the drivers of mental illnesses within the social environment, using tools from epidemiology, systems science, and data science. Go to [Research team](https://www.mentalhealthepi.com/team/) to learn learn more about me and my collaborators. 
 
-I publish [short summaries of each paper here](https://www.mentalhealthepi.com/blog/), including links to published papers, pre-registerd protocols, and published code.
+I publish [short summaries of each paper here](https://www.mentalhealthepi.com/blog/), including links to published papers, pre-registered protocols, and published code.
 
 My long-term goal is to further our understanding of the causal architecture underlying severe mental illnesses and inform policies and population-based interventions which could prevent the onset and reduce the burden of mental health problems in socially excluded groups.
 
