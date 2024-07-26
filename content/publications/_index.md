@@ -17,7 +17,7 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
-Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. 
+Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. [Code](https://github.com/lovelyoutliers/hostile_environment). [Pre-print](https://osf.io/preprints/osf/rxwqy).
 
 Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
 
@@ -27,13 +27,13 @@ Kirkbride J.B., Anglin D.M., Colman I, Dykxhoorn J, Jones P.B., Patalay P, Pitma
 
 Logeswaran Y, Dykxhoorn J, Dalman C, Kirkbride J.B. [Life course trajectories of neighborhood social deprivation and population density before and after first diagnosis of psychotic disorders: a nested case-control study in Sweden](https://pubmed.ncbi.nlm.nih.gov/37672257/). JAMA Psychiatry 2023; Sept 6:e233220.
 
-Dykxhoorn J, Osborn D, Walters K, Kirkbride J.B., Lazzarino, A. [Temporal patterns in the recorded annual incidence of common mental disorders over two decades in the United Kingdom: A primary care cohort study](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5FDB89622CEED13B8538CAA28E837144/S0033291723002349a.pdf/temporal_patterns_in_the_recorded_annual_incidence_of_common_mental_disorders_over_two_decades_in_the_united_kingdom_a_primary_care_cohort_study.pdf). Psychological Medicine 2023; Aug:1-12.
+Dykxhoorn J, Osborn D, Walters K, Kirkbride J.B., Lazzarino, A. [Temporal patterns in the recorded annual incidence of common mental disorders over two decades in the United Kingdom: A primary care cohort study](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5FDB89622CEED13B8538CAA28E837144/S0033291723002349a.pdf/temporal_patterns_in_the_recorded_annual_incidence_of_common_mental_disorders_over_two_decades_in_the_united_kingdom_a_primary_care_cohort_study.pdf). Psychological Medicine 2023; Aug:1-12. [Protocol](https://osf.io/ka7uw). 
 
 Pinfold V, Thompson R, Lewington A, Samuel G, Jayacodi S, Vadgama A, Fischer L.E., Jones O, Crawford A, Dykxhoorn J, Kidger J, Duncan, F, Oliver E.J. [Public perspectives on inequality and mental health: A peer research study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13868). Health Expectations 2023;1-15.
 
 Dotsikas K, Crosby L, McMunn A, Walters K, Dykxhoorn J. [The gender dimensions of mental health during the Covid-19 pandemic: a path analysis](https://pubmed.ncbi.nlm.nih.gov/37205670/). PLoS One 2023;18(5).
 
-Dykxhoorn J, Osborn D, Fischer L, Kirkbride JB, Troy D, Walters K. [Measuring social exclusion and its distribution in England](https://link.springer.com/article/10.1007/s00127-023-02489-x). Soc Psychiatry Psychiatr Epidemiol 2023 May.
+Dykxhoorn J, Osborn D, Fischer L, Kirkbride JB, Troy D, Walters K. [Measuring social exclusion and its distribution in England](https://link.springer.com/article/10.1007/s00127-023-02489-x). Soc Psychiatry Psychiatr Epidemiol 2023 May. [Protocol](https://osf.io/ag8ec).
 
 Plackett R, Sheringham J, Dykxhoorn J. [The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study](https://www.jmir.org/2023/1/e43213). J Med Internet Res 2023;25.
 
@@ -43,13 +43,13 @@ Spyridonidis S, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride JB. [Neighborhoo
 
 Sörberg Wallin A, Sjöqvist H, Dehara M, Wells MB, Dykxhoorn J, Kosidou K, Dalman C. [Parenthood and lower risk of suicide in women and men: the total Swedish population followed across adulthood](https://link.springer.com/article/10.1007/s00127-022-02321-y). Soc Psychiatry Psychiatr Epidemiol. 2022.
 
-Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022 June.
+Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022 June. [Protocol](https://osf.io/vj3rd)
 
 Lee C, Kuhn I, McGrath M, Remes O, Cowan A, Duncan F, Baskin C, Oliver EJ, Osborn D, Dykxhoorn J, Kaner E, Walters K, Kirkbride JB, Gnani S, Lafortune L. [A systematic scoping review of community-based interventions for the prevention of mental ill-health and the promotion of mental health in older adults in the UK](https://pubmed.ncbi.nlm.nih.gov/33988281/). Health & Social Care in the Community. 2022 Jan;30(1):27-57.
 
 Duncan F, Baskin C, McGrath M, Coker JF, Lee C, Dykxhoorn J, Adams EA, Gnani S, Lafortune L, Kirkbride JB, Kaner E, Jones O, Samuel G, Walters K, Osborn D, Oliver EJ. [Community interventions for improving adult mental health: mapping local policy and practice in England](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11741-5). BMC Public Health. 2021 Sept: 21(1691).
 
-Dykxhoorn J, Hayes J, Ashok K, Sörberg Wallin A, Dalman C. [Objective and subjective neighbourhood characteristics and suicidality: a multilevel analysis](https://pubmed.ncbi.nlm.nih.gov/34231453/). Psychological Medicine. 2021 July 7; 1-10.
+Dykxhoorn J, Hayes J, Ashok K, Sörberg Wallin A, Dalman C. [Objective and subjective neighbourhood characteristics and suicidality: a multilevel analysis](https://pubmed.ncbi.nlm.nih.gov/34231453/). Psychological Medicine. 2021 July 7; 1-10. [Protocol](https://osf.io/rzabk).
 
 Stafford J, Dykxhoorn J, Sommerland A, Dalman C, Kirkbride JB, Howard R. [Association between risk of dementia and very late schizophrenia-like psychosis: a Swedish population-based cohort study](https://pubmed.ncbi.nlm.nih.gov/34030750/). Psychological Medicine. 2021 May 25; 1-9
 
