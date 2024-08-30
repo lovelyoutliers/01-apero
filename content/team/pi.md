@@ -19,3 +19,4 @@ Jen has held several roles in research and public health. She worked for three y
 -   Public mental health  
 -   Epidemiological research methods, particularly longitudinal analysis of big data
 -   Systems modelling and simulation
+-   Causal inference

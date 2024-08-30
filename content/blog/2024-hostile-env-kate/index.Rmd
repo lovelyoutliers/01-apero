@@ -1,0 +1,88 @@
+---
+title: "'Hostile environment' policies and psychological distress by ethnic group"
+subtitle: Did the 'hostile environment for illegal migration' increase psychological distress in minoritised ethnic groups? 
+excerpt: A interrupted time series analysis, published in Social Psychiatry and Psychiatric Epidemiology. 
+author: J Dykxhoorn
+date: '2024-06-30'
+slug: []
+categories:
+  - Common mental disorders
+  - Ethnicity
+  - Inequality
+  - Migrants & refugees
+  - Social determinants of health
+  - Epidemiology
+  - Interrupted time series
+tags: 
+  - UK
+draft: no
+series: 
+ - Migrants & refugees
+layout: single
+image_left: true
+featured: true
+---
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Study for the city (1909-10) by Robert Delaunay"}
+knitr::include_graphics("featured.jpg")
+```
+
+## Background
+
+In 2012, then Home Secretary Theresa May announced a desire ‘to create here in Britain a really hostile environment for illegal migration’, which has later been referred to by the Government as the ‘compliant environment policy’. 
+
+The passage of the Immigration Acts of 2014 and 2016 enacted this ‘hostile environment’ by implementing policy changes that aimed to increase social exclusion for undocumented migrants. 
+
+Alongside these policy changes, other initiatives began such as the ‘Go Home vans’, a 2013 government campaign in which vans with advertising slogans reading ‘In the UK illegally? Go home or face arrest’ drove around six London boroughs with high concentrations of immigrants and minoritised ethnic individuals. 
+
+Further, anti-migrant rhetoric increased in the lead up to the 2016 Brexit referendum, and a spike in racist or religious abuse hate crimes reported to police was observed in the period directly following the referendum, with evidence supporting a causal link with the referendum.
+
+
+## Why did we do this research?
+
+Minoritised ethnic groups have faced high levels of interpersonal and structural racism (the unjust allocation of resources and opportunities based on ethnicity), which have been linked to higher levels of psychological distress. 
+
+In this study, we aimed to measure changes in psychological distress among people from ethnic minoritised groups compared to White British controls following the introduction of hostile environment policies.
+
+## What did we do?
+
+We used participants from Understanding Society, a longitudinal household survey from the UK, including 10 waves of data collection from 2009 and 2020.
+
+We measured psychological distress, using the General Health Questionnaire (GHQ-12), commonly used to measure symptoms of common mental health problems, like depression and anxiety. We dicotomised responses to each question, and summed the score to create an overall score, where higher scores indicated more psychological distress. 
+
+The primary exposure in this study was exposure to hostile environment policies, which were introduced in the UK between 2012 and 2016. We divided the follow-up time into three eras: (1) , including Waves 1–3); (2) transition era (2012–2016, including Waves 4–6); and (3) ongoing hostile environment policies (2016–2020, including Waves 7–9)
+
+1.  Pre-hostile environment era (2009–2012)
+
+2.  Transition era (2012-2016)
+
+3.  Ongoing policy era (2016-2020)
+
+We used difference-in-difference (DiD) models to estimate the effect of the hostile environment on mental health by comparing the change in mental health before and after the introduction of these policies in ethnic minoritised groups (treated group) compared to the White British group (control). DiD models are widely used to estimate the causal effects of an intervention in longitudinal observational data. This DiD model allowed us to estimate the potential treatment effect (hostile environment policies) on the outcome (mental health) by comparing change before, during, and after the introduction of these policies on the treated group (minoritised ethnic groups) compared to the control group (White British group).
+
+## What did we find?
+
+We found evidence that psychological distress increased among Pakistani and Bangladeshi individuals following the introduction of hostile environment policies but did not detect increased distress in other ethnic groups. .
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Marginal mean psychological distress scores by ethnic group and policy era, imputed"}
+knitr::include_graphics("hostile-kate.jpg")
+```
+
+## What does this mean?
+We showed that some minoritised ethnic groups experienced greater psychological distress during and after the implementation of the hostile environment policies, compared to the pre-policy period and compared to the White British group, although the effect sizes were modest. 
+
+There was no overall common effect of the hostile environment on psychological distress across all minoritised ethnic groups. This finding underlines the importance of considering ethnic groups not as a monolith, but instead as groups with distinct identities and relationships with mental health.
+
+It is difficult to quantify the direct impact that wide policies might have on mental health, particularly as they happen simultaneous to numerous other changes in the last decade. However, being able to demonstrate that political decisions can have a measurable impact on mental health is an important message, underscoring the need to consider the potential impact that policy decisions might have on historically marginalised groups including exacerbating inequalities. 
+
+
+## Read more
+
+You can read the full, open-access paper [Social Psychiatry & Psychiatric Epidemiology](https://link.springer.com/article/10.1007/s00127-024-02705-2).
+
+
+## Behind the research
+
+The road to getting this paper finished was a long one and I am very grateful to Kate Dotsikas and Michael McGrath for their dedication to this project.
+
+Michael McGrath and I started discussing this idea in 2019, and I received a small grant to dedicate time to this project and other social exclusion projects. When Mike left UCL for his next post, Kate Dotsikas picked up the analysis in the last months of her pre-doctoral fellowship. We have continued to work together over the last few years, and Kate has generously dedicated time to finishing this project between finishing her pre-doc post, moving to another country, and starting a PhD.

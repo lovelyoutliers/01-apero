@@ -1,8 +1,8 @@
 ---
-title: "Conceptual framework for public mental health"
+title: Conceptual framework for public mental health
 exerpt: Interactive online tool and process paper published in BMC Public Mental Health
 subtitle: What factors impact public mental health? 
-author: "J Dykxhoorn"
+author: J Dykxhoorn
 date: "2022-09-12"
 use_featured: true
 draft: false
@@ -10,55 +10,59 @@ categories:
   - Public mental health
   - Conceptual framework
   - Social determinants of health
+tags: 
+draft: no
 series: 
-  - Social determinants of health
-
+ - Social determinants of health
+layout: single
+image_left: true
+featured: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-### Background 
 
-For the past 3 years, I have been the programme manager for the NIHR School for Public Health Research's [Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). 
+### Background
 
-An important part of this programme was to develop a conceptual framework of the factors which impact our mental health. 
+For the past 3 years, I have been the programme manager for the NIHR School for Public Health Research's [Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/).
+
+An important part of this programme was to develop a conceptual framework of the factors which impact our mental health.
 
 ```{r, echo=FALSE, out.width="75%", fig.cap="", fig.align='centre'}
 knitr::include_graphics("featured.png")
 ```
 
 ### Aim
+
 The aim of this tool is to summarise the current evidence around key factors (also known as determinants) that affect public mental health.
 
 The conceptual framework aims to provide information that is relevant and useful to members of the public, public health practitioners, and academics.
 
-### What did we do? 
-We reviewed academic literature, policies, and reports which discussed the determinants of mental health. We also worked with members of the public, practitioners, and academics to identify a comprehensive list of determinants. 
+### What did we do?
 
-These were prioritised into a list of 55 determinants. With the help of an amazing research intern, we defined each determinant and collected key resources demonstrating the link between each factor and mental health. 
+We reviewed academic literature, policies, and reports which discussed the determinants of mental health. We also worked with members of the public, practitioners, and academics to identify a comprehensive list of determinants.
 
-And then they were made beautiful by our talented team of designers, lead by [Laura Fischer and Bobbie Galvin](https://sphr.nihr.ac.uk/news-and-events/visualising-public-mental-health/). 
+These were prioritised into a list of 55 determinants. With the help of an amazing research intern, we defined each determinant and collected key resources demonstrating the link between each factor and mental health.
+
+And then they were made beautiful by our talented team of designers, lead by [Laura Fischer and Bobbie Galvin](https://sphr.nihr.ac.uk/news-and-events/visualising-public-mental-health/).
 
 ```{r, echo=FALSE, out.width="75%", fig.cap="", fig.align='centre'}
 knitr::include_graphics("pmh2.jpeg")
 ```
 
-### What can the tool be used for? 
+### What can the tool be used for?
 
 The tool can be used to inform policy and practice, advance people’s knowledge of mental health, and help identify further opportunities for research.
 
-### Check it out for yourself! 
+### Check it out for yourself!
 
 ## [www.publicmentalhealth.co.uk](https://www.publicmentalhealth.co.uk/)
 
 ### Read more
+
 We also published a paper that provides WAY more details of what we did and how we did it! You can read the [full text, open-access paper here](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13775-9).
 
-
 ## Sidebar:
+
 If reading papers is not your thing, you can watch a brief video where I give a tour of the framework on [Youtube](https://www.youtube.com/watch?v=NFQbSQKkr-4).
-
-
-
-
