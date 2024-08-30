@@ -6,7 +6,6 @@ author: J Dykxhoorn
 date: '2024-08-17'
 slug: []
 categories:
-  - Affective disorders
   - Anxiety & depression
   - Common mental disorders
   - Inequality
