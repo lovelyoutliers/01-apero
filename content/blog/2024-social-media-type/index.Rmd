@@ -1,0 +1,92 @@
+---
+title: Does how people use social media change the association with mental health? 
+subtitle: Does the association between social media use and mental health change depending on how people use social media? 
+excerpt: A longitudinal analysis of Understanding Society data on adults in the UK
+author: J Dykxhoorn
+date: '2024-09-17'
+slug: []
+categories:
+  - Common mental disorders
+  - Public mental health]
+  - Longitudinal
+  - Research
+  - Understanding Society
+  - UK
+draft: true
+series:
+ - Social determinants of health
+layout: single
+image_left: true
+featured: true
+---
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center'}
+knitr::include_graphics("featured.jpg")
+```
+
+### Background
+
+Previous studies have explored the association between social media use and mental health among adolescents. However, few studies using nationally representative longitudinal data have explored this relationship for adults and how the effect might change depending on how people use social media. 
+
+
+### Why did we do this research?
+We explored the key findings and possible explanations for these patterns. 
+
+### What did we do?
+We used data from Understanding Society, a longitudinal population survey in the UK. We included 15,836 people, ages 16 or older.
+
+
+*Exposure - social media use:* Participants were asked about social media usage in 2019-2021. We divided social media behaviors by viewing content and posting content. 
+
++ frequency of viewing social media content; and 
+
++ frquency of posting social media content.
+
+
+We also created 4 categories of social media usage:
+
++  high viewing, high posting,
+
++  high viewing, low posting, 
+
++  low viewing, high posting, or
+
++ low viewing, low posting.
+
+
+
+
+*Outcome - mental health problems:* Psychiatric outcomes: We identified all cases of affective psychotic disorder and non-psychotic bipolar disorder, as recorded in the inpatient and outpatient electronic health records. We excluded anyone who had been diagnosed with non-affective psychotic disorder from this analysis.
+
+*Confounders:* We adjusted for age, sex, ethnicity, employment, and education. 
+
+*Analysis:* We fit linear regression models to estimate the association between the four categories of social media usage and mental health problems. 
+
+### What did we find?
+
+We found no evidence of that the frequency of viewing social media content effected mental health problems in the following year. 
+
+In contrast, we found that adults who posted daily on social media had more mental health problems than those who never posted on social media 
+
+When we considered both social media behaviours, we found that those who frequently viewed and posted on social media had more mental health problems a year later than those who rarely viewed or posted on social media (coef.=0.31, 95% CI: 0.04-0.58, P=0.03). 
+
+
+
+
+
+### What does this mean?
+
+> We found that the rate of affective psychotic disorders was nearly twice as high in refugees compared to the native-born population, and further that there was nearly a 50% increase in rates when refugees were compared to non-refugee migrants.
+>
+> We also found that refugees and non-refugee migrants had consistently lower rates of non-psychotic bipolar disorders.
+
+We found that a high frequency of posting on social media was associated with increased mental health problems a year later. However, we did not find evidence of a similar association based on frequency of viewing social media content. This provides evidence that some types of active social media use (i.e. posting) have a stronger link to mental health outcomes than some types of passive social media use (viewing). These results highlighted that the relationship between social media use and mental health is complex, and more research is needed to understand the mechanisms underlying these patterns to inform targeted interventions and policies. 
+
+
+### Read more
+
+You can read the full paper here [Journal of Medical Internet Research]()
+
+### Behind the research
+
+This analysis was led Yue (Annie) Yu as part of her [MSc in population health at UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/population-health-msc). She was supervised by [Dr Ruth Plackett](https://profiles.ucl.ac.uk/54768-ruth-plackett) and me.
