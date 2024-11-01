@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2023-03-26
+date: 2024-11-01
 draft: false
 excerpt: Publications, book chapters, and reports
 layout: single
@@ -17,6 +17,8 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Yu Y, Dykxhoorn J, Plackett R. [The impact of different types of social media use on the mental health of UK adults: longitudinal observational study](https://www.jmir.org/2024/1/e56950). Journal of Medical Internet Research: 2024; Nov. [Pre-print](https://preprints.jmir.org/preprint/56950).
+
 Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. [Code](https://github.com/lovelyoutliers/hostile_environment). [Pre-print](https://osf.io/preprints/osf/rxwqy).
 
 Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
