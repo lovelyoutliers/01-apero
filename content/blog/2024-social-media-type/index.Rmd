@@ -3,7 +3,7 @@ title: Does how people use social media change the association with mental healt
 subtitle: Does the association between social media use and mental health change depending on how people use social media? 
 excerpt: A longitudinal analysis of Understanding Society data on adults in the UK
 author: J Dykxhoorn
-date: '2024-09-17'
+date: '2024-11-01'
 slug: []
 categories:
   - Common mental disorders
@@ -12,7 +12,7 @@ categories:
   - Research
   - Understanding Society
   - UK
-draft: true
+draft: false
 series:
  - Social determinants of health
 layout: single
@@ -21,7 +21,7 @@ featured: true
 ---
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center'}
-knitr::include_graphics("featured.jpg")
+knitr::include_graphics("featured.png")
 ```
 
 ### Background
@@ -33,15 +33,13 @@ Previous studies have explored the association between social media use and ment
 We explored the key findings and possible explanations for these patterns. 
 
 ### What did we do?
-We used data from Understanding Society, a longitudinal population survey in the UK. We included 15,836 people, ages 16 or older.
-
+*Study population:* We used data from Understanding Society, a longitudinal population survey in the UK. We included 15,836 people, ages 16 or older. All participants had completed the Understanding Society survey in Wave 11 (2019-2021) and one year later (Wave 12, 2020-2022). 
 
 *Exposure - social media use:* Participants were asked about social media usage in 2019-2021. We divided social media behaviors by viewing content and posting content. 
 
 + frequency of viewing social media content; and 
 
-+ frquency of posting social media content.
-
++ frequency of posting social media content.
 
 We also created 4 categories of social media usage:
 
@@ -54,13 +52,12 @@ We also created 4 categories of social media usage:
 + low viewing, low posting.
 
 
+*Outcome - mental health problems:* We measured mental health problems using scores from the General Health Questionnaire (GHQ-12), a 12-item questionnaire which assesses symptoms of anxiety, depression, and psychological distress. A higher score on the GHQ-12 indicates more mental health problems.  
 
+*Confounders:* We adjusted for sex, age, education, employment, and ethnicity. We also adjusted for mental health problems at baseline. 
 
-*Outcome - mental health problems:* Psychiatric outcomes: We identified all cases of affective psychotic disorder and non-psychotic bipolar disorder, as recorded in the inpatient and outpatient electronic health records. We excluded anyone who had been diagnosed with non-affective psychotic disorder from this analysis.
+*Analysis:* We used linear regression to look at the association between social media use and mental health. We imputed missing data, and used the longitudinal weights provided by Understanding Society to ensure the results were representative of the UK population.  
 
-*Confounders:* We adjusted for age, sex, ethnicity, employment, and education. 
-
-*Analysis:* We fit linear regression models to estimate the association between the four categories of social media usage and mental health problems. 
 
 ### What did we find?
 
@@ -73,19 +70,17 @@ When we considered both social media behaviours, we found that those who frequen
 
 
 
-
 ### What does this mean?
 
-> We found that the rate of affective psychotic disorders was nearly twice as high in refugees compared to the native-born population, and further that there was nearly a 50% increase in rates when refugees were compared to non-refugee migrants.
->
-> We also found that refugees and non-refugee migrants had consistently lower rates of non-psychotic bipolar disorders.
+> We found that a high frequency of posting on social media was associated with increased mental health problems a year later. However, we did not find evidence of a similar association based on frequency of viewing social media content. 
 
-We found that a high frequency of posting on social media was associated with increased mental health problems a year later. However, we did not find evidence of a similar association based on frequency of viewing social media content. This provides evidence that some types of active social media use (i.e. posting) have a stronger link to mental health outcomes than some types of passive social media use (viewing). These results highlighted that the relationship between social media use and mental health is complex, and more research is needed to understand the mechanisms underlying these patterns to inform targeted interventions and policies. 
+This provides evidence that some types of active social media use (i.e. posting) have a stronger link to mental health outcomes than some types of passive social media use (viewing). These results highlighted that the relationship between social media use and mental health is complex, and more research is needed to understand the mechanisms underlying these patterns to inform targeted interventions and policies. 
 
 
 ### Read more
 
-You can read the full paper here [Journal of Medical Internet Research]()
+You can read the full paper here [Journal of Medical Internet Research](https://pubmed.ncbi.nlm.nih.gov/39476374/). This builds on previous research we conducted exploring the [longitudinal impact of social media use on adolescent mental health](https://pubmed.ncbi.nlm.nih.gov/36961482/)
+
 
 ### Behind the research
 
