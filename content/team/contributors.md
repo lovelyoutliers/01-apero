@@ -32,20 +32,26 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 
 *PhD students*
-+ Alua Yeskendir (MHRUK - 2023-27) - Historically marginalised groups and mental health inequalities. She wrote an excellent [blog summarising the social determinants of mental health forum](https://transcendent-sprite-853b4c.netlify.app/blog/2024-sdmh-forum/)
++ Anna Tsaligopoulou (SOC-B - 2024-28) Supervisors: [Prof Joseph Hayes](https://profiles.ucl.ac.uk/29452) and [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) 
 
-+ Nathalie Rich (ESRC DTP - 2022-25) - Ethnic inequalities in psychosis. Nat contributed to a [commentary on ethnic and migrant differences in suicide for Lancet Psychiatry](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hiding-in-plain-sight/)
++ Laurie Haig (MRC DTP - 2024-28) - Causal pathways between genetic and environmental factors and psychiatric disorders. Supervisors: [Prof Neil Davies](https://profiles.ucl.ac.uk/91595-neil-davies) and [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) 
 
-+ Jenny Fielder (Wellcome rotation supervisor - 2022) - Neighbourhood cohesion, income, and mental health
++ Alua Yeskendir (MHRUK - 2023-27) - Historically marginalised groups and mental health inequalities. She wrote an excellent [blog summarising the social determinants of mental health forum](https://transcendent-sprite-853b4c.netlify.app/blog/2024-sdmh-forum/). Supervisors: [Dr Jen Dykxhoorn]((https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) ), [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555), and [Dr Kate Lewis](https://profiles.ucl.ac.uk/58088-kate-lewis)
 
-+ Sarah Ledden (NIHR - 2019-2023) - Alcohol and suicidality
++ Nathalie Rich (ESRC DTP - 2022-25) - Ethnic inequalities in psychosis. Nat contributed to a [commentary on ethnic and migrant differences in suicide for Lancet Psychiatry](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hiding-in-plain-sight/). Supervisors: [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555), [Dr Milagros Ruiz](https://www.essex.ac.uk/people/RUIZM80700/Milagros-Ruiz), [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) 
+
++ Jenny Fielder (Wellcome rotation year - 2022) - Neighbourhood cohesion, income, and mental health. Rotation supervisors: [Dr Jen Dykxhoorn]() and [Prof Kate Walters](https://profiles.ucl.ac.uk/9380-kate-walters)
+
++ Sarah Ledden (NIHR - 2019-2023) - The relationship between alcohol use and suicidal behaviours. Supervisors: [Prof Alexandra Pitman](), [Prof David Osborn](https://profiles.ucl.ac.uk/11452) 
 
 
 *Academic clinical fellows*
-+ Philippa Clery (ACF 2023-24) - Heat waves and mental health 
++ Philippa Clery (ACF 2023-24) - Outdoor temperature and depression and mania [pre-print](https://www.medrxiv.org/content/10.1101/2024.10.10.24315229v1). Supervisors:  [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) and [Prof David Osborn](https://profiles.ucl.ac.uk/11452)
 
 
 *Pre- and post-doctoral fellows*
++ [Michelle Arellano Spano](https://orcid.org/0000-0001-7100-7099): Michelle joins our team as a post-doctoral research fellow. She recently completed her PhD at University of Bristol, and will be working on several projects exploring social environmental factors and mental illness. Exciting things to come!  
+
 + [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the [gendered impact of the COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514) and [hostile environment policies and the mental health of minoritised ethnic groups](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hostile-env-kate/). After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
 + [Dr Ruth Plackett](https://sphr.nihr.ac.uk/news-and-events/behind-the-research-ruth-plackett/). Ruth joined the PMH team as a post-doctoral research fellow. I have worked with her on a cohort study exploring the [link between social media and mental health](https://transcendent-sprite-853b4c.netlify.app/blog/2023-social-media/). Since completing her NIHR launching fellowship, she has secured a NIHR Three Schools Mental Health fellowship to continue her research. 
@@ -61,7 +67,7 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 + Haneen Hakeem (2023): Integrated vs. non-integrated treatment approaches for co-occuring substance use and post-traumatic stress disorder 
 
-+ Yue (Annie) Yu (2023): Social media behaviours and mental health in adolescents 
++ Yue (Annie) Yu (2023): [Social media behaviours and mental health](https://www.mentalhealthepi.com/blog/2024-social-media-type/)
 
 + Shuyu Zhou (2023): The impact of social media on mental health of young adults. 
 
