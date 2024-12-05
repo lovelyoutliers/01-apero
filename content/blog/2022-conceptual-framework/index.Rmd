@@ -12,8 +12,6 @@ categories:
   - Social determinants of health
 tags: 
 draft: no
-series: 
- - Social determinants of health
 layout: single
 image_left: true
 featured: true

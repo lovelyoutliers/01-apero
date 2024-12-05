@@ -13,8 +13,6 @@ draft: false
 image_left: true
 show_social_links: true
 layout: single
-series:
-  - Media
 ---
 
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap=" "}

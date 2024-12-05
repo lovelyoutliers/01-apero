@@ -9,17 +9,10 @@ categories:
   - Health inequalities
   - Epidemiology
   - Public mental health
-  - Race/ethnicity
-  - Social determinants of mental health
-  - Scoping review
-tags: 
-- minoritised groups
-- ethnicity
-- public mental health
-- community interventions
-- scoping review
+  - Minoritised ethnic groups
+  - Social determinants of health
+  - Review
 draft: no
-series: ~
 layout: single
 image_left: true
 featured: true

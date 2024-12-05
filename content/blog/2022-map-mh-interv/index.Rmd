@@ -10,8 +10,6 @@ categories:
   - Public mental health
   - Social determinants of health
   - UK
-tags:
-  - Social determinants of health
 draft: no
 series: ~
 layout: single

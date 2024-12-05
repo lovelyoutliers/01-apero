@@ -17,8 +17,6 @@ categories:
   - Multilevel
   - Epidemiology
   - Sweden
-series: 
-  - Neighbourhoods & mental health
 layout: single
 ---
 
