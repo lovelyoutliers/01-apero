@@ -19,7 +19,7 @@ tags: []
 draft: no
 series: 
   - Migrants & refugees
-layout: single
+layout: single-series
 image_left: true
 featured: true
 show_post_thumbnail: true
