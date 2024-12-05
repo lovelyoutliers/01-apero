@@ -9,12 +9,11 @@ use_featured: true
 draft: false
 expert: 
 categories: 
-- Swedish data
-- Migrants & refugees
-- Longitudinal
-- Sweden
 - Family 
-- Psychosis
+- Longitudinal
+- Migrants & refugees
+- Sweden
+- Schizphrenia & psychosis
 # install.packages("jpeg") - ctl + shift + c to comment something out inside of the ``` r sections
 ---
 

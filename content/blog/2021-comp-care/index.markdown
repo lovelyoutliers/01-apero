@@ -8,10 +8,10 @@ featured: true
 draft: false
 image_left: true
 show_social_links: true
-series:
-tags: 
+
 categories:
-- Swedish data
+- Migrants & refugees
+- Sweden
 - Psychosis
 layout: single
 ---
@@ -47,7 +47,7 @@ Plausible explanations for the differences include language barriers, inadequate
 ## Where can we go from here?
 Providing timely, high-quality mental health care earlier for migrants may help reduce the rate of compulsory admission.
 
-Further research which explores what mechanism is driving these treatment patters are warrented so changes can be made to the mental health system in order to support the mental health of migrants groups.
+Further research which explores what mechanism is driving these treatment patters are warranted so changes can be made to the mental health system in order to support the mental health of migrants groups.
 
 ## Publication
 You can read the [full paper (open-access)](https://pubmed.ncbi.nlm.nih.gov/32578529/): Migrant status and risk of compulsory admission at first diagnosis of psychotic disorder: a population-based cohort study in Sweden,” Terhune J,  Dykxhoorn J, Mackay E, Hollander A, Kirkbride JB, & Dalman C. Psychological Medicine.

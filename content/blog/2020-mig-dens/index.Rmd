@@ -10,17 +10,14 @@ categories:
   - Neighbourhood
   - Schizophrenia & psychosis
   - Severe mental illness
-  - Social determinants of mental health
+  - Social determinants of health
   - Epidemiology
   - Longitudinal
   - Multilevel
   - Open science
   - Survival analysis
-  - Research
-tags: 
   - Sweden
 draft: no
-series: ~
 layout: single
 image_left: true
 featured: true

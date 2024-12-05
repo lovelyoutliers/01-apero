@@ -8,13 +8,11 @@ draft: false
 featured: true
 image_left: true
 show_social_links: true
-series:
-tags: 
 categories:
-- Journal article
 - Epidemiology
 - Neighbourhoods
-- Swedish data
+- Suicide & self-harm
+- Sweden
 - Cohort study
 - Multilevel
 layout: single
