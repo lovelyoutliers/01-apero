@@ -17,6 +17,8 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Plackett R, Hulin J, Mukuria C, Clowes M, Ramsay SE, Spencer L, Adams EA, Dykxhoorn J, Walters K, Osborn DPJ, Zamperoni V, Jones O, Weich S. [Measures of social connectedness in adult populations: a systematic review](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20779-0). BMC Public Health 2024; Dec (24): 1-13. [PROSPERO registration.](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020186218)
+
 Yu Y, Dykxhoorn J, Plackett R. [The impact of different types of social media use on the mental health of UK adults: longitudinal observational study](https://www.jmir.org/2024/1/e56950). Journal of Medical Internet Research: 2024; Nov. [Pre-print](https://preprints.jmir.org/preprint/56950).
 
 Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. [Code](https://github.com/lovelyoutliers/hostile_environment). [Pre-print](https://osf.io/preprints/osf/rxwqy).
