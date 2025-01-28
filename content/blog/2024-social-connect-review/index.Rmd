@@ -1,0 +1,77 @@
+---
+title: How can we measure social connectedness? 
+subtitle: A systematic review of ways to measure social connectedness in adults
+excerpt: Poor social connectedness is a risk factor for poor mental health, but it is measured in many ways. This review summarises social connectedness measures and reviews their psychometric properties
+author: J Dykxhoorn
+date: '2025-01-28'
+slug: []
+categories:
+  - Public mental health
+  - Research
+  - Social determinants of mental health
+  - Social connectedness
+  - Loneliness
+  - UK
+draft: false
+layout: single
+image_left: true
+featured: true
+---
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Love of Winters, George Bellows (1888-1925)"}
+knitr::include_graphics("default.jpg")
+```
+
+### Background
+
+Social connectedness is a person's experience of belonging and relatedness to others. This may include feeling socially supported or feeling like you belong, but also includes experiences of loneliness and social isolation. Social connectedness has been linked to a range of health outcomes, including higher rates of mortality and higher rates of anxiety and depression. 
+
+
+### Why did we do this research?
+
+Given that social connectedness is linked to important mental and physical health outcomes, it is important to understand how social connectedness is measured. 
+
+
+### What did we do?
+
+We used a two-stage process to search for measures of social connectedness. 
+
+First, we searched five databases to identify potential measures used for social connectedness. Our search terms included (i) Social connectedness; (ii) Measurement tools (e.g. survey, measure, scale, index, tool); (iii) Mental health outcomes (e.g. happiness, life satisfaction, resilience).
+
+With the measures identified, we searched the literature to identify any research that has evaluated the psychometric properties of these potential measures. 
+
+This systematic review was pre-registered in the [PROSPORO database.](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020186218).
+
+
+
+### What did we find?
+
+We identified 24 potential measures that were suitable for measuring social connectedness in adult populations in the UK. Of these, we identified 10 measures that had studies which assessed the psychometric properties. We identified five tools which demonstrated robust psychometric properties: 
+
++ UCLA-3: Assesses feelings of loneliness
+
++ Multidimensional Scale of Perceived Social Support (MSPSS): Evaluates perceived social support from family, friends, and significant others.
+
++ F-SozU K-6: A short form of the Social Support Questionnaire, measuring perceived social support.
+
++ Social Provisions Scale (SPS-10 and SPS-5): Measures the perceived availability of social support and the degree to which social relationships provide various provisions.
+
+
+
+### What does this mean?
+
+We found a range of measures used to estimate social connectedness, but found that social exclusion is measured inconsistently across studies. This presents a challenge to understanding the impact of social connectedness on health outcomes. Some tools, like the R-UCLA and De Jong Loneliness Gierveld scales focus on measuring loneliness, while the MSPSS, F-SOZU K-6, SPS-10 and SPS-5 focus on social support. Further, these tools vary in the definitions of these key concepts and what dimensions are measured. 
+
+
+More research is needed to clarify the definition and conceptualisation of social connectedness to ensure this concept is meaningfully captured and to establish content validity of current measures. This could enable standardisation in the approach to measuring social connectedness, which will help researchers, practitioners, and policymakers to make more informed decisions about the effectiveness of public mental health interventions.
+
+
+### Read more
+
+You can read the full paper here [BMC Public Health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20779-0). 
+
+
+
+### Behind the research
+
+This research was part of a large [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/research/public-mental-health-programme-overview/), led by Profs David Osborn, Kate Walters, and Dr Judi Kidger. We are grateful to [Dr Ruth Plackett](https://profiles.ucl.ac.uk/54768-ruth-plackett) and Dr Joe Hulin for getting this important review to publication. 
