@@ -17,6 +17,20 @@ layout: single
 image_left: true
 featured: true
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library("rmarkdown")
+library("yaml")
+library("blogdown")
+library("knitr")
+library("blogdown")
+
+blogdown::install_hugo
+
+```
+
+
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Gustave Courbet - The young ladies on the bank of the Seine (1856)"}
 knitr::include_graphics("featured.jpg")
@@ -90,3 +104,4 @@ You can find the pre-registered protocol on [Open Science Framework]( https://os
 ### Behind the research
 
 This analysis was led Dr Pip (Philippa) Clery, an academic clinical fellow and psychiatry trainee. Her excellent research was awarded a prize at the Royal College of Psychiatrists conference. I am sure we will continue to see brilliant things from her in the coming years. 
+![](images/Pip.jpg)
