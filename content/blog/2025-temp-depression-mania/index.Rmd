@@ -40,7 +40,7 @@ All participants were active users of juli between July 2021 and March 2023. All
 
 
 *Exposure - air temperature:* 
-Outdoor air temperature in degrees Celsius (◦C) and other weather information was collected using ambee, an API software, which collected  5-by-5 km geospatial grid based on the participant's geolocation. The specific location was deleted in order to protect participant privacy, and we had access to the de-identified meteorlogical data. We calculated the mean and maximum temperature in the two weeks prior to completing the symptom scales. 
+Outdoor air temperature in degrees Celsius (◦C) and other weather information was collected using ambee, an API software, which collected  5-by-5 km geospatial grid based on the participant's geolocation. The specific location was deleted in order to protect participant privacy, and we had access to the de-identified meteorological data. We calculated the mean and maximum temperature in the two weeks prior to completing the symptom scales. 
 
 
 
