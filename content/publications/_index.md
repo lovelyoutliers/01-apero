@@ -22,9 +22,11 @@ Clery P, Hayes JF, Launders N, Thompson R, Kandola A, Osborn DPJ, Lawrance EL, J
 *Pre-print:* [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.10.24315229v1).
 
 
-Plackett R, Hulin J, Mukuria C, Clowes M, Ramsay SE, Spencer L, Adams EA, Dykxhoorn J, Walters K, Osborn DPJ, Zamperoni V, Jones O, Weich S. [Measures of social connectedness in adult populations: a systematic review](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20779-0). BMC Public Health 2024; Dec (24): 1-13. *Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020186218)
+Plackett R, Hulin J, Mukuria C, Clowes M, Ramsay SE, Spencer L, Adams EA, Dykxhoorn J, Walters K, Osborn DPJ, Zamperoni V, Jones O, Weich S. [Measures of social connectedness in adult populations: a systematic review](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20779-0). BMC Public Health 2024; Dec (24): 1-13. 
+*Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020186218)
 
-Yu Y, Dykxhoorn J, Plackett R. [The impact of different types of social media use on the mental health of UK adults: longitudinal observational study](https://www.jmir.org/2024/1/e56950). Journal of Medical Internet Research: 2024; Nov. *Pre-print:* [Pre-print](https://preprints.jmir.org/preprint/56950).
+Yu Y, Dykxhoorn J, Plackett R. [The impact of different types of social media use on the mental health of UK adults: longitudinal observational study](https://www.jmir.org/2024/1/e56950). Journal of Medical Internet Research: 2024; Nov. 
+*Pre-print:* [Pre-print](https://preprints.jmir.org/preprint/56950).
 
 Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. [Code](https://github.com/lovelyoutliers/hostile_environment). [Pre-print](https://osf.io/preprints/osf/rxwqy).
 
@@ -52,13 +54,15 @@ Spyridonidis S, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride JB. [Neighborhoo
 
 Sörberg Wallin A, Sjöqvist H, Dehara M, Wells MB, Dykxhoorn J, Kosidou K, Dalman C. [Parenthood and lower risk of suicide in women and men: the total Swedish population followed across adulthood](https://link.springer.com/article/10.1007/s00127-022-02321-y). Soc Psychiatry Psychiatr Epidemiol. 2022.
 
-Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022 June. *Pre-registered protocol:* [OSF](https://osf.io/vj3rd)
+Dotsikas K, Osborn D, Walters K, Dykxhoorn J. [Trajectories of housing affordability and mental health problems: a population-based cohort study](https://link.springer.com/article/10.1007/s00127-022-02314-x). Soc Psychiatry Psychiatr Epidemiol. 2022 June. 
+*Pre-registered protocol:* [OSF](https://osf.io/vj3rd)
 
 Lee C, Kuhn I, McGrath M, Remes O, Cowan A, Duncan F, Baskin C, Oliver EJ, Osborn D, Dykxhoorn J, Kaner E, Walters K, Kirkbride JB, Gnani S, Lafortune L. [A systematic scoping review of community-based interventions for the prevention of mental ill-health and the promotion of mental health in older adults in the UK](https://pubmed.ncbi.nlm.nih.gov/33988281/). Health & Social Care in the Community. 2022 Jan;30(1):27-57.
 
 Duncan F, Baskin C, McGrath M, Coker JF, Lee C, Dykxhoorn J, Adams EA, Gnani S, Lafortune L, Kirkbride JB, Kaner E, Jones O, Samuel G, Walters K, Osborn D, Oliver EJ. [Community interventions for improving adult mental health: mapping local policy and practice in England](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11741-5). BMC Public Health. 2021 Sept: 21(1691).
 
-Dykxhoorn J, Hayes J, Ashok K, Sörberg Wallin A, Dalman C. [Objective and subjective neighbourhood characteristics and suicidality: a multilevel analysis](https://pubmed.ncbi.nlm.nih.gov/34231453/). Psychological Medicine. 2021 July 7; 1-10. *Pre-registered protocol:* [OSF](https://osf.io/rzabk).
+Dykxhoorn J, Hayes J, Ashok K, Sörberg Wallin A, Dalman C. [Objective and subjective neighbourhood characteristics and suicidality: a multilevel analysis](https://pubmed.ncbi.nlm.nih.gov/34231453/). Psychological Medicine. 2021 July 7; 1-10. 
+*Pre-registered protocol:* [OSF](https://osf.io/rzabk).
 
 Stafford J, Dykxhoorn J, Sommerland A, Dalman C, Kirkbride JB, Howard R. [Association between risk of dementia and very late schizophrenia-like psychosis: a Swedish population-based cohort study](https://pubmed.ncbi.nlm.nih.gov/34030750/). Psychological Medicine. 2021 May 25; 1-9
 
