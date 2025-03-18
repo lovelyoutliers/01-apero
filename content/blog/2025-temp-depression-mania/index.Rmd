@@ -3,7 +3,7 @@ title: Does heat affect symptoms of depression and mania?
 subtitle: What is the impact of increasing temperature on mental health? 
 excerpt: An ecological momentary assessement using data from a smartphone app
 author: J Dykxhoorn
-date: '2025-18-03'
+date: '2025-17-03'
 slug: []
 categories:
   - Depression
