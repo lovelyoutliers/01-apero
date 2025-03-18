@@ -54,7 +54,7 @@ Outdoor air temperature in degrees Celsius (◦C) and other weather information 
 *Confounders:* We adjusted for gender, humidity, sunshine, and air pollution. 
 
 
-*Analysis:* We used negative binomial regression models for this analysis. We used mixed effects models with a random effect. Mixed effects models are able to accomodate individuals with varying numbers of observations (e.g. some participants may have 1 PHQ-8 while others may have completed the scale multiple times). We included the random effectto account for clustering within individual (e.g. the PHQ-8 score within one individual over time would be more similar than the PHQ-8 score in a different individual). 
+*Analysis:* We used negative binomial regression models for this analysis. We used mixed effects models with a random effect. Mixed effects models are able to accommodate individuals with varying numbers of observations (e.g. some participants may have 1 PHQ-8 while others may have completed the scale multiple times). We included the random effect to account for clustering within individual (e.g. the PHQ-8 score within one individual over time would be more similar than the PHQ-8 score in a different individual). 
 
 We calculated exponentiated coefficients and 95% confidence intervals from the negative binomial models, representing the % change in symptom scores for each 1◦C increase in temperature. 
 
@@ -63,7 +63,7 @@ We calculated exponentiated coefficients and 95% confidence intervals from the n
 
 We found that higher mean and maximum temperatures were associated with lower depressive symptoms and higher manic symptoms.  
 
-For each 1◦C increase, depressive symptoms reduced by 1.1%, and manic symptoms increased by 1.9%.
+For each 1◦C increase, depressive symptoms reduced by 0.2%, and manic symptoms increased by 0.4%.
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap=""}
 knitr::include_graphics("results.png")
@@ -74,7 +74,7 @@ knitr::include_graphics("results.png")
 
 As temperature rose, depressive symptoms improved while manic symptoms worsted. 
 
-While the effect size was small (each 1◦C increase corresponding to a slight improvement in depressive symptoms and slight worsening of manic symptoms), this is meaningful at the populatio level, as in periods of extreme heat, several degress increase would have a substanital impact on population-level symptoms of mental health problems. 
+While the effect size was small (each 1◦C increase corresponding to a slight improvement in depressive symptoms and slight worsening of manic symptoms), this is meaningful at the population level, as in periods of extreme heat, several degrees increase would have a substantial impact on population-level symptoms of mental health problems. 
 
 
 ### Read more
