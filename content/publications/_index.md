@@ -17,10 +17,14 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
-Clery P, Hayes JF, Launders N, Thompson R, Kandola A, Osborn DPJ, Lawrance EL, Jeffery A, Dykxhoorn J.[The association between outdoor ambient temperature and depression and mania: an ecological momentary assessment study](https://www.sciencedirect.com/science/article/pii/S0165032725003854?dgcid=coauthor). Journal of Affective Disorders 2025; Jun (379): 457-466.
-*Pre-registered protocol:* [OSF]( https://osf.io/qk76w) 
-*Pre-print:* [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.10.24315229v1).
+Dykxhoorn J, Solmi F, Walters K, Gnani S, Lazzarino A, Kidger J, Kirkbride JB, Osborn DPJ. [Common mental disorders in young adults: temporal trends in primary care episodes and self-reported symptoms](https://mentalhealth.bmj.com/content/28/1/e301457). BMJ Mental Health 2025; May (28): 1-9. 
+*Pre-registered protocol:* [OSF](https://osf.io/9srv6)
+*Pre-print:* [OSF](https://osf.io/preprints/osf/gz9yk_v1)
+*Analytic code:* [Github](https://github.com/lovelyoutliers/cmd-young)
 
+Clery P, Hayes JF, Launders N, Thompson R, Kandola A, Osborn DPJ, Lawrance EL, Jeffery A, Dykxhoorn J.[The association between outdoor ambient temperature and depression and mania: an ecological momentary assessment study](https://www.sciencedirect.com/science/article/pii/S0165032725003854?dgcid=coauthor). Journal of Affective Disorders 2025; Jun (379): 457-466.
+*Pre-registered protocol:* [OSF](https://osf.io/qk76w) 
+*Pre-print:* [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.10.24315229v1).
 
 Plackett R, Hulin J, Mukuria C, Clowes M, Ramsay SE, Spencer L, Adams EA, Dykxhoorn J, Walters K, Osborn DPJ, Zamperoni V, Jones O, Weich S. [Measures of social connectedness in adult populations: a systematic review](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20779-0). BMC Public Health 2024; Dec (24): 1-13. 
 *Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020186218)

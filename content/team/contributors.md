@@ -95,3 +95,5 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 + Sam Harris (2017):  [A nationwide study of the incidence of substance use disorders in refugee and migrant groups in Sweden: a cohort study of 1.2 million people](https://transcendent-sprite-853b4c.netlify.app/blog/2020-sud-ptsd-mig/)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4714804281391328"
+     crossorigin="anonymous"></script>
