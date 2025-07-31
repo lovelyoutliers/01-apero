@@ -53,20 +53,20 @@ We followed individuals from 2009 to 2019, calculating annual incidence of recor
 Between 2009 and 2019, recorded CMD increased by 9.90%, while average psychological distress symptoms rose by 19.33%. We saw a larger increase in recorded CMD among males (20.6%) than females (7.7%) but similar increases in CMD symptoms (18.5% in males; 19.8% in females)
 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by sex"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by sex"}
 knitr::include_graphics("sex.png")
 ```
 
 We found larger increases in recorded CMD in those ages 16-19 and 20-24 than in older age groups, but could not detect differences in CMD symptoms due to overlapping confidence intervals.
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by age"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by age"}
 knitr::include_graphics("age.png")
 ```
 
 
 The gap between recorded CMD by deprivation was narrowing over time, with larger increases in recorded CMD in less deprived areas compared to th emost deprived areas. However, symptoms remained elevated in the most deprived, with comparible rises in symptoms, suggesting an increasing care gap. 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by deprivation"}
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by deprivation"}
 knitr::include_graphics("deprivation.png")
 ```
 
