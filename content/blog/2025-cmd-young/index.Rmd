@@ -20,7 +20,7 @@ featured: true
 ---
 
 ```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="[Bulat Silvia](https://www.istockphoto.com/portfolio/1StunningArt?mediatype=photography) on iStock)"}
-knitr::include_graphics("depressed_teen-fotor-20240610115114.jpg")
+knitr::include_graphics("featured.jpg")
 ```
 
 ### Background 
