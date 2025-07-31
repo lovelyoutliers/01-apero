@@ -1,0 +1,92 @@
+---
+title: Common mental disorders in young adults
+subtitle: Increase in anxiety & depression treated in primary care driven by an increase in symptoms  
+excerpt: Temporal trends in primary care episodes and self-reported symptoms, published in BMC Mental Health. 
+author: J Dykxhoorn
+date: '2025-07-31'
+slug: []
+categories:
+  - Anxiety & depression
+  - Common mental disorders
+  - Deprivation
+  - Ethnicity
+  - Public mental health
+  - Research
+tags: []
+draft: false
+layout: single
+image_left: true
+featured: true
+---
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="[Bulat Silvia](https://www.istockphoto.com/portfolio/1StunningArt?mediatype=photography) on iStock)"}
+knitr::include_graphics("featured.jpg")
+```
+
+### Background 
+Rates of common mental disorders (CMD) including anxiety, depression, and stress-related disorders have increased in primary care for young people in the last 20 years. However, it is unclear if this reflects changes in help-seeking and/or an increase in symptoms  affect millions of people each year. 
+
+### Why did we do this research?
+Our previous research found a large increase in CMD, but that the largest increases were observed in the youngest age groups. The incidence of CMD recorded in primary care more than doubled for those aged 16-24 from 2000-2020, and large increases were also observed in those aged 25-34. We did this study to explore the pattern for young adults in more detail, and explore one of the possible explanations for this increase. 
+
+Essentially, rates of CMD observed in primary care could increase for several reasons: 
+
++ symptoms of CMD may have become more common; 
+
++ young people may be more willing to seek help due to increased mental health literacy and decreased stigma
+
++ changes in the way primary care practitioners identify, record, and treat CMD
+
+These different mechanisms may co-exist, so in this study, we used primarcy care data and population cohort data to explore if the increases in CMD found in primary care correspond to increased symptoms at the population level. 
+
+ 
+
+### What did we do? 
+We used the primary care electronic health records from the Clinical Research Practice Datalink (CPRD) to identify new episodes of CMD recorded in primary care and longitudinal cohort data from Understanding Society (USoc) to identify self-reported symptoms of psychological distress.We used incidence rate ratios, comparing incidence in 2009 to 2019. 
+
+We followed individuals from 2009 to 2019, calculating annual incidence of recorded CMD using multilevel Cox regression in CPRD. We calculated annual CMD symptom scores, and fit multilevel linear regression models. We then calculated the relative change in CMD symptoms over time, comparing CMD symptom socres at the start of the study (2009) to those at the end of follow-up (2019). 
+
+
+
+### What did we find? 
+
+Between 2009 and 2019, recorded CMD increased by 9.90%, while average psychological distress symptoms rose by 19.33%. We saw a larger increase in recorded CMD among males (20.6%) than females (7.7%) but similar increases in CMD symptoms (18.5% in males; 19.8% in females)
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by sex"}
+knitr::include_graphics("sex.png")
+```
+
+We found larger increases in recorded CMD in those ages 16-19 and 20-24 than in older age groups, but could not detect differences in CMD symptoms due to overlapping confidence intervals.
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by age"}
+knitr::include_graphics("age.png")
+```
+
+
+The gap between recorded CMD by deprivation was narrowing over time, with larger increases in recorded CMD in less deprived areas compared to th emost deprived areas. However, symptoms remained elevated in the most deprived, with comparible rises in symptoms, suggesting an increasing care gap. 
+
+```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by deprivation"}
+knitr::include_graphics("deprivation.png")
+```
+
+
+### What does this mean? 
+
+We found increases in recorded CMD among young people in the UK between 2009 and 2019. This increase was most pronounced in the youngest age groups (ages 16-19) and later-born cohorts (born 1995 or later). We also found increases in symptoms of common mental disorders over the same time period. 
+
+These increases highlight the urgency of taking action to support the mental health of young adults. 
+
+
+### Read more 
+
+The full article was published open-access in BMJ Mental Health and is available
+[here](https://www.cambridge.org/core/journals/psychological-medicine/article/temporal-patterns-in-the-recorded-annual-incidence-of-common-mental-disorders-over-two-decades-in-the-united-kingdom-a-primary-care-cohort-study/5FDB89622CEED13B8538CAA28E837144)
+
+This study was also summarised on [UCL News](https://www.ucl.ac.uk/news/2025/jul/increase-mental-illness-symptoms-among-young-people) 
+
+
+
+### Do you have questions about common mental disorders? 
+
+Click here if you want to learn more about the symptoms and treatment of common mental disorders like [anxiety](https://www.nhsinform.scot/illnesses-and-conditions/mental-health/anxiety) or [depression](https://www.nhsinform.scot/illnesses-and-conditions/mental-health/depression).  
