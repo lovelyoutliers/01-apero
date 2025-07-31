@@ -41,6 +41,7 @@ categories:
   - Trajectory modelling
   
   - Research
+  - Funding
   - News
   - Media 
   - Interview
