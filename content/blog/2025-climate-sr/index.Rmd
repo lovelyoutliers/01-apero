@@ -54,15 +54,17 @@ We conducted a systematic review focused on three core concepts:
 
 *Exposure - climate change events:* 
 We categorised climate change exposures into three groups: 
+
 + acute weather events like hurricanes, floods, wildfires, and heat/cold waves
 
 + sub-acute events like droughts, 
 
-+ gradual changes like global temperature increases/decreases, sea level rises, or permanently altered environemnts
++ gradual changes like global temperature increases/decreases, sea level rises, or permanently altered environments
 
 
 *Outcome - mental health outcomes* 
 We used linked health care records to look at diagnosis of major psychiatric disorders, including 
+
 + general mental health
 
 + psychological distress
@@ -71,6 +73,7 @@ We used linked health care records to look at diagnosis of major psychiatric dis
 
 *Vulnerable populations*
 We focused on four vulnerable populations: 
+
 + low socioeconomic status groups (e.g. those living in poverty)
 
 + minoritised ethnic or racial groups

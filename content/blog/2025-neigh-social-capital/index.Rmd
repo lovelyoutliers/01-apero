@@ -58,7 +58,8 @@ We measured median levels of neighbourhood trust across all neighbourhoods (SAMS
 
 
 *Outcome - major psychiatric disorders* 
-We used linked health care records to look at diagnosis of major psychiatric disorders, including 
+We used linked health care records to look at diagnosis of major psychiatric disorders, including:
+
 + Non-affective psychosis (including schizophrenia)
 
 + Affective psychotic disorders (e.g. bipolar disorder with psychosis)
