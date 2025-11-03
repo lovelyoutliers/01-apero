@@ -9,23 +9,10 @@ featured: true
 image_left: true
 show_social_links: true
 
-
 ---
 
 Research is not a solitary act. All of the work described in this site has only been possible due to extraordinary mentors, collaborators, students, and trainees. In some ways this is my psyc epi genealogy! 
 
-### Mentors and supervisors
-+ [Prof Kate Walters](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWALT44) and [Prof David Osborn](https://www.ucl.ac.uk/psychiatry/people/david-osborn) were the principal investigators of the [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). I was the programme manager and senior research fellow for this research during my postdoc (2019-22). David continues to be a mentor for my current fellowship. 
-
-+ [Prof James Kirkbride](https://www.psylife.eu/): James was one of my PhD supervisors (2015-19) and is the head of the PsyLife group at UCL. The PsyLife group explores inequalities in the social determinants of psychosis and other mental health problems over the life course. 
-
-+ [Prof Kerry Keyes](https://www.publichealth.columbia.edu/profile/katherine-m-keyes-phd): I had the opportunity to work with Kerry and her research group during a 6-month research visit to Columbia University in 2023, learning advanced methods and working on suicide and opioid research projects. 
-
-+ [Prof Glyn Lewis](https://www.ucl.ac.uk/brain-sciences/people/professor-glyn-lewis): Glyn also supervised my PhD and is a trailblazer in exploring the causes of psychiatric disorders, with a particular focus on depression and psychosis. 
-
-+ [Prof Christina Dalman](https://staff.ki.se/people/christina-dalman): Christina is the research group leader for [Epidemiology of Psychiatric Conditions, Substance Use, and Social Environment](https://ki.se/en/gph/epidemiology-of-psychiatric-conditions-substance-use-and-social-environment-epicss-0?pk_vid=f8a2915634b84b3d16980493427df1a9) at Karolinska Institutet. I work closely with her for all projects using Swedish register data. 
-
-+ [Prof Ian Colman](http://www.psychepi.com/): Ian was my MSc supervisor (2012-14), who guided me down the garden path of epi, big data, and longitudinal research. His research group is a leading psychiatric epidemiology group in Canada, producing rigorous research long-term processes surrounding common mental disorders and their treatment, including suicidal behaviour.
 
 ### Students and trainees 
 I have had the opportunity to work with many brilliant students and trainees, including MSc students, PhD students, pre- and post-doctoral research fellows. Below are some of the trainees I have worked with and links to publications we have written together. If you are interested in working with Dr Dykxhoorn on your MSc or PhD research, please get in touch. 
@@ -107,6 +94,21 @@ I have had the opportunity to work with many brilliant students and trainees, in
 + Sarah Ledden (2018): The association between community level social capital and psychological distress
 
 + Sam Harris (2017):  [A nationwide study of the incidence of substance use disorders in refugee and migrant groups in Sweden: a cohort study of 1.2 million people](https://transcendent-sprite-853b4c.netlify.app/blog/2020-sud-ptsd-mig/)
+
+
+
+### Mentors and supervisors
++ [Prof Kate Walters](https://iris.ucl.ac.uk/iris/browse/profile?upi=KWALT44) and [Prof David Osborn](https://www.ucl.ac.uk/psychiatry/people/david-osborn) were the principal investigators of the [NIHR Public Mental Health Programme](https://sphr.nihr.ac.uk/category/research/public-mental-health/). I was the programme manager and senior research fellow for this research during my postdoc (2019-22). David continues to be a mentor for my current fellowship. 
+
++ [Prof James Kirkbride](https://www.psylife.eu/): James was one of my PhD supervisors (2015-19) and is the head of the PsyLife group at UCL. The PsyLife group explores inequalities in the social determinants of psychosis and other mental health problems over the life course. 
+
++ [Prof Kerry Keyes](https://www.publichealth.columbia.edu/profile/katherine-m-keyes-phd): I had the opportunity to work with Kerry and her research group during a 6-month research visit to Columbia University in 2023, learning advanced methods and working on suicide and opioid research projects. 
+
++ [Prof Glyn Lewis](https://www.ucl.ac.uk/brain-sciences/people/professor-glyn-lewis): Glyn also supervised my PhD and is a trailblazer in exploring the causes of psychiatric disorders, with a particular focus on depression and psychosis. 
+
++ [Prof Christina Dalman](https://staff.ki.se/people/christina-dalman): Christina is the research group leader for [Epidemiology of Psychiatric Conditions, Substance Use, and Social Environment](https://ki.se/en/gph/epidemiology-of-psychiatric-conditions-substance-use-and-social-environment-epicss-0?pk_vid=f8a2915634b84b3d16980493427df1a9) at Karolinska Institutet. I work closely with her for all projects using Swedish register data. 
+
++ [Prof Ian Colman](http://www.psychepi.com/): Ian was my MSc supervisor (2012-14), who guided me down the garden path of epi, big data, and longitudinal research. His research group is a leading psychiatric epidemiology group in Canada, producing rigorous research long-term processes surrounding common mental disorders and their treatment, including suicidal behaviour.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4714804281391328"
      crossorigin="anonymous"></script>
