@@ -17,6 +17,11 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Song-Chase A, Dykxhoorn J, Hollander A-C, Magnusson C, Dalman C, Kirkbride JB. [Longitudinal association between neighbourhood-level social capital and incidence of major psychiatric disorders in a cohort of 1.4 million people in Sweden](https://www.nature.com/articles/s44220-025-00518-z). Nature Mental Health 2025, Oct: 1-26. 
+*Pre-registered protocol:* [OSF](https://osf.io/n3dgs)
+*Pre-print:* [PsyArXiv](https://osf.io/preprints/psyarxiv/269rx_v3)
+*Analytic code:* [OSF](https://osf.io/zn67w/files/zye52)
+
 Dykxhoorn J, Solmi F, Walters K, Gnani S, Lazzarino A, Kidger J, Kirkbride JB, Osborn DPJ. [Common mental disorders in young adults: temporal trends in primary care episodes and self-reported symptoms](https://mentalhealth.bmj.com/content/28/1/e301457). BMJ Mental Health 2025; May (28): 1-9. 
 *Pre-registered protocol:* [OSF](https://osf.io/9srv6)
 *Pre-print:* [OSF](https://osf.io/preprints/osf/gz9yk_v1)
@@ -30,9 +35,10 @@ Plackett R, Hulin J, Mukuria C, Clowes M, Ramsay SE, Spencer L, Adams EA, Dykxho
 *Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020186218)
 
 Yu Y, Dykxhoorn J, Plackett R. [The impact of different types of social media use on the mental health of UK adults: longitudinal observational study](https://www.jmir.org/2024/1/e56950). Journal of Medical Internet Research: 2024; Nov. 
-*Pre-print:* [Pre-print](https://preprints.jmir.org/preprint/56950).
+*Pre-print:* [JMIR preprints](https://preprints.jmir.org/preprint/56950).
 
-Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. [Code](https://github.com/lovelyoutliers/hostile_environment). [Pre-print](https://osf.io/preprints/osf/rxwqy).
+Dotsikas K, McGrath M, Osborn DPJ, Walters K, Dykxhoorn J. [Exploring the impact of 'hostile environment' policies on psychological distress of ethnic groups in the UK: a difference-in-differences analysis](https://pubmed.ncbi.nlm.nih.gov/38977506/). Social Psychiatry and Psychiatric Epidemiology: 2024; Jul. 
+*Analytic code:*[Github](https://github.com/lovelyoutliers/hostile_environment). *Pre-print:*[OSF](https://osf.io/preprints/osf/rxwqy).
 
 Burr L, Dykxhoorn J, Hollander A-C, Dalman C, Kirkbride J.B. [Refugee status and the incidence of affective psychotic disorders and non-psychotic bipolar disorder: A register-based cohort study of 1.3m people in Sweden.](https://pubmed.ncbi.nlm.nih.gov/38360360/) Journal of Affective Disorders: 2024; May 352: 43-60.
 
