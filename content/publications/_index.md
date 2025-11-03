@@ -22,6 +22,11 @@ Song-Chase A, Dykxhoorn J, Hollander A-C, Magnusson C, Dalman C, Kirkbride JB. [
 *Pre-print:* [PsyArXiv](https://osf.io/preprints/psyarxiv/269rx_v3)
 *Analytic code:* [OSF](https://osf.io/zn67w/files/zye52)
 
+Mahmood R, Clery P, Yang JC, Cao L, Dykxhoorn J. [The impact of climate change on mental health in vulnerable groups: a systematic review](https://link.springer.com/epdf/10.1186/s40359-025-03497-z?sharing_token=OQrqEYeK8gRfnMNyFj_Gam_BpE1tBhCbnbw3BuzI2RMqsU0vuF43mOa_wIZ3BCqn_dxknXK66xITy7Q6fglkvzHmDfD6ph2zIxVO2kB9_Gcl24JOh7S1E0aGtu2r5wp-W3m1lheuzzWizo4eF1rai5hKZ9PTFtyRZ7MzNApnlvk%3D). BMC Psychology 2025; Oct (13): 1-30.
+*Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/view/CRD42023442489)
+*Pre-print:* [OSF](https://osf.io/af3z4_v1/)
+*News:* [Science Magazine](https://scienmag.com/climate-changes-mental-health-toll-on-vulnerable-groups/)
+
 Dykxhoorn J, Solmi F, Walters K, Gnani S, Lazzarino A, Kidger J, Kirkbride JB, Osborn DPJ. [Common mental disorders in young adults: temporal trends in primary care episodes and self-reported symptoms](https://mentalhealth.bmj.com/content/28/1/e301457). BMJ Mental Health 2025; May (28): 1-9. 
 *Pre-registered protocol:* [OSF](https://osf.io/9srv6)
 *Pre-print:* [OSF](https://osf.io/preprints/osf/gz9yk_v1)
