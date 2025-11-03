@@ -32,25 +32,28 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 
 *PhD students*
-+ Anna Tsaligopoulou (SOC-B - 2024-28) Supervisors: [Prof Joseph Hayes](https://profiles.ucl.ac.uk/29452) and [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) 
 
-+ Laurie Haig (MRC DTP - 2024-28) - Causal pathways between genetic and environmental factors and psychiatric disorders. Supervisors: [Prof Neil Davies](https://profiles.ucl.ac.uk/91595-neil-davies) and [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) 
++ Anabelle Paulino (Wellcome - 2025-27) - The impact of social safety nets on mental health outcomes and inequalities. Supervisors: [Prof Praveetha Patalay](https://profiles.ucl.ac.uk/32767-praveetha-patalay) and [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn)
 
-+ Alua Yeskendir (MHRUK - 2023-27) - Historically marginalised groups and mental health inequalities. She wrote an excellent [blog summarising the social determinants of mental health forum](https://transcendent-sprite-853b4c.netlify.app/blog/2024-sdmh-forum/). Supervisors: [Dr Jen Dykxhoorn]((https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) ), [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555), and [Dr Kate Lewis](https://profiles.ucl.ac.uk/58088-kate-lewis)
++ Anna Tsaligopoulou (SOC-B - 2024-28) - Employing machine learning to predict the development of mental health problems in adolescence: a biopsychosocial approach. Supervisors: [Prof Joseph Hayes](https://profiles.ucl.ac.uk/29452), [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn), and [Dr Naomi Launders](https://profiles.ucl.ac.uk/74515-naomi-launders)
+
++ Laurie Haig (MRC DTP - 2024-28) - Causal pathways between genetic and environmental factors and psychiatric disorders. Supervisors: [Prof Neil Davies](https://profiles.ucl.ac.uk/91595-neil-davies), [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn), and [Dr Isabella Badini](https://profiles.ucl.ac.uk/97931-isabella-badini)
+
++ Alua Yeskendir (MHRUK - 2023-27) - Historically marginalised groups and mental health inequalities. She wrote an excellent [blog summarising the social determinants of mental health forum](https://transcendent-sprite-853b4c.netlify.app/blog/2024-sdmh-forum/). Supervisors: [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn), [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555), [Dr Kate Lewis](https://profiles.ucl.ac.uk/58088-kate-lewis), and [Dr Justin C Yang](https://profiles.ucl.ac.uk/75514-justin-yang)
 
 + Nathalie Rich (ESRC DTP - 2022-25) - Ethnic inequalities in psychosis. Nat contributed to a [commentary on ethnic and migrant differences in suicide for Lancet Psychiatry](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hiding-in-plain-sight/). Supervisors: [Prof James Kirkbride](https://profiles.ucl.ac.uk/43555), [Dr Milagros Ruiz](https://www.essex.ac.uk/people/RUIZM80700/Milagros-Ruiz), [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) 
 
-+ Jenny Fielder (Wellcome rotation year - 2022) - Neighbourhood cohesion, income, and mental health. Rotation supervisors: [Dr Jen Dykxhoorn]() and [Prof Kate Walters](https://profiles.ucl.ac.uk/9380-kate-walters)
++ Jenny Fielder (Wellcome rotation year - 2022) - Neighbourhood cohesion, income, and mental health. Rotation supervisors: [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) and [Prof Kate Walters](https://profiles.ucl.ac.uk/9380-kate-walters)
 
 + Sarah Ledden (NIHR - 2019-2023) - The relationship between alcohol use and suicidal behaviours. Supervisors: [Prof Alexandra Pitman](), [Prof David Osborn](https://profiles.ucl.ac.uk/11452) 
 
 
 *Academic clinical fellows*
-+ Philippa Clery (ACF 2023-24) - Outdoor temperature and depression and mania [pre-print](https://www.medrxiv.org/content/10.1101/2024.10.10.24315229v1). Supervisors:  [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) and [Prof David Osborn](https://profiles.ucl.ac.uk/11452)
++ Philippa Clery (ACF 2023-24) - [The association between outdoor ambient temperature and depression and mania: an ecological momentary assessment study](https://www.sciencedirect.com/science/article/pii/S0165032725003854?dgcid=coauthor)Supervisors:  [Dr Jen Dykxhoorn](https://profiles.ucl.ac.uk/53805-jennifer-dykxhoorn) and [Prof David Osborn](https://profiles.ucl.ac.uk/11452)
 
 
 *Pre- and post-doctoral fellows*
-+ [Michelle Arellano Spano](https://orcid.org/0000-0001-7100-7099): Michelle joins our team as a post-doctoral research fellow. She recently completed her PhD at University of Bristol, and will be working on several projects exploring social environmental factors and mental illness. Exciting things to come!  
++ [Michelle Arellano Spano](https://profiles.ucl.ac.uk/100729-michelle-arellano-spano): Michelle joins our team as a post-doctoral research fellow. She recently completed her PhD at University of Bristol, and will be working on several projects exploring social environmental factors and mental illness. Exciting things to come!  
 
 + [Kate Dotsikas](https://sphr.nihr.ac.uk/trainee/kate-dotsikas/): Kate joined our team as a pre-doctoral research fellow interested in housing insecurity. She led research exploring [trajectories of housing affordability and mental health](https://link.springer.com/article/10.1007/s00127-022-02314-x). She also led work on the [gendered impact of the COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283514) and [hostile environment policies and the mental health of minoritised ethnic groups](https://transcendent-sprite-853b4c.netlify.app/blog/2024-hostile-env-kate/). After her fellowship, she has moved on complete her PhD at the Sorbonne. 
 
@@ -59,7 +62,17 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 *MSc students* 
 
-+ Ridha Mahmood (2023): Impact of climate change on mental health of vulnerable groups
++ Layla Sadek (2025): Exploring the causal relationships between neighbourhood characteristics and severe mental illness: a systematic review
+
++ Saba Ghouri (2025): Exposome approaches in mental health research: a systematic review
+
++ Cherry Ho (2025): Association between handedness and later psychotic experiences and potential mediators: findings from the ALSPAC cohort
+
++ Shruti Menon (2024): Risk factors of suicide and self-harm in people with autism spectrum disorder and attention deficit hyperactivity disorder in England: a primary care cohort study
+
++ Hazhang (Hanz) Wang (2024): Risk of suicide and self-harm following an incident episode of common mental disorders: a cohort study of patients in England
+
++ Ridha Mahmood (2023): [The impact of climate change on mental health in vulnerable groups: a systematic review](https://link.springer.com/epdf/10.1186/s40359-025-03497-z?sharing_token=OQrqEYeK8gRfnMNyFj_Gam_BpE1tBhCbnbw3BuzI2RMqsU0vuF43mOa_wIZ3BCqn_dxknXK66xITy7Q6fglkvzHmDfD6ph2zIxVO2kB9_Gcl24JOh7S1E0aGtu2r5wp-W3m1lheuzzWizo4eF1rai5hKZ9PTFtyRZ7MzNApnlvk%3D)
 
 + Liying (Justina) Cao (2023): Urban heat islands and mental health
 
@@ -83,7 +96,7 @@ I have had the opportunity to work with many brilliant students and trainees, in
 
 + [Merle Schlief](https://iris.ucl.ac.uk/iris/browse/profile?upi=MMSCH77)(2020): Differential association between income trajectories in childhood and severe mental illness by migrant status
 
-+ Angela Chase (2020): Neighbourhood-level social capital and incidence of psychosis [preprint](https://osf.io/preprints/psyarxiv/269rx/)
++ Angela Chase (2020):  [Longitudinal association between neighbourhood-level social capital and incidence of major psychiatric disorders in a cohort of 1.4 million people in Sweden](https://www.nature.com/articles/s44220-025-00518-z)
 
 + Kavya Ashok (2019): [Objective and subjective neighbourhood factors and risk of suicidal thoughts and attempts](https://transcendent-sprite-853b4c.netlify.app/blog/2022-neigh-sui/)
 
