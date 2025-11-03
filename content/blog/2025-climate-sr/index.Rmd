@@ -62,7 +62,7 @@ We categorised climate change exposures into three groups:
 + gradual changes like global temperature increases/decreases, sea level rises, or permanently altered environments
 
 
-*Outcome - mental health outcomes* 
+*Outcome - mental health outcomes:* 
 We used linked health care records to look at diagnosis of major psychiatric disorders, including 
 
 + general mental health
@@ -71,7 +71,7 @@ We used linked health care records to look at diagnosis of major psychiatric dis
 
 + symptoms or diagnosis of a mental disorder like depression, anxiety, post traumatic stress disorder, or severe mental illness. 
 
-*Vulnerable populations*
+*Vulnerable populations:*
 We focused on four vulnerable populations: 
 
 + low socioeconomic status groups (e.g. those living in poverty)
