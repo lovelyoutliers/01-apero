@@ -40,7 +40,7 @@ blogdown::install_hugo
 
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="O. Louis Gugleilmi - One third of a nation (1939)"}
-knitr::include_graphics("featured.JPEG")
+knitr::include_graphics("featured.png")
 ```
 
 ### Background
