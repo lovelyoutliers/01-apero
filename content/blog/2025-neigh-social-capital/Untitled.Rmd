@@ -17,8 +17,6 @@ categories:
   - Research
   - News
   - Sweden
-series:
- - Social determinants of health
 draft: false
 layout: single
 image_left: true
@@ -40,8 +38,14 @@ blogdown::install_hugo
 
 
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="O. Louis Gugleilmi - One third of a nation (1939)"}
+knitr::include_graphics("featured.jpeg")
+```
+
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Gustave Courbet - The young ladies on the bank of the Seine (1856)"}
 knitr::include_graphics("featured.png")
 ```
+
 
 ### Background
 Social capital - the trust within communities, shared resources, values, and connections - has been linked to mental health. Strong ties within a community may protect against mental health problems, but it is not clear if low social capital is a risk factor for psychotic and bipolar disorders.  
