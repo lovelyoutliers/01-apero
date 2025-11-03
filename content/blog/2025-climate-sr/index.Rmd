@@ -1,92 +1,120 @@
 ---
-title: Common mental disorders in young adults
-subtitle: Increase in anxiety & depression treated in primary care driven by an increase in symptoms  
-excerpt: Temporal trends in primary care episodes and self-reported symptoms, published in BMC Mental Health. 
+title: Does the impact of climate change have a disproportionate impact on vulnerable groups? 
+subtitle: A systematic review on the impact of climate change events on the mental health of vulnerable groups 
+excerpt: Climate change is now understood to be a fundamental threat to global health and its impact on mental health is only now being understood. 
 author: J Dykxhoorn
-date: '2025-07-31'
+date: '2025-11-03'
 slug: []
 categories:
   - Anxiety & depression
+  - Climate change
   - Common mental disorders
-  - Deprivation
-  - Ethnicity
-  - Public mental health
-  - Research
-tags: []
+  - PTSD
+  - Severe mental illness
+  - Social determinants of health
+  - Systematic review
+  - Open science
+  - News
 draft: false
 layout: single
 image_left: true
 featured: true
 ---
 
-```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="[Bulat Silvia](https://www.istockphoto.com/portfolio/1StunningArt?mediatype=photography) on iStock)"}
-knitr::include_graphics("featured.jpg")
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library("rmarkdown")
+library("yaml")
+library("blogdown")
+library("knitr")
+library("blogdown")
+
+blogdown::install_hugo
+
 ```
 
-### Background 
-Rates of common mental disorders (CMD) including anxiety, depression, and stress-related disorders have increased in primary care for young people in the last 20 years. However, it is unclear if this reflects changes in help-seeking and/or an increase in symptoms  affect millions of people each year. 
+
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Eugene Isabey - A storm off the Normandy Coast"}
+knitr::include_graphics("featured.png")
+```
+
+
+### Background
+Climate change is now recognised as the largest threat to global health, fundamentally reshaping our world. Climate change has intensified the frequency and severity of weather events like hurricanes, floods, wildfires, heat waves, and droughts. 
+
+The impact of these events on physical health are well-documented, but less is know about the impact of climate change events on mental health. It is important to acknowledge that climate change events do not impact all groups equally, but it is the historically marginalised and vulnerable groups that are often more severely impacted and have fewer resources to recover after a catastrophic event. This large burden of climate change events on vulnerable groups amplifies the high risk for mental health problems they already experience. 
 
 ### Why did we do this research?
-Our previous research found a large increase in CMD, but that the largest increases were observed in the youngest age groups. The incidence of CMD recorded in primary care more than doubled for those aged 16-24 from 2000-2020, and large increases were also observed in those aged 25-34. We did this study to explore the pattern for young adults in more detail, and explore one of the possible explanations for this increase. 
+We did this review to summarise the research that has looked at the impact of climate change events on the mental health of vulnerable groups
 
-Essentially, rates of CMD observed in primary care could increase for several reasons: 
-
-+ symptoms of CMD may have become more common; 
-
-+ young people may be more willing to seek help due to increased mental health literacy and decreased stigma
-
-+ changes in the way primary care practitioners identify, record, and treat CMD
-
-These different mechanisms may co-exist, so in this study, we used primarcy care data and population cohort data to explore if the increases in CMD found in primary care correspond to increased symptoms at the population level. 
-
- 
-
-### What did we do? 
-We used the primary care electronic health records from the Clinical Research Practice Datalink (CPRD) to identify new episodes of CMD recorded in primary care and longitudinal cohort data from Understanding Society (USoc) to identify self-reported symptoms of psychological distress.We used incidence rate ratios, comparing incidence in 2009 to 2019. 
-
-We followed individuals from 2009 to 2019, calculating annual incidence of recorded CMD using multilevel Cox regression in CPRD. We calculated annual CMD symptom scores, and fit multilevel linear regression models. We then calculated the relative change in CMD symptoms over time, comparing CMD symptom socres at the start of the study (2009) to those at the end of follow-up (2019). 
+### What did we do?
+We conducted a systematic review focused on three core concepts: 
 
 
+*Exposure - climate change events:* 
+We categorised climate change exposures into three groups: 
++ acute weather events like hurricanes, floods, wildfires, and heat/cold waves
 
-### What did we find? 
++ sub-acute events like droughts, 
 
-Between 2009 and 2019, recorded CMD increased by 9.90%, while average psychological distress symptoms rose by 19.33%. We saw a larger increase in recorded CMD among males (20.6%) than females (7.7%) but similar increases in CMD symptoms (18.5% in males; 19.8% in females)
-
-
-```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by sex"}
-knitr::include_graphics("sex.png")
-```
-
-We found larger increases in recorded CMD in those ages 16-19 and 20-24 than in older age groups, but could not detect differences in CMD symptoms due to overlapping confidence intervals.
-
-```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by age"}
-knitr::include_graphics("age.png")
-```
++ gradual changes like global temperature increases/decreases, sea level rises, or permanently altered environemnts
 
 
-The gap between recorded CMD by deprivation was narrowing over time, with larger increases in recorded CMD in less deprived areas compared to th emost deprived areas. However, symptoms remained elevated in the most deprived, with comparible rises in symptoms, suggesting an increasing care gap. 
+*Outcome - mental health outcomes* 
+We used linked health care records to look at diagnosis of major psychiatric disorders, including 
++ general mental health
 
-```{r, echo=FALSE, out.width="100%", fig.align = 'center', fig.cap="Primary care-recorded CMD and CMD symptoms, by deprivation"}
-knitr::include_graphics("deprivation.png")
-```
++ psychological distress
+
++ symptoms or diagnosis of a mental disorder like depression, anxiety, post traumatic stress disorder, or severe mental illness. 
+
+*Vulnerable populations*
+We focused on four vulnerable populations: 
++ low socioeconomic status groups (e.g. those living in poverty)
+
++ minoritised ethnic or racial groups
+
++ Indigenous groups
+
++ housing-insecure or homeless groups
 
 
-### What does this mean? 
+*Analysis:* We searched five databases. All titles and abstracts were screened by two independent reviewers, followed by full-text screening by these reviewers. We calculated the level of agreement between these reviewers and any disagreements were discussed with a third independent reviewer to reach consensus. 
 
-We found increases in recorded CMD among young people in the UK between 2009 and 2019. This increase was most pronounced in the youngest age groups (ages 16-19) and later-born cohorts (born 1995 or later). We also found increases in symptoms of common mental disorders over the same time period. 
-
-These increases highlight the urgency of taking action to support the mental health of young adults. 
+We extracted detailed information from each included study, before doing a quality appraisal and narrative synthesis of the findings. 
 
 
-### Read more 
+### What did we find?
 
-The full article was published open-access in BMJ Mental Health and is available
-[here](https://www.cambridge.org/core/journals/psychological-medicine/article/temporal-patterns-in-the-recorded-annual-incidence-of-common-mental-disorders-over-two-decades-in-the-united-kingdom-a-primary-care-cohort-study/5FDB89622CEED13B8538CAA28E837144)
+We included 32 studies in this review, most of which focused on acute weather events and low socioeconomic status populations.  
 
-This study was also summarised on [UCL News](https://www.ucl.ac.uk/news/2025/jul/increase-mental-illness-symptoms-among-young-people) and [NIHR SPHR](https://sphr.nihr.ac.uk/news-and-events/news/increase-in-mental-illness-symptoms-among-young-people/)
+We found that vulnerable groups generally experienced worse mental health outcomes following climate change events compared to other populations, although some studies found mixed or null events. 
+
+Importantly, we identified critical evidence gaps, including limited high-quality research on sub-acute or gradual climate change events, Indigenous or housing-insecure groups, and research from low-and-middle-income countries. 
 
 
 
-### Do you have questions about common mental disorders? 
+### What does this mean?
 
-Click here if you want to learn more about the symptoms and treatment of common mental disorders like [anxiety](https://www.nhsinform.scot/illnesses-and-conditions/mental-health/anxiety) or [depression](https://www.nhsinform.scot/illnesses-and-conditions/mental-health/depression).  
+Overall, vulnerable groups experience worse mental health after exposure to climate change events, however, there are large gaps in the evidence which means we cannot fully understand the relationship between social inequality and the mental health impact of climate change. 
+
+
+
+
+### Read more
+
+You can read the full paper here [BMC Psychology](https://link.springer.com/epdf/10.1186/s40359-025-03497-z?sharing_token=OQrqEYeK8gRfnMNyFj_Gam_BpE1tBhCbnbw3BuzI2RMqsU0vuF43mOa_wIZ3BCqn_dxknXK66xITy7Q6fglkvzHmDfD6ph2zIxVO2kB9_Gcl24JOh7S1E0aGtu2r5wp-W3m1lheuzzWizo4eF1rai5hKZ9PTFtyRZ7MzNApnlvk%3D). 
+
+Read a short news stury on the [Science Magazine](https://scienmag.com/climate-changes-mental-health-toll-on-vulnerable-groups/).
+
+
+### Open science
+
+*Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/view/CRD42023442489)
+*Pre-print:* [OSF](https://osf.io/af3z4_v1/)
+
+
+### Behind the research
+
+This systematic review was led by Ridha Mahmood as part of her MSc dissertation in the UCL Division of Psychiatry. Justina (Liying) Cao, another MSc student in her cohort was the second reviewer. Pip Clery, Justin Yang, and myself provided academic supervision for the project. 
