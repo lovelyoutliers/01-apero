@@ -22,6 +22,7 @@ layout: single
 image_left: true
 featured: true
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
@@ -36,14 +37,8 @@ blogdown::install_hugo
 ```
 
 
-
 ```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="O. Louis Gugleilmi - One third of a nation (1939)"}
 knitr::include_graphics("featured.jpeg")
-```
-
-
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Gustave Courbet - The young ladies on the bank of the Seine (1856)"}
-knitr::include_graphics("featured.png")
 ```
 
 
