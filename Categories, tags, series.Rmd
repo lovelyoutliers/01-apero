@@ -4,8 +4,9 @@ categories:
   - Affective disorders
   - Anxiety & depression
   - Bayesian
-  - Causal inference
   - Bipolar & mania
+  - Causal inference
+  - Climate change
   - Common mental disorders
   - Deprivation
   - Directed acyclic graph

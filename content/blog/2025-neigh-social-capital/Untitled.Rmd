@@ -1,22 +1,20 @@
 ---
-title: Does neighbourhood-level social capital affect mental health? 
-subtitle: Neighbourhood-level social capital and the incdence of severe mental illness
-excerpt: Social capital, including trust and cohesion within your community, has been linked to mental health, but does the average level of neighbourhood-level social capital shape your risk of developing severe mental illness?
+title: Does the impact of climate change have a disproportionate impact on vulnerable groups? 
+subtitle: A systematic review on the impact of climate change events on the mental health of vulnerable groups 
+excerpt: Climate change is now understood to be a fundamental threat to global health and its impact on mental health is only now being understood. 
 author: J Dykxhoorn
-date: '2025-10-31'
+date: '2025-11-03'
 slug: []
 categories:
-  - Bipolar & mania
-  - Neighbourhood
-  - Schizophrenia & psychosis
+  - Anxiety & depression
+  - Climate change
+  - Common mental disorders
+  - PTSD
   - Severe mental illness
   - Social determinants of health
-  - Epidemiology
-  - Longitudinal
+  - Systematic review
   - Open science
-  - Research
   - News
-  - Sweden
 draft: false
 layout: single
 image_left: true
@@ -37,71 +35,86 @@ blogdown::install_hugo
 ```
 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="O. Louis Gugleilmi - One third of a nation (1939)"}
-knitr::include_graphics("featured.jpeg")
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Eugene Isabey - A storm off the Normandy Coast"}
+knitr::include_graphics("featured.png")
 ```
 
 
 ### Background
-Social capital - the trust within communities, shared resources, values, and connections - has been linked to mental health. Strong ties within a community may protect against mental health problems, but it is not clear if low social capital is a risk factor for psychotic and bipolar disorders.  
+Climate change is now recognised as the largest threat to global health, fundamentally reshaping our world. Climate change has intensified the frequency and severity of weather events like hurricanes, floods, wildfires, heat waves, and droughts. 
+
+The impact of these events on physical health are well-documented, but less is know about the impact of climate change events on mental health. It is important to acknowledge that climate change events do not impact all groups equally, but it is the historically marginalised and vulnerable groups that are often more severely impacted and have fewer resources to recover after a catastrophic event. This large burden of climate change events on vulnerable groups amplifies the high risk for mental health problems they already experience. 
 
 ### Why did we do this research?
-There is very little longitudinal evidence looking the link between social capital and risk of developing psychiatric disorders. 
+We did this review to summarise the research that has looked at the impact of climate change events on the mental health of vulnerable groups
 
 ### What did we do?
-*Study population:* We used data Stockholm County in Sweden. We included 1.47 million adults born in Sweden who were living in Stockholm county after 2002. 
+We conducted a systematic review focused on three core concepts: 
 
 
-*Exposure - social capital:* 
-We measured median levels of neighbourhood trust across all neighbourhoods (SAMS) in Stockholm County, based on responses to 13 questions in the Stockholm Public Health Cohort Survey. Broadly, these questions measured levels of political trust, welfare trust, and personal trust. 
+*Exposure - climate change events:* 
+We categorised climate change exposures into three groups: 
++ acute weather events like hurricanes, floods, wildfires, and heat/cold waves
+
++ sub-acute events like droughts, 
+
++ gradual changes like global temperature increases/decreases, sea level rises, or permanently altered environemnts
 
 
-
-*Outcome - major psychiatric disorders* 
+*Outcome - mental health outcomes* 
 We used linked health care records to look at diagnosis of major psychiatric disorders, including 
-+ Non-affective psychosis (including schizophrenia)
++ general mental health
 
-+ Affective psychotic disorders (e.g. bipolar disorder with psychosis)
++ psychological distress
 
-+ Bipolar disorder without psychosis
++ symptoms or diagnosis of a mental disorder like depression, anxiety, post traumatic stress disorder, or severe mental illness. 
+
+*Vulnerable populations*
+We focused on four vulnerable populations: 
++ low socioeconomic status groups (e.g. those living in poverty)
+
++ minoritised ethnic or racial groups
+
++ Indigenous groups
+
++ housing-insecure or homeless groups
 
 
+*Analysis:* We searched five databases. All titles and abstracts were screened by two independent reviewers, followed by full-text screening by these reviewers. We calculated the level of agreement between these reviewers and any disagreements were discussed with a third independent reviewer to reach consensus. 
 
-*Analysis:* We first explored correlations between psychiatric disorders and neighbourhood-level social capital. We then used multilevel survival modelling to explore if exposure to social capital was associated with the three psychiatric outcomes, which we also adjusted for a range of factors. 
-
-
-To check that the results were robust, we did several sensitivity analyses. First, we re-calculated neighbourhood social capital scores excluding those who went on to develop psychiatric disorders. We also did an instrumental variable analysis using median neighbourhood votor turnout as an instrument for personal in the neighbourhood. 
+We extracted detailed information from each included study, before doing a quality appraisal and narrative synthesis of the findings. 
 
 
 ### What did we find?
 
-Social capital affected the rates of major psychiatric disorders. 
+We included 32 studies in this review, most of which focused on acute weather events and low socioeconomic status populations.  
 
-Importantly, this association depended on your migrant background. High levels of social capital was associated with lower rates of psychiatric disorders in the Swedish-born group and for others of European heritage. However, for people of Sub-Saharan African, North African, or Middle Eastern heritage, high levels of social capital was associated with higher rates of psychiatric disorders. 
+We found that vulnerable groups generally experienced worse mental health outcomes following climate change events compared to other populations, although some studies found mixed or null events. 
+
+Importantly, we identified critical evidence gaps, including limited high-quality research on sub-acute or gradual climate change events, Indigenous or housing-insecure groups, and research from low-and-middle-income countries. 
+
+
 
 ### What does this mean?
 
-This different finding for Swedish-born and migrant groups suggests that there is a protective effect of social capital for the Swedish group, but that social capital may act to exclude minoritised groups, consequently increasing rates of mental illness in these groups. 
-
-If causal, these results suggest that social capital can be beneficial in the general population, however it is important to consider the impact on minoritised groups as it may be harmful for different groups in the population. 
+Overall, vulnerable groups experience worse mental health after exposure to climate change events, however, there are large gaps in the evidence which means we cannot fully understand the relationship between social inequality and the mental health impact of climate change. 
 
 
 
 
 ### Read more
 
-You can read the full paper here [Nature Mental Health](https://www.nature.com/articles/s44220-025-00518-z). 
+You can read the full paper here [BMC Psychology](https://link.springer.com/epdf/10.1186/s40359-025-03497-z?sharing_token=OQrqEYeK8gRfnMNyFj_Gam_BpE1tBhCbnbw3BuzI2RMqsU0vuF43mOa_wIZ3BCqn_dxknXK66xITy7Q6fglkvzHmDfD6ph2zIxVO2kB9_Gcl24JOh7S1E0aGtu2r5wp-W3m1lheuzzWizo4eF1rai5hKZ9PTFtyRZ7MzNApnlvk%3D). 
 
-Read a summary of this work on the [Karolinska Institutet site](https://news.ki.se/neighbourhood-trust-benefits-some-more-than-others)
+Read a short news stury on the [Science Magazine](https://scienmag.com/climate-changes-mental-health-toll-on-vulnerable-groups/).
 
 
 ### Open science
 
-*Pre-registered protocol:* [OSF](https://osf.io/n3dgs)
-*Pre-print:* [PsyArXiv](https://osf.io/preprints/psyarxiv/269rx_v3)
-*Analytic code:* [OSF](https://osf.io/zn67w/files/zye52)
+*Pre-registered protocol:* [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/view/CRD42023442489)
+*Pre-print:* [OSF](https://osf.io/af3z4_v1/)
 
 
 ### Behind the research
 
-This project started as an Angela Song-Chase's MSc project, supervised by Prof James Kirkbride and me. James conducted additional sensitivity analysis to strengthen the manuscript, providing an exemplar of a rigorous exploration of this research question. 
+This systematic review was led by Ridha Mahmood as part of her MSc dissertation in the UCL Division of Psychiatry. Justina (Liying) Cao, another MSc student in her cohort was the second reviewer. Pip Clery, Justin Yang, and myself provided academic supervision for the project. 
