@@ -1,5 +1,5 @@
 ---
-title: Can your neighbourhood shape your mental health?
+title: Can your neighbourhood shape your suicide risk?
 subtitle: Neighbourhood factors and suicidality
 excerpt: Objective and subjective neighbourhood factors and suicidality, published in Psychological Medicine
 show_title_as_headline: true
@@ -15,6 +15,7 @@ categories:
   - Neighbourhood
   - Sweden
   - Social determinants of health
+  - Epidemiology
 layout: single
 ---
 
