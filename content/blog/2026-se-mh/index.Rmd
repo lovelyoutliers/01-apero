@@ -18,8 +18,6 @@ categories:
   - Social exclusion
   - Understanding Society
   - UK
-series:
-  - Social determinants of health
 draft: false
 layout: single
 image_left: true
@@ -66,7 +64,7 @@ We estimated mental health problems based on answers to the 12-item General Heal
 *Analysis:* We first calculated descriptive statistics on the sample. We fitted survey-weighted linear regression models, adjusted for age, sex, and ethnicity. We also used multiple imputation to account for missing data. 
 
 
-```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Geographic distribution of social exclusion in England"}
+```{r, echo=FALSE, out.width="75%", fig.align = 'center', fig.cap="Geographic distribution of social exclusion in England, darker colour indicates higher levels of social exclusion"}
 knitr::include_graphics("fig2.png")
 ```
 
