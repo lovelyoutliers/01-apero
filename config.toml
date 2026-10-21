@@ -160,3 +160,7 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+    
+[security]
+  allowContent = ['^text/html$', '^text/org$', '^text/markdown$']
+  enableInlineShortcodes = false

@@ -17,6 +17,9 @@ keep_md: yes
 ---
 
 ## Peer-reviewed publications
+Arellano Spano M, Osborn DPJ, Launders N, Kirkbride JB, Dykxhoorn J. [Exploring the associations between social exclusion and mental health problems](https://link.springer.com/article/10.1007/s00127-026-03196-z). Social Psychiatry and Psychiatric Epidemiology 2026, Aug 1-13. 
+*Pre-registered protocol:* [OSF](https://osf.io/79vgz/overview)
+
 Song-Chase A, Dykxhoorn J, Hollander A-C, Magnusson C, Dalman C, Kirkbride JB. [Longitudinal association between neighbourhood-level social capital and incidence of major psychiatric disorders in a cohort of 1.4 million people in Sweden](https://www.nature.com/articles/s44220-025-00518-z). Nature Mental Health 2025, Oct: 1-26. 
 *Pre-registered protocol:* [OSF](https://osf.io/n3dgs)
 *Pre-print:* [PsyArXiv](https://osf.io/preprints/psyarxiv/269rx_v3)
